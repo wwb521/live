@@ -123,7 +123,7 @@ NewTV明星大片,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/
 NewTV欢乐剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
 NewTV武搏世界,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
 NewTV海外剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
-NewTV潮妈辣婆,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8#http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8
+NewTV潮妈辣婆,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
 NewTV爱情喜剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
 NewTV精品大剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
 NewTV精品纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
@@ -136,17 +136,13 @@ NewTV精品萌宠,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/
 
 轮播,#genre#
 音乐欣赏,http://mmitv.top/test/douyu.php?id=3186217
-超清港剧3,http://lxajh.top/tv/douyu.php?id=5261342
 片源多多,http://lxajh.top/tv/douyu.php?id=7476264
 港剧天地,http://lxajh.top/tv/douyu.php?id=4290711
 港剧天地2,http://lxajh.top/tv/douyu.php?id=5522351
-橙记港剧,http://lxajh.top/tv/douyu.php?id=4549169
-邵氏电影,http://lxajh.top/tv/douyu.php?id=4246519
 路飞电影,http://tv.yszlm.top/yy.php?id=18312
 邦德影院,http://epg.112114.xyz/douyu/9292499
 国语港片,http://lxajh.top/tv/douyu.php?id=434971
 冰冰港片,http://lxajh.top/tv/douyu.php?id=74374
-冰冰经典,http://lxajh.top/tv/douyu.php?id=3928
 恐怖电影4,http://diyp.112114.xyz/douyu/310926
 欢乐综艺,http://mmitv.top/test/douyu.php?id=131977
 豆瓣高分,http://mmitv.top/test/douyu.php?id=8770422
@@ -203,7 +199,6 @@ yy经典怀旧,http://mmitv.top/pltv/yy.php?id=1382627144
 新三国,http://mmitv.top/pltv/yy.php?id=26744898
 宰相刘罗锅,http://mmitv.top/pltv/yy.php?id=1353892468#http://mmitv.top/pltv/yy.php?id=1382745191
 鹿鼎记-高清全集,http://mmitv.top/pltv/yy.php?id=1382704650
-港剧悬疑破案,http://mmitv.top/pltv/yy.php?id=10425097
 斗罗斗破,http://mmitv.top/pltv/yy.php?id=1354768828#http://mmitv.top/pltv/yy.php?id=1354768831
 玲宝陪你看,http://mmitv.top/pltv/yy.php?id=1353215589
 父母爱情,http://mmitv.top/pltv/yy.php?id=1354926650#http://mmitv.top/pltv/yy.php?id=1382851594#http://mmitv.top/pltv/yy.php?id=1382746276
@@ -220,15 +215,12 @@ yy经典怀旧,http://mmitv.top/pltv/yy.php?id=1382627144
 《武林外传》武侠,http://mmitv.top/pltv/yy.php?id=1394000563
 皮蛋影视 正在直播,http://mmitv.top/pltv/yy.php?id=23055599
 【雪豹】超经典,http://mmitv.top/pltv/yy.php?id=1450496699
-兔牙妹吖正在直播,http://mmitv.top/pltv/yy.php?id=1353782648
 神探狄仁杰1,http://mmitv.top/pltv/yy.php?id=1382851575#http://mmitv.top/pltv/yy.php?id=1354930934
-泡芙陪你看电影,http://mmitv.top/pltv/yy.php?id=24407222
 情满四合院,http://mmitv.top/pltv/yy.php?id=1382736888#http://mmitv.top/pltv/yy.php?id=1382736848#http://mmitv.top/pltv/yy.php?id=1382851524#http://mmitv.top/pltv/yy.php?id=1382851601
 读心神探,http://mmitv.top/pltv/yy.php?id=1382736875#http://mmitv.top/pltv/yy.php?id=1382851589
 24小时小雅陪你看,http://mmitv.top/pltv/yy.php?id=1331686180
 花儿开心吧,http://mmitv.top/pltv/yy.php?id=1354930984
 经典港片电影,http://mmitv.top/pltv/yy.php?id=1382793140
-24小时播放,http://mmitv.top/pltv/yy.php?id=29067083
 林正英 僵尸鬼片,http://mmitv.top/pltv/yy.php?id=1459714870
 举起手来-惊险抗日,http://mmitv.top/pltv/yy.php?id=1382736877
 大话西游至尊宝,http://mmitv.top/pltv/yy.php?id=1382736910#http://mmitv.top/pltv/yy.php?id=1382851590
@@ -278,7 +270,6 @@ yy经典怀旧,http://mmitv.top/pltv/yy.php?id=1382627144
 欢乐集结号,http://mmitv.top/pltv/yy.php?id=1354931582#http://mmitv.top/pltv/yy.php?id=1382735550#http://mmitv.top/pltv/yy.php?id=1382749911
 鬼片.惊悚.港片,http://mmitv.top/pltv/yy.php?id=1355497884
 法证先锋Ⅲ,http://mmitv.top/pltv/yy.php?id=1382736802
-林正英经典,http://mmitv.top/pltv/yy.php?id=1353312849
 三国演义94年经典版,http://mmitv.top/pltv/yy.php?id=1354936241
 欢乐颂,http://mmitv.top/pltv/yy.php?id=1382735624
 欢乐集结号2,http://mmitv.top/pltv/yy.php?id=1354930919
