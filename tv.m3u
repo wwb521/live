@@ -1,9 +1,5 @@
 #EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml
 #EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/CCTV1" tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视",CCTV1
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/CCTV1" tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视",CCTV1
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/1.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/CCTV1" tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视",CCTV1
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/CCTV1" tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视",CCTV1
 http://[2409:8087:2001:20:2800:0:df6e:eb07]/wh7f454c46tw3252572940_481357165/ott.mobaibox.com/PLTV/3/224/3221227467/index.m3u8?icpid=3&RTS=1668593752&from=40&ocs=2_2409:8087:2001:20:2800:0:df6e:eb0a_80&popid=40&hms_devid=2036&prioritypopid=40&vqe=3
@@ -13,8 +9,6 @@ http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001068/index.m3
 http://[2409:8087:2001:20:2800:0:df6e:eb1a]/wh7f454c46tw1868232_1764604972/ott.mobaibox.com/PLTV/3/224/3221227715/index.m3u8?icpid=3&RTS=1661190272&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/CCTV1" tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视",CCTV1
 http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221227467/index.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/CCTV2" tvg-id="CCTV2" tvg-name="CCTV2" group-title="央视",CCTV2
-http://124.165.251.82:9999/tsfile/live/0002_1.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/CCTV2" tvg-id="CCTV2" tvg-name="CCTV2" group-title="央视",CCTV2
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001332/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/CCTV2" tvg-id="CCTV2" tvg-name="CCTV2" group-title="央视",CCTV2
@@ -110,8 +104,6 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/CCTV7" tvg-id="CCTV7" tvg-name="CCTV7" group-title="央视",CCTV7
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001291/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/CCTV7" tvg-id="CCTV7" tvg-name="CCTV7" group-title="央视",CCTV7
-http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225671/index.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/CCTV7" tvg-id="CCTV7" tvg-name="CCTV7" group-title="央视",CCTV7
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/CCTV7" tvg-id="CCTV7" tvg-name="CCTV7" group-title="央视",CCTV7
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/1.m3u8
@@ -149,8 +141,6 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/1.m3u8
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001294/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/CCTV9" tvg-id="CCTV9" tvg-name="CCTV9" group-title="央视",CCTV9
 http://[2409:8087:2001:20:2800:0:df6e:eb17]/ott.mobaibox.com/PLTV/4/224/3221227704/index.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/CCTV10" tvg-id="CCTV10" tvg-name="CCTV10" group-title="央视",CCTV10
-http://124.165.251.82:9999/tsfile/live/0010_1.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/CCTV10" tvg-id="CCTV10" tvg-name="CCTV10" group-title="央视",CCTV10
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/CCTV10" tvg-id="CCTV10" tvg-name="CCTV10" group-title="央视",CCTV10
@@ -191,8 +181,6 @@ http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225669/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/1.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/CCTV12" tvg-id="CCTV12" tvg-name="CCTV12" group-title="央视",CCTV12
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001289/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/CCTV12" tvg-id="CCTV12" tvg-name="CCTV12" group-title="央视",CCTV12
-http://[2409:8087:74F1:0021::0008]:80/270000001322/69900158041111100000002147/1.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/CCTV12" tvg-id="CCTV12" tvg-name="CCTV12" group-title="央视",CCTV12
 http://[2409:8087:2001:20:2800:0:df6e:eb0a]/ott.mobaibox.com/PLTV/4/224/3221227655/index.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/CCTV13" tvg-id="CCTV13" tvg-name="CCTV13" group-title="央视",CCTV13
@@ -357,8 +345,6 @@ http://[2409:8087:2001:20:2800:0:df6e:eb21]/ott.mobaibox.com/PLTV/3/224/32212284
 http://[2409:8087:2001:20:2800:0:df6e:eb0a]/ott.mobaibox.com/PLTV/4/224/3221227732/index.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/湖南卫视" tvg-id="湖南卫视" tvg-name="湖南卫视" group-title="卫视",湖南卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225799/1.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/湖南卫视" tvg-id="湖南卫视" tvg-name="湖南卫视" group-title="卫视",湖南卫视
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226211/1.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/湖南卫视" tvg-id="湖南卫视" tvg-name="湖南卫视" group-title="卫视",湖南卫视
 http://dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221225799/index.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/湖南卫视" tvg-id="湖南卫视" tvg-name="湖南卫视" group-title="卫视",湖南卫视
@@ -767,8 +753,6 @@ http://[2409:8087:7001:20:1000::95]:6610/000000001000/5841816227539527643/index.
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000320630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000320630&livemode=1&stbId=3
 #EXTINF:-1,4K影院
 http://epg.112114.xyz/douyu/9249162
-#EXTINF:-1,天映经典
-http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=571182
 #EXTINF:-1,iHOT爱院线
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
 #EXTINF:-1,iHOT爱科幻
@@ -873,8 +857,6 @@ http://tv.yszlm.top/yy.php?id=18312
 http://epg.112114.xyz/douyu/9292499
 #EXTINF:-1,国语港片
 http://lxajh.top/tv/douyu.php?id=434971
-#EXTINF:-1,冰冰港片
-http://lxajh.top/tv/douyu.php?id=74374
 #EXTINF:-1,恐怖电影4
 http://diyp.112114.xyz/douyu/310926
 #EXTINF:-1,欢乐综艺
@@ -887,8 +869,6 @@ http://mmitv.top/test/douyu.php?id=6140589
 http://mmitv.top/test/douyu.php?id=1165374
 #EXTINF:-1,童年阴影
 http://mmitv.top/test/douyu.php?id=2935323
-#EXTINF:-1,惊悚电影
-http://mmitv.top/test/douyu.php?id=96577
 #EXTINF:-1,粤语电影
 http://mmitv.top/test/douyu.php?id=6566671
 #EXTINF:-1,华语影视
@@ -917,10 +897,6 @@ http://mmitv.top/pltv/yy.php?id=21092633
 http://mmitv.top/pltv/yy.php?id=1382737886
 #EXTINF:-1,【狂飙2老默】首播
 http://mmitv.top/pltv/yy.php?id=1354790484
-#EXTINF:-1,【战狼3吴京】独播
-http://mmitv.top/pltv/yy.php?id=37999586
-#EXTINF:-1,豪哥带我们发财
-http://mmitv.top/pltv/yy.php?id=23402146
 #EXTINF:-1,【鹿鼎记】金庸经典
 http://mmitv.top/pltv/yy.php?id=28265277
 #EXTINF:-1,封神榜
@@ -935,8 +911,6 @@ http://mmitv.top/pltv/yy.php?id=1355112116
 http://mmitv.top/pltv/yy.php?id=23512910
 #EXTINF:-1,赵本山《蓝光版》
 http://mmitv.top/pltv/yy.php?id=32160832
-#EXTINF:-1,少年包青天1~3蓝光版
-http://mmitv.top/pltv/yy.php?id=38498680
 #EXTINF:-1,66车讯
 http://mmitv.top/pltv/yy.php?id=1382571192
 #EXTINF:-1,鹿鼎记-周星驰版
@@ -1037,8 +1011,6 @@ http://mmitv.top/pltv/yy.php?id=1382765507
 http://mmitv.top/pltv/yy.php?id=33897188
 #EXTINF:-1,赵本山《超清版》
 http://mmitv.top/pltv/yy.php?id=1382683959
-#EXTINF:-1,倚天屠龙记
-http://mmitv.top/pltv/yy.php?id=1449856066
 #EXTINF:-1,倚天屠龙记
 http://mmitv.top/pltv/yy.php?id=33300793
 #EXTINF:-1,24灌篮高手正在直播
