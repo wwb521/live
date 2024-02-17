@@ -496,8 +496,6 @@ http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001299/index.m3
 #EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/湖北卫视" tvg-id="湖北卫视" tvg-name="湖北卫视" group-title="卫视",湖北卫视
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001347/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/湖北卫视" tvg-id="湖北卫视" tvg-name="湖北卫视" group-title="卫视",湖北卫视
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226194/index.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/湖北卫视" tvg-id="湖北卫视" tvg-name="湖北卫视" group-title="卫视",湖北卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226206/index.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/湖北卫视" tvg-id="湖北卫视" tvg-name="湖北卫视" group-title="卫视",湖北卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
@@ -1031,8 +1029,6 @@ http://mmitv.top/pltv/yy.php?id=1382736888
 http://mmitv.top/pltv/yy.php?id=1382736848
 #EXTINF:-1,情满四合院
 http://mmitv.top/pltv/yy.php?id=1382851524
-#EXTINF:-1,情满四合院
-http://mmitv.top/pltv/yy.php?id=1382851601
 #EXTINF:-1,读心神探
 http://mmitv.top/pltv/yy.php?id=1382736875
 #EXTINF:-1,读心神探
