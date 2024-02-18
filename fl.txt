@@ -393,3 +393,41 @@ Threesome,http://live.redtraffic.xyz/threesome.m3u8
 番號,#genre#
 ABP-981,https://siwazywcdn2.com:5278/zhongwenzimu/yUJdhNRX/index.m3u8
 DASD-819,https://siwazywcdn2.com:5278/zhongwenzimu/9EXSkId8/index.m3u8
+
+AM,#genre#
+AdultIPTV.net Big Dick (720p),https://cdn.adultiptv.net/bigdick.m3u8
+AdultIPTV.net Big Tits (720p),https://cdn.adultiptv.net/bigtits.m3u8
+AdultIPTV.net Blowjob (720p),https://cdn.adultiptv.net/blowjob.m3u8
+AdultIPTV.net Cuckold (720p),https://cdn.adultiptv.net/cuckold.m3u8
+AdultIPTV.net Fetish (720p),https://cdn.adultiptv.net/fetish.m3u8
+AdultIPTV.net Gangbang (720p),https://cdn.adultiptv.net/gangbang.m3u8
+AdultIPTV.net Gay (720p),https://cdn.adultiptv.net/gay.m3u8
+AdultIPTV.net Interracial (720p),https://cdn.adultiptv.net/interracial.m3u8
+AdultIPTV.net Live Cams (720p),https://cdn.adultiptv.net/livecams.m3u8
+AdultIPTV.net MILF (720p),https://cdn.adultiptv.net/milf.m3u8
+AdultIPTV.net POV (720p),https://cdn.adultiptv.net/pov.m3u8
+AdultIPTV.net Russian (720p),https://cdn.adultiptv.net/russian.m3u8
+AdultIPTV.net Teen (720p),https://cdn.adultiptv.net/teen.m3u8
+AdultIPTV.net Woman (720p),https://live.redtraffic.net/woman.m3u8
+MyCamTV Arab (720p),http://live.mycamtv.com/arab.m3u8
+MyCamTV Asian (720p),https://live.mycamtv.com/asian.m3u8
+MyCamTV Big Ass (720p),https://live.mycamtv.com/defstream.m3u8
+MyCamTV Big Tits (720p),https://live.mycamtv.com/bigtits.m3u8
+MyCamTV Blowjob (720p),http://live.mycamtv.com/blowjob.m3u8
+MyCamTV Brunette (720p),https://live.mycamtv.com/brunette.m3u8
+MyCamTV Medium (720p),http://live.mycamtv.com/medium.m3u8
+MyCamTV MILF (720p),http://live.mycamtv.com/milf.m3u8
+MyCamTV Teen (720p),http://live.mycamtv.com/teen.m3u8
+MyCamTV Young (720p),http://live.mycamtv.com/young.m3u8
+Penthouse Gold (1080p),http://51.159.102.100/PenthouseGold/index.m3u8
+Redlight HD (720p),https://cdn-main.lolokoko.tv/REDLIGHT.stream/chunks.m3u8
+一本00,https://vip4.ddyunbo.com/20210208/6LaKp6lZ/index.m3u8
+二本01,https://vip4.ddyunbo.com/20210209/dEzJjeSU/index.m3u8
+一本03,http://live.redtraffic.xyz:80/bigass.m3u8
+二本04,http://live.redtraffic.xyz:80/blowjob.m3u8
+欧美01,http://live.redtraffic.xyz/threesome.m3u8?fluxuslust.m3u8
+欧美02,http://live.redtraffic.xyz/bigass.m3u8?fluxuslust.m3u8
+松视1,http://live.redtraffic.xyz:80/fetish.m3u8
+松视2,http://live.redtraffic.xyz:80/bigdick.m3u8
+玩美台,http://live.redtraffic.xyz:80/pov.m3u8
+限制级,http://cdn.adultiptv.net/blonde.m3u8?streamType=livеhls

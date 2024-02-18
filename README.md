@@ -2,7 +2,7 @@
 ## IPV6直播源(经常更新)<br/>
 txt格式直播源地址（已加速）：https://raw.gitmirror.com/wwb521/live/main/tv.txt<br/>
 m3u格式直播源地址（已加速）：https://mirror.ghproxy.com/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u<br/>
-## 妈见打直播源(随缘更新)<br/>
+## 妈见打直播源(不知道能不能看,小心当场尴尬出丑哦，反正我是没看过)<br/>
 txt格式直播源地址（已加速）：https://raw.gitmirror.com/wwb521/live/main/fl.txt<br/>
 m3u格式直播源地址（已加速）：https://mirror.ghproxy.com/https://raw.githubusercontent.com/wwb521/live/main/fl.m3u<br/>
 ## 空壳直播软件<br/>
