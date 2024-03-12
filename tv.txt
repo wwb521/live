@@ -156,18 +156,6 @@ NewTV超级综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/
 NewTV金牌综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
 NewTV精品萌宠,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8#http://ott.mobaibox.com/PLTV/3/224/3221228430/index.m3u8
 
-台湾,#genre#
-民视,rtmp://f13h.mine.nu/sat/tv051
-台视,rtmp://f13h.mine.nu/sat/tv071
-中视,rtmp://f13h.mine.nu/sat/tv091
-华视,rtmp://f13h.mine.nu/sat/tv111
-纬来体育,rtmp://f13h.mine.nu/sat/tv721
-纬来育乐,rtmp://f13h.mine.nu/sat/tv701
-纬来日本,rtmp://f13h.mine.nu/sat/tv771
-东森超视,rtmp://f13h.mine.nu/sat/tv331
-MoMo综合,rtmp://f13h.mine.nu/sat/tv761
-ELEVEN体育1,rtmp://f13h.mine.nu/sat/tv731
-
 轮播,#genre#
 音乐欣赏,http://mmitv.top/test/douyu.php?id=3186217
 片源多多,http://lxajh.top/tv/douyu.php?id=7476264
