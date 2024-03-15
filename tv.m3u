@@ -481,8 +481,6 @@ http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001343/index.m3
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226204/index.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/云南卫视" tvg-id="云南卫视" tvg-name="云南卫视" group-title="卫视",云南卫视
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001046/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/三沙卫视" tvg-id="三沙卫视" tvg-name="三沙卫视" group-title="卫视",三沙卫视
-https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/陕西卫视" tvg-id="陕西卫视" tvg-name="陕西卫视" group-title="卫视",陕西卫视
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001062/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/山西卫视" tvg-id="山西卫视" tvg-name="山西卫视" group-title="卫视",山西卫视
@@ -665,14 +663,6 @@ http://220.194.178.58:8888/newlive/live/hls/53/live.m3u8
 http://live.cooltv.top/tv/cutv.php?id=sxys
 #EXTINF:-1,山西影视
 http://liveflash.sxrtv.com/live/sxfilm.m3u8?sub_m3u8=true&edge_slice=true
-#EXTINF:-1,iHOT爱院线
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000030630/index.m3u8?channelid=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
-#EXTINF:-1,iHOT爱科幻
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000020630/index.m3u8?channelid=wasusyt&Contentid=6000000006000020630&livemode=1&stbId=3
-#EXTINF:-1,iHOT爱浪漫
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000040630/index.m3u8?channelid=wasusyt&Contentid=6000000006000040630&livemode=1&stbId=3
-#EXTINF:-1,iHOT爱喜剧
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000010630/index.m3u8?channelid=wasusyt&Contentid=6000000006000010630&livemode=1&stbId=3
 #EXTINF:-1,iHOT爱奇谈
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000270630/index.m3u8?channelid=wasusyt&Contentid=6000000006000270630&livemode=1&stbId=3
 #EXTINF:-1,iHOT爱谍战
@@ -759,8 +749,6 @@ http://mmitv.top/test/douyu.php?id=6566671
 http://mmitv.top/test/douyu.php?id=3928
 #EXTINF:-1,冰冰影厅
 http://mmitv.top/test/douyu.php?id=74374
-#EXTINF:-1,欧美影院
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/7185203501769528108/index.m3u8?channelid=wasusyt&Contentid=7185203501769528108&livemode=1&stbId=3
 #EXTINF:-1,咪咕直播4K-1
 http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8
 #EXTINF:-1,咪咕直播4K-2

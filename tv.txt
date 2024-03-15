@@ -41,7 +41,6 @@ CCTV17,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8#
 四川卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225970/index.m3u8#http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
 天津卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001343/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225972/index.m3u8#http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226204/1.m3u8#http://dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226204/index.m3u8#http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001343/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226204/index.m3u8
 云南卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001046/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 陕西卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001062/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 山西卫视,http://220.194.178.58:8888/newlive/live/hls/42/live.m3u8#http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001038/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://124.165.251.82:9999/tsfile/live/0118_1.m3u8#http://80ec27bff7f9ae80b961481da488e302.livehwc3.cn/liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=d04ce01474da4193c8863ea281ec4759
 西藏卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001302/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -101,10 +100,6 @@ CHC动作电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 山西影视,http://220.194.178.58:8888/newlive/live/hls/53/live.m3u8#http://live.cooltv.top/tv/cutv.php?id=sxys#http://liveflash.sxrtv.com/live/sxfilm.m3u8?sub_m3u8=true&edge_slice=true
 
 iHOT,#genre#
-iHOT爱院线,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000030630/index.m3u8?channelid=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
-iHOT爱科幻,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000020630/index.m3u8?channelid=wasusyt&Contentid=6000000006000020630&livemode=1&stbId=3
-iHOT爱浪漫,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000040630/index.m3u8?channelid=wasusyt&Contentid=6000000006000040630&livemode=1&stbId=3
-iHOT爱喜剧,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000010630/index.m3u8?channelid=wasusyt&Contentid=6000000006000010630&livemode=1&stbId=3
 iHOT爱奇谈,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000270630/index.m3u8?channelid=wasusyt&Contentid=6000000006000270630&livemode=1&stbId=3
 iHOT爱谍战,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000070630/index.m3u8?channelid=wasusyt&Contentid=6000000006000070630&livemode=1&stbId=3
 iHOT爱历史,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000150630/index.m3u8?channelid=wasusyt&Contentid=6000000006000150630&livemode=1&stbId=3
@@ -154,7 +149,6 @@ NewTV精品萌宠,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/
 粤语电影,http://mmitv.top/test/douyu.php?id=6566671
 华语影视,http://mmitv.top/test/douyu.php?id=3928
 冰冰影厅,http://mmitv.top/test/douyu.php?id=74374
-欧美影院,http://[2409:8087:7001:20:1000::95]:6610/000000001000/7185203501769528108/index.m3u8?channelid=wasusyt&Contentid=7185203501769528108&livemode=1&stbId=3
 
 咪咕直播,#genre#
 咪咕直播4K-1,http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8
