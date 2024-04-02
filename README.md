@@ -1,4 +1,5 @@
 # 使用说明：
+## 本项目仅适用于中国内地的宝宝，所以没有海外频道，作者本人网络环境为中国联通，其他网络环境不知道情况，请大家包容谅解，感谢各位喜欢朋友的支持
 ## IPV6 直播源(经常更新)<br/>
 txt 格式直播源地址（已加速）：https://raw.gitmirror.com/wwb521/live/main/tv.txt<br/>
 m3u 格式直播源地址（已加速）：https://mirror.ghproxy.com/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u<br/>
