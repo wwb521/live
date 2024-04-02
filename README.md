@@ -10,8 +10,9 @@ m3u 格式直播源地址（已加速）：https://mirror.ghproxy.com/https://ra
 
 ## 空壳直播软件<br/>
 https://wwt.lanzouj.com/b00y2bymj 密码:7kkf<br/>
-## 如果你不想折腾，就用别人做好的电视直播软件<br/>
-https://wwt.lanzouj.com/b00xxqs6h 密码:7r7h<br/>
+
+## 如果你觉得我的这些很麻烦，就用下面的这个<br/>
+https://lyrics.run/my-tv.html
 
 ## 更新节目表方法：
 ①如果是用着TVbox这类的软件，既有点播、直播一体的，有些可以自动更新直播源，有些不可以，以派大星直播为例，使用如下截图的方法操作，之后重启软件就可以<br/>
