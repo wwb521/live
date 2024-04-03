@@ -52,7 +52,7 @@ CCTV风云音乐,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch000000909900
 山西卫视,http://80ec27bff7f9ae80b961481da488e302.livehwc3.cn/liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=d04ce01474da4193c8863ea281ec4759
 安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
 
-数字高清,#genre#
+数字,#genre#
 重温经典,http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8#http://mtw.so/5xS2Mh
 CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
@@ -128,6 +128,21 @@ NewTV超级电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/32212257
 NewTV超级综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
 NewTV金牌综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
 NewTV精品萌宠,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
+
+海外,#genre#
+凤凰中文频道,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
+香港凤凰频道,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.flv
+RTHK34频道,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8
+有线新闻台,http://223.71.206.22:30080/HK/hoy78/hls.m3u8
+无线财经台,http://223.71.206.22:30080/HK/j5/hls.m3u8
+VIUTV台粤,http://223.71.206.22:30080/HK/viu/hls.m3u8
+环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
+CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+TVB--功夫台,https://ali.hlspull.yximgs.com/live/12344.flv
+无线新闻台,http://223.71.206.22:30080/HK/wxxw/hls.m3u8
+无线翡翠台,http://223.71.206.22:30080/HK/tvb/hls.m3u8
+无线明珠台,http://223.71.206.22:30080/HK/mz/hls.m3u8
+香港面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 
 轮播,#genre#
 音乐欣赏,http://mmitv.top/test/douyu.php?id=3186217
