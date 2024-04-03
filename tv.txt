@@ -73,17 +73,15 @@ CCTV央视高网,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PL
 安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
 
 山西,#genre#
-山西社会与法治,http://liveflash.sxrtv.com/live/sxedu.m3u8?sub_m3u8=true&edge_slice=true
-黄河电视台,http://liveflash.sxrtv.com/live/huanghe.m3u8?sub_m3u8=true&edge_slice=true
-山西经济与科技,http://liveflash.sxrtv.com/live/sxfinance.m3u8?sub_m3u8=true&edge_slice=true
+黄河,http://liveflash.sxrtv.com/live/huanghe.m3u8?sub_m3u8=true&edge_slice=true#http://live.cooltv.top/tv/cutv.php?id=sxhh
+社会与法治,http://liveflash.sxrtv.com/live/sxedu.m3u8?sub_m3u8=true&edge_slice=true
+经济与科技,http://liveflash.sxrtv.com/live/sxfinance.m3u8?sub_m3u8=true&edge_slice=true#http://live.cooltv.top/tv/tide.php?id=sxjj
 山西影视,http://liveflash.sxrtv.com/live/sxfilm.m3u8?sub_m3u8=true&edge_slice=true#http://live.cooltv.top/tv/cutv.php?id=sxys
-山西文体生活,http://liveflash.sxrtv.com/live/sxpublic.m3u8?sub_m3u8=true&edge_slice=true#http://live.cooltv.top/tv/cutv.php?id=sxgg
+文体生活,http://liveflash.sxrtv.com/live/sxpublic.m3u8?sub_m3u8=true&edge_slice=true#http://live.cooltv.top/tv/cutv.php?id=sxgg
 晋中综合,http://jzlive.jztvnews.com:90/live/jzzh.m3u8
 晋中公共,http://jzlive.jztvnews.com:90/live/jzgg.m3u8
 阳泉综合,https://live.yqrtv.com/xwpd/playlist.m3u8
 阳泉科教,https://live.yqrtv.com/xwchne/playlist.m3u8
-山西黄河,http://live.cooltv.top/tv/cutv.php?id=sxhh
-山西经济,http://live.cooltv.top/tv/tide.php?id=sxjj
 
 数字,#genre#
 重温经典,http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8#http://mtw.so/5xS2Mh
@@ -160,7 +158,7 @@ TVB--功夫台,https://ali.hlspull.yximgs.com/live/12344.flv
 华语影视,http://mmitv.top/test/douyu.php?id=3928
 冰冰影厅,http://mmitv.top/test/douyu.php?id=74374
 
-咪咕直播,#genre#
+咪咕,#genre#
 咪咕直播4K-1,http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8
 咪咕直播-1,http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225611/index.m3u8
 咪咕直播-3,http://[2409:8087:1a01:df::4017]/PLTV/88888888/224/3221225619/index.m3u8
