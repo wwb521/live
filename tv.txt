@@ -51,7 +51,7 @@ CCTV17,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 三沙卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?
 
 山西,#genre#
-黄河,http://liveflash.sxrtv.com/live/huanghe.m3u8?sub_m3u8=true&edge_slice=true#http://live.cooltv.top/tv/cutv.php?id=sxhh
+黄河,http://60.223.72.159:8003/rtp/226.0.2.235:9792#http://liveflash.sxrtv.com/live/huanghe.m3u8?sub_m3u8=true&edge_slice=true#http://live.cooltv.top/tv/cutv.php?id=sxhh
 社会与法治,http://liveflash.sxrtv.com/live/sxedu.m3u8?sub_m3u8=true&edge_slice=true
 经济与科技,http://liveflash.sxrtv.com/live/sxfinance.m3u8?sub_m3u8=true&edge_slice=true#http://live.cooltv.top/tv/tide.php?id=sxjj
 山西影视,http://liveflash.sxrtv.com/live/sxfilm.m3u8?sub_m3u8=true&edge_slice=true#http://live.cooltv.top/tv/cutv.php?id=sxys
