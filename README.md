@@ -15,7 +15,7 @@ txt 格式直播源地址（已加速）：https://raw.githubusercontent.com/wwb
 m3u 格式直播源地址（已加速）：https://raw.githubusercontent.com/wwb521/live/main/fl.m3u<br/>
 
 ## 空壳直播软件<br/>
-https://wwt.lanzouj.com/b00y2bymj 密码:7kkf<br/>
+https://wwt.lanzouj.com/b00xxqs6h 密码:7r7h<br/>
 
 ## 如果你觉得我的这些很麻烦，就用下面的这个<br/>
 https://lyrics.run/my-tv.html<br/>
