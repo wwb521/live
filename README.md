@@ -27,7 +27,7 @@ https://wwt.lanzouj.com/b00xxqs6h 密码:7r7hv<br/>
 <img src="https://github.com/wwb521/live/blob/main/jc.png" width="500px">
 
 ## 如果有别的问题或者有更好的直播源，可以扫码联系
-<img src="https://github.com/wwb521/live/blob/main/lx.png" width="400px"><br/>
+<img src="https://github.com/wwb521/live/blob/main/lx.png" width="450px"><br/>
 
 ## 如果觉得不错，不要忘记请我喝杯咖啡哦<br/>
 <img src="https://github.com/wwb521/live/blob/main/pay.jpeg" width="800px">
