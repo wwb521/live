@@ -6,7 +6,9 @@
 		"channels": [
 		  {
 			"name": "live",
-			"url": "http://我不是.肥猫.live/TV/tvzb.txt"
+			"urls": [
+			  "https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/fl.txt"
+			]
 		  }
 		]
 	  }
