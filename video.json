@@ -2,12 +2,12 @@
 	"spider": "http://dd.ma/CFlLnSbJ",
 	"lives": [
 	  {
-		"group": "live",
+		"group": "redirect",
 		"channels": [
 		  {
-			"name": "ipv6",
+			"name": "redirect",
 			"urls": [
-			  "proxy://do=https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/fl.txt=aHR0cHM6Ly9hZ2l0LmFpL2d1b3Q1NC95Z2JoL3Jhdy9icmFuY2gvbWFzdGVyL3pCL3pCLnR4dA=="
+			  "proxy://do=live&type=txt&ext=https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/fl.txt"
 			]
 		  }
 		]
