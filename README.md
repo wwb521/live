@@ -41,7 +41,7 @@ https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/vide
 ## 正常影视源汇总，老少皆宜，需要点击去复制一个接口填到影视源中
 https://cyuan.netlify.app/<br/>
 http://xn--sss604efuw.top/<br/>
-https://www.lige.fit/tvbox<br/>
+https://www.lige.chat<br/>
 
 # 软件及操作方法
 ## tvbox软件<br/>
