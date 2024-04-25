@@ -2,16 +2,54 @@
 	"spider": "http://dd.ma/CFlLnSbJ",
 	"lives": [
 		{
-		  "name": "XIUTAN",
-		  "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
+		  "name": "live",
 		  "type": 0,
-		  "url": "https://xhdwc.tk/xiutan.m3u"
+		  "url": "http://127.0.0.1:9978/proxy?do=live&url=https://jihulab.com/okcaptain/kko/-/raw/main/li.txt",
+		  "playerType": 1,
+		  "ua": "okhttp/3.15",
+		  "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+		  "logo": "https://epg.112114.xyz/logo/{name}.png",
+		  "timeout": 10
 		},
 		{
-		  "name": "IPV6",
+		  "name": "iptv",
+		  "type": 0,
+		  "url": "http://127.0.0.1:9978/proxy?do=live&url=https://jihulab.com/okcaptain/kko/-/raw/main/ip.txt",
+		  "playerType": 1,
+		  "ua": "okhttp/3.15",
+		  "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+		  "logo": "https://epg.112114.xyz/logo/{name}.png",
+		  "timeout": 10
+		},
+		{
+		  "name": "fanmingming",
 		  "type": 0,
 		  "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
-		  "playerType": 1
+		  "playerType": 1,
+		  "ua": "okhttp/3.15",
+		  "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+		  "logo": "https://epg.112114.xyz/logo/{name}.png",
+		  "timeout": 10
+		},
+		{
+		  "name": "mitv",
+		  "type": 0,
+		  "url": "http://127.0.0.1:9978/proxy?do=live&url=https://jihulab.com/okcaptain/kko/-/raw/main/mt.txt",
+		  "playerType": 1,
+		  "ua": "okhttp/3.15",
+		  "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+		  "logo": "https://epg.112114.xyz/logo/{name}.png",
+		  "timeout": 10
+		},
+		{
+		  "name": "ddns",
+		  "type": 0,
+		  "url": "http://127.0.0.1:9978/proxy?do=live&url=http://mywlkj.ddns.net:754/tv.php",
+		  "playerType": 1,
+		  "ua": "okhttp/3.15",
+		  "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+		  "logo": "https://epg.112114.xyz/logo/{name}.png",
+		  "timeout": 10
 		}
 	  ],
 	"sites": [
