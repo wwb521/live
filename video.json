@@ -1,6 +1,19 @@
 {
 	"spider": "http://dd.ma/CFlLnSbJ",
 	"wallpaper": "https://api.btstu.cn/sjbz/api.php",
+	"lives": [
+		{
+		  "group": "redirect",
+		  "channels": [
+			{
+			  "name": "redirect",
+			  "urls": [
+				"proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRodWIubW9leXkueHl6L2h0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS93d2I1MjEvbGl2ZS9tYWluL2ZsLnR4dA=="
+			  ]
+			}
+		  ]
+		}
+	  ],
 	"sites": [
 	  {
 		"key": "玉兔专场",
