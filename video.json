@@ -6,9 +6,7 @@
 		"channels": [
 		  {
 			"name": "live",
-			"url": [
-			  "http://我不是.肥猫.live/TV/tvzb.txt"
-			]
+			"url": "http://我不是.肥猫.live/TV/tvzb.txt"
 		  }
 		]
 	  }
