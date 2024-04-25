@@ -7,7 +7,7 @@
 		  {
 			"name": "redirect",
 			"urls": [
-			  "proxy://do=live&type=txt&ext=https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/fl.txt"
+			  "proxy://do=https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/fl.txt"
 			]
 		  }
 		]
