@@ -7,7 +7,7 @@
 		  {
 			"name": "redirect",
 			"urls": [
-			  "https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/fl.m3u"
+			  "https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/fl.txt"
 			]
 		  }
 		]
@@ -705,6 +705,8 @@
 	  "vivovip.mmszxc.top",
 	  "qiu.xixiqiu.com",
 	  "cdnjs.hnfenxun.com",
-	  "cms.qdwght.com"
+	  "cms.qdwght.com",
+	  "https://github.moeyy.xyz/",
+	  "https://raw.githubusercontent.com"
 	]
   }
