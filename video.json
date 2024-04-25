@@ -1,5 +1,16 @@
 {
 	"spider": "http://dd.ma/CFlLnSbJ",
+	"wallpaper": "https://api.btstu.cn/sjbz/api.php",
+	"lives": [
+		{
+		  "name": "live",
+		  "type": 0,
+		  "playerType": 1,
+		  "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+		  "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+		  "logo": "https://epg.112114.xyz/logo/{name}.png"
+		}
+	  ],
 	"sites": [
 	  {
 		"key": "玉兔专场",
@@ -633,16 +644,5 @@
 		  }
 		]
 	  }
-	],
-	"wallpaper": "https://api.btstu.cn/sjbz/api.php",
-	"lives": [
-		{
-		  "name": "live",
-		  "type": 0,
-		  "playerType": 1,
-		  "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
-		  "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-		  "logo": "https://epg.112114.xyz/logo/{name}.png"
-		}
-	  ]
+	]
   }
