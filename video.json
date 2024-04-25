@@ -7,7 +7,7 @@
 		  {
 			"name": "redirect",
 			"urls": [
-			  "proxy://https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/fl.txt?do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2d1b3Q1NC95Z2JoL3Jhdy9icmFuY2gvbWFzdGVyL3pCL3pCLnR4dA=="
+			  "https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/fl.txt?do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2d1b3Q1NC95Z2JoL3Jhdy9icmFuY2gvbWFzdGVyL3pCL3pCLnR4dA=="
 			]
 		  }
 		]
