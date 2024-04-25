@@ -1,19 +1,6 @@
 {
 	"spider": "http://dd.ma/CFlLnSbJ",
 	"wallpaper": "https://api.btstu.cn/sjbz/api.php",
-	"lives": [
-		{
-		  "group": "redirect",
-		  "channels": [
-			{
-			  "name": "redirect",
-			  "urls": [
-				"proxy://do=live&type=txt&ext=https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/fl.txt"
-			  ]
-			}
-		  ]
-		}
-	  ],
 	"sites": [
 	  {
 		"key": "玉兔专场",
@@ -282,6 +269,19 @@
 		"quickSearch": 0
 	  }
 	],
+	"lives": [
+		{
+		  "group": "redirect",
+		  "channels": [
+			{
+			  "name": "redirect",
+			  "urls": [
+				"proxy://do=live&type=txt&ext=aHR0cHM6Ly9rZHMyLmNvZGluZy5uZXQvcC9rL2Qvay9naXQvcmF3L21hc3Rlci9tYW9saXZlLnR4dA=="
+			  ]
+			}
+		  ]
+		}
+	  ],
 	"parses": [
 	  {
 		"name": "解析聚合",
