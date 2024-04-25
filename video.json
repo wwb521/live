@@ -1,15 +1,18 @@
 {
 	"spider": "http://dd.ma/CFlLnSbJ",
 	"lives": [
-		{
-		  "name": "live",
-		  "type": 0,
-		  "playerType": 1,
-		  "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/fl.txt",
-		  "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-		  "logo": "https://epg.112114.xyz/logo/{name}.png"
-		}
-	  ],
+	  {
+		"group": "redirect",
+		"channels": [
+		  {
+			"name": "redirect",
+			"urls": [
+			  "https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/fl.txt"
+			]
+		  }
+		]
+	  }
+	],
 	"sites": [
 	  {
 		"key": "玉兔专场",
