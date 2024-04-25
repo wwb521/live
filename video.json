@@ -269,16 +269,6 @@
 		"quickSearch": 0
 	  }
 	],
-	"lives": [
-		{
-		  "name": "live",
-		  "type": 0,
-		  "playerType": 1,
-		  "url": "http://我不是.肥猫.live/TV/tvzb.txt",
-		  "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-		  "logo": "https://epg.112114.xyz/logo/{name}.png"
-		}
-	  ],
 	"parses": [
 	  {
 		"name": "解析聚合",
