@@ -1,18 +1,15 @@
 {
 	"spider": "http://dd.ma/CFlLnSbJ",
 	"lives": [
-	  {
-		"group": "redirect",
-		"channels": [
-		  {
-			"name": "ipv6",
-			"url": [
-			  "https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/fl.txt"
-			]
-		  }
-		]
-	  }
-	],
+		{
+		  "name": "live",
+		  "type": 0,
+		  "playerType": 1,
+		  "url": "http://我不是.肥猫.live/TV/tvzb.txt",
+		  "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+		  "logo": "https://epg.112114.xyz/logo/{name}.png"
+		}
+	  ],
 	"sites": [
 	  {
 		"key": "玉兔专场",
