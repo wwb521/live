@@ -2,10 +2,10 @@
 	"spider": "http://dd.ma/CFlLnSbJ",
 	"lives": [
 	  {
-		"group": "redirect",
+		"group": "ipv6",
 		"channels": [
 		  {
-			"name": "redirect",
+			"name": "live",
 			"urls": [
 			  "https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/fl.txt"
 			]
