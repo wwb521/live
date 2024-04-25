@@ -3,14 +3,17 @@
 	"wallpaper": "https://api.btstu.cn/sjbz/api.php",
 	"lives": [
 		{
-		  "name": "live",
-		  "type": 0,
-		  "playerType": 1,
-		  "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
-		  "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-		  "logo": "https://epg.112114.xyz/logo/{name}.png"
+		  "group": "redirect",
+		  "channels": [
+			{
+			  "name": "redirect",
+			  "urls": [
+				"proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRodWIubW9leXkueHl6L2h0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS93d2I1MjEvbGl2ZS9tYWluL2ZsLnR4dA=="
+			  ]
+			}
+		  ]
 		}
-	  ],
+	  ],,
 	"sites": [
 	  {
 		"key": "玉兔专场",
