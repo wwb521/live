@@ -55,15 +55,6 @@
 		]
 	  },
 	  {
-		"key": "老鸭",
-		"name": "老鸭采集",
-		"type": 1,
-		"api": "https://api.apilyzy.com/api.php/provide/vod/",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 0
-	  },
-	  {
 		"key": "bttcj.com",
 		"name": "伦理采集",
 		"type": 0,
@@ -113,15 +104,6 @@
 		"name": "小日本采集",
 		"type": 0,
 		"api": "https://www.xrbsp.com/api/xml.php",
-		"quickSearch": 1,
-		"searchable": 1,
-		"filterable": 1
-	  },
-	  {
-		"key": "api.apilyzy.com",
-		"name": "乐渔采集",
-		"type": 1,
-		"api": "https://api.apilyzy.com/api.php/provide/vod/",
 		"quickSearch": 1,
 		"searchable": 1,
 		"filterable": 1
