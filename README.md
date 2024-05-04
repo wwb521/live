@@ -59,4 +59,4 @@ https://wwt.lanzouj.com/b00y2bymj 密码:7kkf<br/>
 
 # 打赏
 ## 如果觉得不错，不要忘记请我喝杯咖啡哦<br/>
-<img src="https://github.com/wwb521/live/blob/main/pay.jpeg" width="800px">
+<img src="https://github.com/wwb521/live/blob/main/pay.jpeg" width="450px">
