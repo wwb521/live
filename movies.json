@@ -96,6 +96,17 @@
         "changeable": 0
       },
       {
+        "key": "csp_Nmys",
+        "name": "🌾┃农民┃影视",
+        "type": 3,
+        "api": "csp_Nmys",
+        "playerType": "1",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "ext": "https://v.nmvod.cn"
+      },
+      {
         "key": "视觉",
         "name": "视觉┃多线",
         "type": 3,
