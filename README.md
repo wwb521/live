@@ -31,6 +31,14 @@ https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/fl.m
 ## 如果觉得直播源很麻烦，就用下面的这个<br/>
 https://lyrics.run/my-tv.html<br/>
 
+https://github.com/HTWMedia/HTV<br/>
+
+https://github.com/yaoxieyoulei/mytv-android<br/>
+
+https://github.com/yaoxieyoulei/my_tv<br/>
+
+https://github.com/Potato-66/SimpleTV<br/>
+
 https://wwt.lanzouj.com/b00xxqs6h 密码:7r7h<br/>
 
 ## 18+tvbox影视源,不是直播源，不要填错位置(尴尬出丑不负责)<br/>
