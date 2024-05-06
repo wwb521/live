@@ -1,6 +1,6 @@
 # 使用说明：
 
-## 公告：有问题的话QQ和微信联系，电报上不去了
+## 公告：18+直播源链接已删除，用下方的18+影视源，片源很丰富，以后主要更新央视、卫视直播源
 ## 宝宝们注意<br/>
 针对于央视卫视直播源，路由器需要开启 IPV6 模式，把直播源地址填入空壳直播软件，如果遇到卡顿（也可能与硬件性能和网络运营商有关系），遥控器右键换线路即可，我会及时清理卡顿的直播源<br/>
 
@@ -10,24 +10,14 @@ https://raw.githubusercontent.com/wwb521/live/main/tv.txt<br/>
 
 https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/tv.txt <br/>
 
-m3u 格式直播源地址（已加速）：<br/>
+m3u格式直播源地址（已加速）：<br/>
 https://raw.githubusercontent.com/wwb521/live/main/tv.m3u<br/>
 
 https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u <br/>
 
-
-## 18+直播源(尴尬出丑不负责)<br/>
-txt 格式直播源地址（已加速）：<br/>
-https://raw.githubusercontent.com/wwb521/live/main/fl.txt<br/>
-
-https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/fl.txt<br/>
-
-m3u 格式直播源地址（已加速）：<br/>
-https://raw.githubusercontent.com/wwb521/live/main/fl.m3u<br/>
-
-https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/fl.m3u<br/>
-
 ## 如果觉得直播源很麻烦，就用下面的这个<br/>
+https://wwt.lanzouj.com/b00xxqs6h 密码:7r7h<br/>
+
 https://lyrics.run/my-tv.html<br/>
 
 https://github.com/HTWMedia/HTV<br/>
@@ -38,9 +28,7 @@ https://github.com/yaoxieyoulei/my_tv<br/>
 
 https://github.com/Potato-66/SimpleTV<br/>
 
-https://wwt.lanzouj.com/b00xxqs6h 密码:7r7h<br/>
-
-## 18+tvbox影视源,不是直播源，不要填错位置(尴尬出丑不负责)<br/>
+## 18+tvbox影视源(尴尬出丑不负责)<br/>
 直接填入tvbox系列软件的影视源那一栏即可，不要填到直播源那一栏：<br/>
 https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/video.json<br/>
 
