@@ -254,6 +254,17 @@
         "ext": "http://dt.xn--yety82d.love/js/小蚂蚁2.js"
       },
       {
+        "key": "农民",
+        "name": "农民",
+        "type": 3,
+        "api": "csp_Nmys",
+        "timeout": 15,
+        "searchable": 1,
+        "quickSearch": 1,
+        "changeable": 1,
+        "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/nmys.json"
+      },
+      {
         "key": "小胡",
         "name": "小胡┃影视",
         "type": 3,
@@ -288,6 +299,7 @@
         "ext": "https://jihulab.com/okcaptain/kko/-/raw/main/js/dadagui.js",
         "timeout": 15
       },
+
       {
         "key": "drpy_js_奇珍异兽",
         "name": "奇珍异兽",
@@ -297,25 +309,26 @@
       },
       {
         "key": "drpy_js_优酷",
-        "name": "优酷[js]",
+        "name": "优酷",
         "type": 3,
         "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
         "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/优酷.js"
       },
       {
         "key": "drpy_js_腾云驾雾",
-        "name": "腾云驾雾[js]",
+        "name": "腾云驾雾",
         "type": 3,
         "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
         "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/腾云驾雾.js"
       },
       {
         "key": "drpy_js_百忙无果",
-        "name": "百忙无果[js]",
+        "name": "百忙无果",
         "type": 3,
         "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
         "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/百忙无果.js"
       },
+
       {
         "key": "Dm84",
         "name": "巴士┃动漫",
