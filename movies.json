@@ -96,17 +96,6 @@
         "changeable": 0
       },
       {
-        "key": "csp_Nmys",
-        "name": "🌾┃农民┃影视",
-        "type": 3,
-        "api": "csp_Nmys",
-        "playerType": "1",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": "https://v.nmvod.cn"
-      },
-      {
         "key": "视觉",
         "name": "视觉┃多线",
         "type": 3,
@@ -233,6 +222,14 @@
         "playerType": "1",
         "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
         "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"
+      },
+      {
+        "key": "csp_AppRZ",
+        "name": " 🕵┃忍者┃影视",
+        "type": 3,
+        "playerType": "2",
+        "api": "csp_AppRZ",
+        "ext": "http://rzys.xyz/"
       },
       {
         "key": "Dm84",
@@ -529,15 +526,6 @@
       }
     ],
     "rules": [
-        {
-            "name": "农民嗅探",
-            "hosts": [
-              "toutiaovod.com"
-            ],
-            "regex": [
-              "video/tos/cn"
-            ]
-          },
       {
         "name": "kk",
         "hosts": [
