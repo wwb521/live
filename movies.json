@@ -234,6 +234,10 @@
       "key": "drpy_js_奇珍异兽",
       "name": "官源 | 爱奇艺[js]",
       "type": 3,
+      "searchable": 1,
+        "quickSearch": 1,
+        "changeable": 1,
+        "playerType": "1",
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇珍异兽.js"
     },
