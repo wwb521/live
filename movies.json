@@ -215,6 +215,15 @@
         "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"
       },
       {
+        "key": "Nbys",
+        "name": "🛫泥巴┃飞",
+        "type": 3,
+        "api": "csp_NiNi",
+        "searchable": 1,
+        "quickSearch": 1,
+        "changeable": 0
+      },
+      {
         "key": "Dm84",
         "name": "🚌巴士┃动漫",
         "type": 3,
