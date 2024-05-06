@@ -224,12 +224,11 @@
         "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"
       },
       {
-        "key": "csp_AppRZ",
-        "name": " 🕵┃忍者┃影视",
+        "key": "FreeOK",
+        "name": "️️👌┃Fre┃影视",
         "type": 3,
-        "playerType": "2",
-        "api": "csp_AppRZ",
-        "ext": "http://rzys.xyz/"
+        "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
+        "ext": "http://dt.xn--yety82d.love/js/FreeOK.js"
       },
       {
         "key": "Dm84",
