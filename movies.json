@@ -265,6 +265,28 @@
         "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/nmys.json"
       },
       {
+        "key": "zxzj",
+        "name": "在线之家",
+        "type": 3,
+        "api": "csp_Zxzj",
+        "timeout": 15,
+        "searchable": 1,
+        "quickSearch": 1,
+        "changeable": 1,
+        "ext": "https://www.zxzja.com/"
+      },
+      {
+        "key": "Lib",
+        "name": "Libvio",
+        "type": 3,
+        "api": "csp_Libvio",
+        "timeout": 15,
+        "searchable": 1,
+        "quickSearch": 1,
+        "changeable": 1,
+        "ext": "https://www.libvio.pw/"
+      },
+      {
         "key": "小胡",
         "name": "小胡┃影视",
         "type": 3,
