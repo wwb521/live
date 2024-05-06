@@ -379,19 +379,6 @@
           "from": "4k|auto|fhd"
         }
       },
-    //   {
-    //     "key": "push_agent",
-    //     "name": "🛴手机┃推送",
-    //     "type": 3,
-    //     "api": "csp_Push",
-    //     "searchable": 0,
-    //     "quickSearch": 0,
-    //     "ext": {
-    //       "aliToken": "tvfan/token.txt",
-    //       "quarkCookie": "tvfan/cookie.txt",
-    //       "from": "4k|auto|fhd"
-    //     }
-    //   },
       {
         "key": "Bili",
         "name": "🅱哔哔┃合集",
@@ -475,15 +462,6 @@
         "quickSearch": 0,
         "changeable": 0,
         "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/高中课堂.json"
-      },
-      {
-        "key": "Nbys",
-        "name": "🛫泥巴┃飞",
-        "type": 3,
-        "api": "csp_NiNi",
-        "searchable": 1,
-        "quickSearch": 1,
-        "changeable": 0
       },
       {
         "key": "cc",
@@ -664,21 +642,9 @@
     ],
     "lives": [
       {
-        "name": "多线ITV",
-        "type": 0,
-        "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u",
-        "playerType": 1
-      },
-      {
-        "name": "XIUTAN",
-        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
-        "type": 0,
-        "url": "https://xhdwc.tk/xiutan.m3u"
-      },
-      {
         "name": "IPV6",
         "type": 0,
-        "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+        "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/tv.txt",
         "playerType": 1
       }
     ]
