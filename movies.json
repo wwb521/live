@@ -225,10 +225,89 @@
       },
       {
         "key": "FreeOK",
-        "name": "️️👌┃Fre┃影视",
+        "name": "️️Fre┃影视",
         "type": 3,
         "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
         "ext": "http://dt.xn--yety82d.love/js/FreeOK.js"
+      },
+      {
+        "key": "爱看影视",
+        "name": "爱看┃影视",
+        "type": 3,
+        "playerType": "2",
+        "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
+        "ext": "http://dt.xn--yety82d.love/js/爱看.js"
+      },
+      {
+        "key": "云播影视",
+        "name": "云播┃影视",
+        "type": 3,
+        "playerType": "2",
+        "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
+        "ext": "http://dt.xn--yety82d.love/js/TVB云播.js"
+      },
+      {
+        "key": "小蚂蚁",
+        "name": "蚂蚁┃影视",
+        "type": 3,
+        "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
+        "ext": "http://dt.xn--yety82d.love/js/小蚂蚁2.js"
+      },
+      {
+        "key": "小胡",
+        "name": "小胡┃影视",
+        "type": 3,
+        "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
+        "ext": "http://dt.xn--yety82d.love/js/小胡.js",
+        "playerType": 2
+      },
+      {
+        "key": "奇优",
+        "name": " 奇优┃影视",
+        "type": 3,
+        "playerType": "2",
+        "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
+        "ext": "http://dt.xn--yety82d.love/js/奇优.js"
+      },
+      {
+        "key": "saohuo",
+        "name": " 骚火┃影视",
+        "type": 3,
+        "playerType": "2",
+        "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
+        "ext": "http://dt.xn--yety82d.love/js/骚火.js"
+      },
+      {
+        "key": "达达龟js",
+        "name": "达达龟┃在线",
+        "type": 3,
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "api": "https://jihulab.com/okcaptain/kko/-/raw/main/drpy/drpy2.min.js",
+        "ext": "https://jihulab.com/okcaptain/kko/-/raw/main/js/dadagui.js",
+        "timeout": 15
+      },
+      {
+        "key": "drpy_js_四个圈儿",
+        "name": "影视 | 四个圈儿[js]",
+        "type": 3,
+        "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+        "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/四个圈影视.js"
+      },
+      {
+        "key": "drpy_js_天空影视",
+        "name": "影视 | 天空影视[js]",
+        "type": 3,
+        "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+        "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/天空影视.js"
+      },
+      {
+        "key": "drpy_js_我爱电影",
+        "name": "影视 | 我爱电影[js]",
+        "type": 3,
+        "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+        "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/我爱电影网.js"
       },
       {
         "key": "Dm84",
