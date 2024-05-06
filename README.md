@@ -32,6 +32,9 @@ https://github.com/Potato-66/SimpleTV<br/>
 直接填入tvbox系列软件的影视源那一栏即可，不要填到直播源那一栏：<br/>
 https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/video.json<br/>
 
+## 自用tvbox影视源
+https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/movies.json
+
 ## 正常影视源汇总，老少皆宜，需要点击去复制一个接口填到影视源中
 https://cyuan.netlify.app/<br/>
 http://xn--sss604efuw.top/<br/>
