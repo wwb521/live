@@ -42,7 +42,7 @@ https://cyuan.netlify.app/<br/>
 http://xn--sss604efuw.top/<br/>
 https://www.lige.chat<br/>
 
-# 软件及操作方法
+# 软件
 ## tvbox软件<br/>
 https://github.com/FongMi/Release
 
