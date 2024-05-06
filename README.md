@@ -49,10 +49,6 @@ https://github.com/FongMi/Release
 ## 空壳直播软件<br/>
 https://wwt.lanzouj.com/b00y2bymj 密码:7kkf<br/>
 
-## 更新节目表方法：
-如果是用着TVbox这类的软件，既有点播、直播一体的，有些可以自动更新直播源，有些不可以，以派大星直播为例，使用如下截图的方法操作，之后重启软件就可以<br/>
-<img src="https://github.com/wwb521/live/blob/main/jc.png" width="450px">
-
 # 联系
 ## 如果有别的问题或者有更好的直播源，可以扫码联系
 <img src="https://github.com/wwb521/live/blob/main/lx.png" width="450px"><br/>
