@@ -302,7 +302,7 @@
 
     {
       "key": "drpy_js_奇珍异兽",
-      "name": "奇珍异兽",
+      "name": "爱奇艺",
       "type": 3,
       "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇珍异兽.js"
@@ -316,14 +316,14 @@
     },
     {
       "key": "drpy_js_腾云驾雾",
-      "name": "腾云驾雾",
+      "name": "腾讯",
       "type": 3,
       "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/腾云驾雾.js"
     },
     {
       "key": "drpy_js_百忙无果",
-      "name": "百忙无果",
+      "name": "芒果",
       "type": 3,
       "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/百忙无果.js"
