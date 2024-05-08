@@ -51,6 +51,13 @@ https://wwt.lanzouj.com/b00y2bymj 密码:7kkf<br/>
 ## 如果有别的问题或者有更好的直播源，可以扫码联系
 <img src="https://github.com/wwb521/live/blob/main/lx.png" width="450px"><br/>
 
-# 打赏
-## 如果觉得不错，不要忘记请我喝杯咖啡哦<br/>
+# 打赏支持是我更新的动力
+
+## 机场推荐
+iKuuu：https://ikuuu.pw/auth/register?code=FJQz<br/>
+
+便宜机场：https://xn--wtq35pfyd55o.com/#/register?code=iRxkxiRM<br/>
+
+免费机场：https://3w.付费机场.com/#/register?code=vwm5gImq<br/>
+
 <img src="https://github.com/wwb521/live/blob/main/pay.jpeg" width="450px">
