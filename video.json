@@ -249,7 +249,161 @@
 		"api": "http://fhapi9.com/api.php/provide/vod/",
 		"searchable": 0,
 		"quickSearch": 0
-	  }
+	  },
+	  {
+		"key": "(18+)JAV名优",
+		"name": "*直播有14000+资源",
+		"type": 0,
+		"api": "http://mygzycj.com/api.php?ac=list",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 0
+	  },
+	  {
+		"key": "美少女",
+		"name": "美少女",
+		"type": 0,
+		"api": "https://www.msnii.com/api/xml.php",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1
+	  },
+	  {
+		"key": "哥哥妹妹",
+		"name": "哥哥妹妹",
+		"type": 0,
+		"api": "http://www.ggmmzy.com:9999/inc/xml",
+		"searchable": 0,
+		"quickSearch": 0,
+		"filterable": 0
+	  },
+	  {
+		"key": "*白嫖资源",
+		"name": "白嫖资源",
+		"type": 0,
+		"api": "https://www.kxgav.com/api/xml.php",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 0
+	  },
+	  {
+		"key": "zp028",
+		"name": "zp028",
+		"type": 0,
+		"api": "http://mygzycj.com/api.php?ac=list",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 0
+	  },
+	  {
+		"key": "*淫水机资源",
+		"name": "淫水机",
+		"type": 0,
+		"api": "https://www.xrbsp.com/api/xml.php",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 0
+	  },
+	  {
+		"key": "*香奶儿资源",
+		"name": "香奶儿",
+		"type": 0,
+		"api": "https://www.gdlsp.com/api/xml.php",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 0
+	  },
+	  {
+		"key": "大地采集",
+		"name": "大地av",
+		"type": 0,
+		"api": "https://dadiapi.com/apple_m3u8.php",
+		"playUrl": "https://play.dadiapi.com/watch?url=",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 0
+	  },
+	  {
+		"key": "zp157",
+		"name": "熊猫资源",
+		"type": 0,
+		"api": "http://jcspcj8.com/api?ac=list",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 0
+	  },
+	  {
+		"key": "zp116",
+		"name": "泡芙资源",
+		"type": 0,
+		"api": "http://zmcj88.com/api?ac=list",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 0
+	  },
+	  {
+		"key": "zp067",
+		"name": "环亚资源-无码",
+		"type": 0,
+		"api": "http://wmcj8.com/inc/sapi.php",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 0
+	  },
+	  {
+		"key": "*美少女资源",
+		"name": "*美少女资源",
+		"type": 0,
+		"api": "https://www.msnii.com/api/xml.php",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 0
+	  },
+	  {
+		"key": "*玖玖资源",
+		"name": "*玖玖资源",
+		"type": 0,
+		"api": "http://99zywcj.com/inc/sapi.php?ac=videolist",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 0
+	  },
+	  {
+		"key": "*速度资源",
+		"name": "*速度资源",
+		"type": 0,
+		"api": "http://www.ggmmzy.com:9999/inc/xml",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 0
+	  },
+	  {
+		"key": "zp024",
+		"name": "BT天堂-伦理",
+		"type": 0,
+		"api": "http://bttcj.com/inc/sapi.php",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 0
+	  },
+	  {
+		"key": "zp011",
+		"name": "78乐播",
+		"type": 0,
+		"api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 0
+	  },
+	  {
+		"key": "zp100",
+		"name": "乐播",
+		"type": 0,
+		"api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 0
+	  } 
 	],
 	"parses": [
 	  {
