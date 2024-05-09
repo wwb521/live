@@ -6,11 +6,16 @@
 
 ## IPV6 直播源(经常更新)<br/>
 <table>
-   <tr>
-       <th>测试</th>
-       <th>测试</th>
-   <tr>
-</tabele>
+  <thead>
+    <tr>
+      <th>名称</th>
+      <th>直播源地址</th>
+      <th>完善源</th>
+      <th>频道数</th>
+      <th>更新时间</th>
+    </tr>
+  </thead>
+  </table>
 txt 格式直播源地址（已加速）：<br/>
 https://raw.githubusercontent.com/wwb521/live/main/tv.txt<br/>
 
