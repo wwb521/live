@@ -6,10 +6,10 @@
 
 <table>
    <tr>
-       <td>测试<td/>
-       <td>测试<td/>
-   <tr/>
-<tabele/>
+       <td>测试</td>
+       <td>测试</td>
+   <tr>
+</tabele>
 
 ## IPV6 直播源(经常更新)<br/>
 txt 格式直播源地址（已加速）：<br/>
