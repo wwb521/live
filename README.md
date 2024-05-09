@@ -25,6 +25,7 @@ https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/tv.m
     <tr>
 <td>tvbox专用</td>
 <td>https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/movies.json</td>
+<td>https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/video.json,</br>（18+链接，提示一下避免社死）</td>
 </tr>
   </thead>
   </table>
@@ -41,13 +42,6 @@ https://github.com/yaoxieyoulei/mytv-android<br/>
 https://github.com/yaoxieyoulei/my_tv<br/>
 
 https://github.com/Potato-66/SimpleTV<br/>
-
-## 18+tvbox影视源(尴尬出丑不负责)<br/>
-直接填入tvbox系列软件的影视源那一栏即可，不要填到直播源那一栏：<br/>
-https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/video.json<br/>
-
-## 自用tvbox影视源
-https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/movies.json
 
 ## 正常影视源汇总，老少皆宜，需要点击去复制一个接口填到影视源中
 https://cyuan.netlify.app/<br/>
