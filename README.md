@@ -8,9 +8,8 @@
 <table>
   <thead>
     <tr>
-      <th>名称</th>
-      <th>直播源地址</th>
-       <th>txt格式</th>
+        <th>类别</th>
+        <th>txt格式</th>
         <th>m3u格式</th>
     </tr>
     <tbody>
@@ -19,16 +18,12 @@
       <td>https://raw.githubusercontent.com/wwb521/live/main/tv.txt<br/>
 
 https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/tv.txt</td>
+<td>https://raw.githubusercontent.com/wwb521/live/main/tv.m3u<br/>
+
+https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u <br/></td>
     </tr>
   </thead>
   </table>
-txt 格式直播源地址（已加速）：<br/>
-
-
-m3u格式直播源地址（已加速）：<br/>
-https://raw.githubusercontent.com/wwb521/live/main/tv.m3u<br/>
-
-https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u <br/>
 
 ## 如果觉得直播源很麻烦，就用下面的这个<br/>
 https://wwt.lanzouj.com/b00xxqs6h 密码:7r7h<br/>
