@@ -251,42 +251,6 @@
 		"quickSearch": 0
 	  },
 	  {
-		"key": "(18+)JAV名优",
-		"name": "*直播有14000+资源",
-		"type": 0,
-		"api": "http://mygzycj.com/api.php",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 0
-	  },
-	  {
-		"key": "美少女",
-		"name": "美少女",
-		"type": 0,
-		"api": "https://www.msnii.com/api/xml.php",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1
-	  },
-	  {
-		"key": "哥哥妹妹",
-		"name": "哥哥妹妹",
-		"type": 0,
-		"api": "http://www.ggmmzy.com:9999/inc/xml",
-		"searchable": 0,
-		"quickSearch": 0,
-		"filterable": 0
-	  },
-	  {
-		"key": "*白嫖资源",
-		"name": "白嫖资源",
-		"type": 0,
-		"api": "https://www.kxgav.com/api/xml.php",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 0
-	  },
-	  {
 		"key": "zp028",
 		"name": "zp028",
 		"type": 0,
