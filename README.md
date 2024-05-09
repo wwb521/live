@@ -4,14 +4,13 @@
 ## 宝宝们注意<br/>
 针对于央视卫视直播源，路由器需要开启 IPV6 模式，把直播源地址填入空壳直播软件，如果遇到卡顿（也可能与硬件性能和网络运营商有关系），遥控器右键换线路即可，我会及时清理卡顿的直播源<br/>
 
+## IPV6 直播源(经常更新)<br/>
 <table>
    <tr>
-       <td>测试</td>
-       <td>测试</td>
+       <th>测试</th>
+       <th>测试</th>
    <tr>
 </tabele>
-
-## IPV6 直播源(经常更新)<br/>
 txt 格式直播源地址（已加速）：<br/>
 https://raw.githubusercontent.com/wwb521/live/main/tv.txt<br/>
 
