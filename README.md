@@ -1,10 +1,10 @@
 <h1 align="center"> 一个分享电视、影视源的项目 </h1>
-<h3 align="center">永久免费、直连访问、完整开源 </h3>
+<h3 align="center">永久免费 完整开源 </h3>
 
 ## 宝宝们注意<br/>
 针对于央视卫视直播源，路由器需要开启 IPV6 模式，把直播源地址填入空壳直播软件，如果遇到卡顿（也可能与硬件性能和网络运营商有关系），遥控器右键换线路即可，我会及时清理卡顿的直播源<br/>
 
-## IPV6 直播源(经常更新)<br/>
+## IPV6直播源<br/>
 <table>
   <thead>
     <tr>
@@ -21,6 +21,8 @@ https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/tv.t
 <td>https://raw.githubusercontent.com/wwb521/live/main/tv.m3u<br/>
 
 https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u <br/></td>
+<td>tvbox专用</td>
+<td>https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/movies.json</td>
     </tr>
   </thead>
   </table>
