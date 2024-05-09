@@ -4,7 +4,7 @@
 ## 宝宝们注意<br/>
 针对于央视卫视直播源，路由器需要开启 IPV6 模式，把直播源地址填入空壳直播软件，如果遇到卡顿（也可能与硬件性能和网络运营商有关系），遥控器右键换线路即可，我会及时清理卡顿的直播源<br/>
 
-## IPV6直播源<br/>
+<h2>IPV6直播源</h2><br/>
 <table>
   <thead>
     <tr>
@@ -22,11 +22,6 @@ https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/tv.t
 
 https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u <br/></td>
     </tr>
-    <tr>
-<td>tvbox专用</td>
-<td>https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/movies.json</td>
-<td>https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/video.json,</br>（18+链接，提示一下避免社死）</td>
-</tr>
   </thead>
   </table>
 <h2>TvBox专用</h2>
@@ -41,27 +36,28 @@ https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/tv.m
     <tr>
 <td>tvbox专享</td>
 <td>https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/movies.json</td>
-<td>https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/video.json,</br>（18+链接，提示一下避免社死）</td>
+<td>https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/video.json</br>（18+链接，提示一下避免社死）</td>
 </tr>
   </thead>
   </table>
-## 如果觉得直播源很麻烦，就用下面的这个<br/>
-https://wwt.lanzouj.com/b00xxqs6h 密码:7r7h<br/>
 
-https://lyrics.run/my-tv.html<br/>
+<h2>如果觉得直播源很麻烦，就用下面的这些</h2></br>
+https://wwt.lanzouj.com/b00xxqs6h 密码:7r7h</br>
 
-https://github.com/HTWMedia/HTV<br/>
+https://lyrics.run/my-tv.html</br>
 
-https://github.com/yaoxieyoulei/mytv-android<br/>
+https://github.com/HTWMedia/HTV</br/+>
 
-https://github.com/yaoxieyoulei/my_tv<br/>
+https://github.com/yaoxieyoulei/mytv-android</br>
 
-https://github.com/Potato-66/SimpleTV<br/>
+https://github.com/yaoxieyoulei/my_tv</br>
 
-## 正常影视源汇总，老少皆宜，需要点击去复制一个接口填到影视源中
-https://cyuan.netlify.app/<br/>
-http://xn--sss604efuw.top/<br/>
-https://www.lige.chat<br/>
+https://github.com/Potato-66/SimpleTV</br>
+
+## 觉得我做的tvbox接口不咋的，就去这些网站看</br>
+https://cyuan.netlify.app/</br>
+http://xn--sss604efuw.top/</br>
+https://www.lige.chat</br>
 
 # 软件
 ## tvbox软件<br/>
