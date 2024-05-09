@@ -29,7 +29,22 @@ https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/tv.m
 </tr>
   </thead>
   </table>
-
+<h2>TvBox专用</h2>
+<table>
+  <thead>
+    <tr>
+        <th>类别</th>
+        <th>正常</th>
+        <th>18+(小心当场尴尬)</th>
+    </tr>
+    <tbody>
+    <tr>
+<td>tvbox专享</td>
+<td>https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/movies.json</td>
+<td>https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/video.json,</br>（18+链接，提示一下避免社死）</td>
+</tr>
+  </thead>
+  </table>
 ## 如果觉得直播源很麻烦，就用下面的这个<br/>
 https://wwt.lanzouj.com/b00xxqs6h 密码:7r7h<br/>
 
