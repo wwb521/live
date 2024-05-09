@@ -14,10 +14,12 @@
       <td>IPTV</td>
       <td>https://raw.githubusercontent.com/wwb521/live/main/tv.txt<br />
 
-        https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/tv.txt</td>
+        https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/tv.txt
+</td>
       <td>https://raw.githubusercontent.com/wwb521/live/main/tv.m3u<br />
 
-        https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u <br /></td>
+        https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u
+</td>
     </tr>
     </thead>
 </table>
