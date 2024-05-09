@@ -14,7 +14,7 @@
     </tr>
     <tbody>
     <tr>
-      <td>央视、卫视</td>
+      <td>IPTV</td>
       <td>https://raw.githubusercontent.com/wwb521/live/main/tv.txt<br/>
 
 https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/tv.txt</td>
