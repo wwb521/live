@@ -73,24 +73,6 @@
 		"filterable": 1
 	  },
 	  {
-		"key": "gdlsp.com",
-		"name": "老色胚",
-		"type": 0,
-		"api": "https://www.gdlsp.com/api/xml.php",
-		"quickSearch": 1,
-		"searchable": 1,
-		"filterable": 1
-	  },
-	  {
-		"key": "kxgav.com",
-		"name": "开心果",
-		"type": 0,
-		"api": "https://www.kxgav.com/api/xml.php",
-		"quickSearch": 1,
-		"searchable": 1,
-		"filterable": 1
-	  },
-	  {
 		"key": "lbapi9.com",
 		"name": "乐吧",
 		"type": 1,
@@ -101,7 +83,7 @@
 	  },
 	  {
 		"key": "xrbsp.com",
-		"name": "小日本",
+		"name": "淫水机",
 		"type": 0,
 		"api": "https://www.xrbsp.com/api/xml.php",
 		"quickSearch": 1,
@@ -150,16 +132,6 @@
 		"jar": "https://share.nite07.com/api/v3/file/source/18178/18.jar?sign=4snwZEDuzr88tmVvCLDre0Jjbt5hOKh7zrtE37bQV30%3D%3A0"
 	  },
 	  {
-		"key": "*博天堂",
-		"name": "博天堂",
-		"type": 0,
-		"api": "http://bttcj.com/inc/sapi.php",
-		"searchable": 0,
-		"quickSearch": 0,
-		"filterable": 0,
-		"jar": "https://share.nite07.com/api/v3/file/source/18178/18.jar?sign=4snwZEDuzr88tmVvCLDre0Jjbt5hOKh7zrtE37bQV30%3D%3A0"
-	  },
-	  {
 		"key": "*色猫",
 		"name": "色猫",
 		"type": 1,
@@ -200,24 +172,6 @@
 		"quickSearch": 0
 	  },
 	  {
-		"key": "老鸭2",
-		"name": "老鸭2",
-		"type": 1,
-		"api": "https://lbapi9.com/api.php/provide/vod/",
-		"playUrl": "json:https://player.77lehuo.com/aliplayer/?url=",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 0
-	  },
-	  {
-		"key": "*乐播",
-		"name": "乐播",
-		"type": 1,
-		"api": "https://lbapi9.com/api.php/provide/vod/",
-		"searchable": 0,
-		"quickSearch": 0
-	  },
-	  {
 		"key": "*环亚",
 		"name": "环亚",
 		"type": 0,
@@ -226,58 +180,13 @@
 		"quickSearch": 0
 	  },
 	  {
-		"key": "KpgxdyE",
-		"name": "黄AV",
-		"type": 0,
-		"api": "https://www.pgxdy.com/api/xml.php",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1
-	  },
-	  {
 		"key": "*番号",
 		"name": "番号",
 		"type": 1,
 		"api": "http://fhapi9.com/api.php/provide/vod/",
 		"searchable": 0,
 		"quickSearch": 0
-	  },
-	  {
-		"key": "zp028",
-		"name": "zp028",
-		"type": 0,
-		"api": "http://mygzycj.com/api.php?ac=list",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 0
-	  },
-	  {
-		"key": "*香奶儿",
-		"name": "香奶儿",
-		"type": 0,
-		"api": "https://www.gdlsp.com/api/xml.php",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 0
-	  },
-	  {
-		"key": "zp024",
-		"name": "BT天堂",
-		"type": 0,
-		"api": "http://bttcj.com/inc/sapi.php",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 0
-	  },
-	  {
-		"key": "zp100",
-		"name": "乐播",
-		"type": 0,
-		"api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 0
-	  } 
+	  }
 	],
 	"parses": [
 	  {
