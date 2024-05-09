@@ -21,9 +21,11 @@ https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/tv.t
 <td>https://raw.githubusercontent.com/wwb521/live/main/tv.m3u<br/>
 
 https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u <br/></td>
+    </tr>
+    <tr>
 <td>tvbox专用</td>
 <td>https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/movies.json</td>
-    </tr>
+</tr>
   </thead>
   </table>
 
