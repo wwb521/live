@@ -4,7 +4,7 @@
 	"sites": [
 	  {
 		"key": "玉兔专场",
-		"name": "玉兔采集",
+		"name": "玉兔",
 		"type": 1,
 		"api": "https://apiyutu.com/api.php/provide/vod/",
 		"playUrl": "",
@@ -56,7 +56,7 @@
 	  },
 	  {
 		"key": "bttcj.com",
-		"name": "伦理采集",
+		"name": "伦理",
 		"type": 0,
 		"api": "http://bttcj.com/inc/sapi.php",
 		"quickSearch": 1,
@@ -65,7 +65,7 @@
 	  },
 	  {
 		"key": "dadiapi.com",
-		"name": "大地采集",
+		"name": "大地",
 		"type": 0,
 		"api": "http://dadiapi.com/api.php",
 		"quickSearch": 1,
@@ -74,7 +74,7 @@
 	  },
 	  {
 		"key": "gdlsp.com",
-		"name": "老色胚采集",
+		"name": "老色胚",
 		"type": 0,
 		"api": "https://www.gdlsp.com/api/xml.php",
 		"quickSearch": 1,
@@ -83,7 +83,7 @@
 	  },
 	  {
 		"key": "kxgav.com",
-		"name": "开心果采集",
+		"name": "开心果",
 		"type": 0,
 		"api": "https://www.kxgav.com/api/xml.php",
 		"quickSearch": 1,
@@ -92,7 +92,7 @@
 	  },
 	  {
 		"key": "lbapi9.com",
-		"name": "乐吧采集",
+		"name": "乐吧",
 		"type": 1,
 		"api": "https://lbapi9.com/api.php/provide/vod/",
 		"quickSearch": 1,
@@ -101,7 +101,7 @@
 	  },
 	  {
 		"key": "xrbsp.com",
-		"name": "小日本采集",
+		"name": "小日本",
 		"type": 0,
 		"api": "https://www.xrbsp.com/api/xml.php",
 		"quickSearch": 1,
@@ -110,7 +110,7 @@
 	  },
 	  {
 		"key": "处女控",
-		"name": "处女控采集",
+		"name": "处女控",
 		"type": 1,
 		"api": "https://ckzy.me/api.php/provide/vod/",
 		"searchable": 1,
@@ -118,16 +118,16 @@
 		"filterable": 1
 	  },
 	  {
-		"key": "易看资源-伦理",
-		"name": "易看采集",
+		"key": "易看-伦理",
+		"name": "易看",
 		"type": 1,
 		"api": "https://api.yikanapi.com/api.php/provide/vod/",
 		"searchable": 1,
 		"quickSearch": 1
 	  },
 	  {
-		"key": "*色南国资源",
-		"name": "色南国资源",
+		"key": "*色南国",
+		"name": "色南国",
 		"type": 1,
 		"api": "https://api.sexnguon.com/api.php/provide/vod/",
 		"searchable": 0,
@@ -160,48 +160,40 @@
 		"jar": "https://share.nite07.com/api/v3/file/source/18178/18.jar?sign=4snwZEDuzr88tmVvCLDre0Jjbt5hOKh7zrtE37bQV30%3D%3A0"
 	  },
 	  {
-		"key": "*色猫资源",
-		"name": "色猫资源",
+		"key": "*色猫",
+		"name": "色猫",
 		"type": 1,
 		"api": "https://api.maozyapi.com/inc/apijson_vod.php",
 		"searchable": 0,
 		"quickSearch": 0
 	  },
 	  {
-		"key": "*淫水机资源",
-		"name": "淫水机资源",
-		"type": 0,
-		"api": "https://www.xrbsp.com/api/xml.php",
-		"searchable": 0,
-		"quickSearch": 0
-	  },
-	  {
-		"key": "*香奶儿资源",
-		"name": "香奶儿资源",
+		"key": "*香奶儿",
+		"name": "香奶儿",
 		"type": 0,
 		"api": "https://www.gdlsp.com/api/xml.php",
 		"searchable": 0,
 		"quickSearch": 0
 	  },
 	  {
-		"key": "*白嫖资源",
-		"name": "白嫖资源",
+		"key": "*白嫖",
+		"name": "白嫖",
 		"type": 0,
 		"api": "https://www.kxgav.com/api/xml.php",
 		"searchable": 0,
 		"quickSearch": 0
 	  },
 	  {
-		"key": "*大地资源",
-		"name": "大地资源",
+		"key": "*大地",
+		"name": "大地",
 		"type": 0,
 		"api": "https://dadiapi.com/api.php",
 		"searchable": 0,
 		"quickSearch": 0
 	  },
 	  {
-		"key": "*老鸭资源",
-		"name": "老鸭资源",
+		"key": "*老鸭",
+		"name": "老鸭",
 		"type": 1,
 		"api": "https://api.apilyzy.com/api.php/provide/vod/",
 		"searchable": 0,
@@ -218,16 +210,16 @@
 		"filterable": 0
 	  },
 	  {
-		"key": "*乐播资源",
-		"name": "乐播资源",
+		"key": "*乐播",
+		"name": "乐播",
 		"type": 1,
 		"api": "https://lbapi9.com/api.php/provide/vod/",
 		"searchable": 0,
 		"quickSearch": 0
 	  },
 	  {
-		"key": "*环亚资源",
-		"name": "环亚资源",
+		"key": "*环亚",
+		"name": "环亚",
 		"type": 0,
 		"api": "http://wmcj8.com/inc/sapi.php",
 		"searchable": 0,
@@ -235,7 +227,7 @@
 	  },
 	  {
 		"key": "KpgxdyE",
-		"name": "黄AV资源",
+		"name": "黄AV",
 		"type": 0,
 		"api": "https://www.pgxdy.com/api/xml.php",
 		"searchable": 1,
@@ -243,8 +235,8 @@
 		"filterable": 1
 	  },
 	  {
-		"key": "*番号资源",
-		"name": "番号资源",
+		"key": "*番号",
+		"name": "番号",
 		"type": 1,
 		"api": "http://fhapi9.com/api.php/provide/vod/",
 		"searchable": 0,
@@ -260,16 +252,7 @@
 		"filterable": 0
 	  },
 	  {
-		"key": "*淫水机资源",
-		"name": "淫水机",
-		"type": 0,
-		"api": "https://www.xrbsp.com/api/xml.php",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 0
-	  },
-	  {
-		"key": "*香奶儿资源",
+		"key": "*香奶儿",
 		"name": "香奶儿",
 		"type": 0,
 		"api": "https://www.gdlsp.com/api/xml.php",
@@ -278,83 +261,10 @@
 		"filterable": 0
 	  },
 	  {
-		"key": "大地采集",
-		"name": "大地av",
-		"type": 0,
-		"api": "https://dadiapi.com/apple_m3u8.php",
-		"playUrl": "https://play.dadiapi.com/watch?url=",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 0
-	  },
-	  {
-		"key": "zp157",
-		"name": "熊猫资源",
-		"type": 0,
-		"api": "http://jcspcj8.com/api?ac=list",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 0
-	  },
-	  {
-		"key": "zp116",
-		"name": "泡芙资源",
-		"type": 0,
-		"api": "http://zmcj88.com/api?ac=list",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 0
-	  },
-	  {
-		"key": "zp067",
-		"name": "环亚资源-无码",
-		"type": 0,
-		"api": "http://wmcj8.com/inc/sapi.php",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 0
-	  },
-	  {
-		"key": "*美少女资源",
-		"name": "*美少女资源",
-		"type": 0,
-		"api": "https://www.msnii.com/api/xml.php",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 0
-	  },
-	  {
-		"key": "*玖玖资源",
-		"name": "*玖玖资源",
-		"type": 0,
-		"api": "http://99zywcj.com/inc/sapi.php?ac=videolist",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 0
-	  },
-	  {
-		"key": "*速度资源",
-		"name": "*速度资源",
-		"type": 0,
-		"api": "http://www.ggmmzy.com:9999/inc/xml",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 0
-	  },
-	  {
 		"key": "zp024",
-		"name": "BT天堂-伦理",
+		"name": "BT天堂",
 		"type": 0,
 		"api": "http://bttcj.com/inc/sapi.php",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 0
-	  },
-	  {
-		"key": "zp011",
-		"name": "78乐播",
-		"type": 0,
-		"api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 0
