@@ -23,7 +23,7 @@ https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/tv.m
   </table>
 <h2>注意</h2>
 针对于央视卫视直播源，路由器需要开启 IPV6 模式，把直播源地址填入空壳直播软件，如果遇到卡顿（也可能与硬件性能和网络运营商有关系），遥控器右键换线路即可，我会及时清理卡顿的直播源<br/>
-<h2>TvBox专用</h2>
+<h2>TvBox</h2>
 <table>
   <thead>
     <tr>
@@ -33,7 +33,7 @@ https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/tv.m
     </tr>
     <tbody>
     <tr>
-<td>tvbox专享</td>
+<td>tvbox</td>
 <td>https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/movies.json</td>
 <td>https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/video.json</br>（18+链接，提示一下避免社死）</td>
 </tr>
@@ -80,4 +80,5 @@ iKuuu：https://ikuuu.pw/auth/register?code=FJQz<br/>
 
 <img src="https://github.com/wwb521/live/blob/main/pay.jpeg" width="470px">
 
-<img src="https://api.star-history.com/svg?repos=wwb521/live&type=Date" width="550px" a ="https://star-history.com/#wwb521/live&Date">
+
+<img src="https://api.star-history.com/svg?repos=wwb521/live&type=Date" width="550px">
