@@ -80,4 +80,4 @@ iKuuu：https://ikuuu.pw/auth/register?code=FJQz<br/>
 
 <img src="https://github.com/wwb521/live/blob/main/pay.jpeg" width="470px">
 
-<img src="https://api.star-history.com/svg?repos=wwb521/live&type=Date" width="550px">
+<img src="https://api.star-history.com/svg?repos=wwb521/live&type=Date" width="550px" a ="https://star-history.com/#wwb521/live&Date">
