@@ -79,3 +79,4 @@ iKuuu：https://ikuuu.pw/auth/register?code=FJQz<br/>
 免费机场：https://3w.付费机场.com/#/register?code=vwm5gImq<br/>
 
 <img src="https://github.com/wwb521/live/blob/main/pay.jpeg" width="450px">
+<iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://star-history.com/embed?secret=Z2hwXzJaWG85NXNxajRoOXFWTTJsSDh4Unk0S3g0UW51bDM0bXZXMQ==#wwb521/live&Date" frameBorder="0"></iframe>
