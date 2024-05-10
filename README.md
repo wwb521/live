@@ -80,4 +80,4 @@ iKuuu：https://ikuuu.pw/auth/register?code=FJQz<br/>
 
 <img src="https://github.com/wwb521/live/blob/main/pay.jpeg" width="450px">
 
-<iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://star-history.com/embed?secret=Z2hwX0hjQmlJTFc0YnltWDlub25kSnppMmg0eHdxM2U1ZDBwdDVCZQ==#wwb521/live&Date" frameBorder="0"></iframe>
+<img style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://star-history.com/embed?secret=Z2hwX0hjQmlJTFc0YnltWDlub25kSnppMmg0eHdxM2U1ZDBwdDVCZQ==#wwb521/live&Date" frameBorder="0">
