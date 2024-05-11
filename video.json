@@ -132,14 +132,6 @@
 		"jar": "https://share.nite07.com/api/v3/file/source/18178/18.jar?sign=4snwZEDuzr88tmVvCLDre0Jjbt5hOKh7zrtE37bQV30%3D%3A0"
 	  },
 	  {
-		"key": "*色猫",
-		"name": "色猫",
-		"type": 1,
-		"api": "https://api.maozyapi.com/inc/apijson_vod.php?c=list",
-		"searchable": 0,
-		"quickSearch": 0
-	  },
-	  {
 		"key": "*香奶儿",
 		"name": "香奶儿",
 		"type": 0,
