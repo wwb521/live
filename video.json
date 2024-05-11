@@ -135,7 +135,7 @@
 		"key": "*色猫",
 		"name": "色猫",
 		"type": 1,
-		"api": "https://api.maozyapi.com/inc/apijson_vod.php",
+		"api": "https://caiji.semaozy.net/inc/api.php",
 		"searchable": 0,
 		"quickSearch": 0
 	  },
