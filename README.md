@@ -1,6 +1,9 @@
 <h1 align="center"> <img src="https://github.com/wwb521/live/blob/main/ys.ico">一个分享电视、影视源的项目 </h1>
 <h3 align="center">永久免费 完整开源 </h3>
 
+<h2>公告栏</h2>
+<h3>已经进厂当牛马，所以更新不及时，我会在空余时间更新，感谢大家的支持</h3>
+
 <h2>IPV6直播源</h2>
 <table>
   <thead>
