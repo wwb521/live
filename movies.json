@@ -13,15 +13,15 @@
     },
     {
       "key": "玩偶",
-      "name": "🧸玩偶哥哥",
+      "name": "玩偶┃弹幕",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-          "aliToken": "tvfan/token.txt",
-          "quarkCookie": "tvfan/cookie.txt",
+          "aliToken": "http://127.0.0.1:9978/file/tvbox/token.txt",
+          "quarkCookie": "http://127.0.0.1:9978/file/tvbox/cookie.txt",
           "from": "4k|auto|fhd",
           "siteUrl": "https://www.wogg.link/",
           "danMu": "弹"
