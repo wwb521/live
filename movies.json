@@ -12,20 +12,21 @@
       "filterable": 0
     },
     {
-      "key": "玩偶弹幕版",
-      "name": "👽玩偶┃4K弹幕",
+      "key": "玩偶",
+      "name": "🧸玩偶哥哥",
       "type": 3,
-      "api": "csp_Wogg",
+      "api": "csp_WoGG",
       "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
       "ext": {
-        "token": "file://TV/ali_token.txt",
-        "wogg": true,
-        "danmu": true
-      },
-      "timeout": 30
-    },
+          "aliToken": "tvfan/token.txt",
+          "quarkCookie": "tvfan/cookie.txt",
+          "from": "4k|auto|fhd",
+          "siteUrl": "https://www.wogg.link/",
+          "danMu": "弹"
+      }
+  },
     {
       "key": "YGP",
       "name": "叨观荐影",
