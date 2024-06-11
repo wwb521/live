@@ -1,5 +1,5 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1714982657770/fan.txt;md5;5c80b7ff2b016f49144335e5c48883c5",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1717839432492/fan.txt;md5;d8f21fa84abb5ff61d7f1a0b7a78ec26",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "sites": [
     {
@@ -10,6 +10,15 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
+    },
+    {
+      "key": "YGP",
+      "name": "叨观荐影",
+      "type": 3,
+      "api": "csp_YGP",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
     },
     {
       "key": "玩偶",
@@ -26,15 +35,6 @@
         "siteUrl": "https://www.wogg.link/",
         "danMu": "弹"
       }
-    },
-    {
-      "key": "YGP",
-      "name": "叨观荐影",
-      "type": 3,
-      "api": "csp_YGP",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
     },
     {
       "key": "原创",
