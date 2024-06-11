@@ -54,7 +54,6 @@ CCTV-17农村,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88
 西藏卫视,http://tv.cry33.com/xizang.php?id=0
 陕西卫视,http://222.241.154.37:9901/tsfile/live/23048_1.m3u8?key=txiptv&playlive=1&authid=0
 兵团卫视,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0&cdn=5202#https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
-广东体育,http://116.21.123.117:4433/tsfile/live/0142_1.m3u8
 北京纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 福建卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225620/index.m3u8
 
@@ -78,7 +77,7 @@ CHC动作电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 
 港澳,#genre#
 凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8#http://113.64.145.195:8081/hls/37/index.m3u8#http://www.lebaobei.top:6868/udp/239.255.30.50:8231
-凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8#http://113.64.145.195:8081/hls/36/index.m3u8#http://www.lebaobei.top:6868/udp/239.255.30.70:8231
+凤凰资讯,http://113.64.145.55:8081/hls/36/index.m3u8#http://113.64.145.105:8081/hls/36/index.m3u8#http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8#http://113.64.145.195:8081/hls/36/index.m3u8#http://www.lebaobei.top:6868/udp/239.255.30.70:8231
 凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8#http://113.64.145.91:8081/hls/38/index.m3u8#http://113.64.145.195:8081/hls/38/index.m3u8#http://113.64.145.34:8081/hls/38/index.m3u8#http://extraott.com:80/live/7921751389/6097373662/62816.m3u8#http://171.108.239.54:8181/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0#http://www.lebaobei.top:6868/udp/239.255.30.123:8231
 TVB星河,http://113.64.145.195:8081/hls/135/index.m3u8
 香港佛陀,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
@@ -87,7 +86,6 @@ TVB星河,http://113.64.145.195:8081/hls/135/index.m3u8
 明珠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts
 有线新闻台,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
-凤凰卫视,http://113.64.145.55:8081/hls/36/index.m3u8#http://113.64.145.105:8081/hls/36/index.m3u8
 澳门莲花,http://php.jdshipin.com:8880/amlh.php
 纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8#https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130#http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130#https://cloud.yumixiu768.com:443/tmp/123.m3u8
 东森超视,http://171.108.239.54:8181/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -101,6 +99,7 @@ TVB星河,http://113.64.145.195:8081/hls/135/index.m3u8
 动漫秀场,http://www.lebaobei.top:6868/udp/239.255.29.16:8231#http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000009&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 
 体育频道,#genre#
+广东体育,http://116.21.123.117:4433/tsfile/live/0142_1.m3u8
 五星体育,http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8?IAS
 咪咕运动,http://[2409:8087:1a01:df::4041]/PLTV/88888888/224/3221226053/index.m3u8
 央视台球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/1.m3u8?m3u8_level=2
