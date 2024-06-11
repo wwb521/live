@@ -87,7 +87,6 @@ TVB星河,http://113.64.145.195:8081/hls/135/index.m3u8
 有线新闻台,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 澳门莲花,http://php.jdshipin.com:8880/amlh.php
-纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8#https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130#http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130#https://cloud.yumixiu768.com:443/tmp/123.m3u8
 东森超视,http://171.108.239.54:8181/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
 东森电影,http://171.108.239.54:8181/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 
