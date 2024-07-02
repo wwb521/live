@@ -3,18 +3,6 @@
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "sites": [
     {
-      "key": "ziji2",
-      "name": "💘橘子柚┃4K|弹幕💘",
-      "type": 3,
-      "api": "csp_Zijijiekou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "ext": {
-        "token": "",
-        "url": "https://www.juziyou.vip"
-      }
-    },
-    {
       "key": "豆豆",
       "name": "豆豆",
       "type": 3,
@@ -47,6 +35,15 @@
         "siteUrl": "https://www.wogg.link/",
         "danMu": "弹"
       }
+    },
+    {
+      "key": "Wexyingchao",
+      "name": "💘影巢┃综合4K💘",
+      "type": 3,
+      "jar": "https://gitee.com/hackyjso/TVbox/raw/main/jar/wex.jar",
+      "api": "csp_Wexyingchao",
+      "searchable": 1,
+      "changeable": 1
     },
     {
       "key": "原创",
