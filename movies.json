@@ -22,7 +22,7 @@
     },
     {
       "key": "玩偶",
-      "name": "👽玩偶哥哥┃4K弹幕",
+      "name": "玩偶哥哥",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
@@ -495,129 +495,7 @@
       ]
     }
   ],
-  "rules": [
-    {
-      "name": "kk",
-      "hosts": [
-        "kuaikan"
-      ],
-      "regex": [
-        "5",
-        "20.123",
-        "20.167",
-        "#EXT-X-DISCONTINUITY\\r*\\n*((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-KEY:METHOD((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-DISCONTINUITY"
-      ]
-    },
-    {
-      "name": "yqk",
-      "hosts": [
-        "yqk"
-      ],
-      "regex": [
-        "18.4",
-        "15.1666",
-        "#EXT-X-DISCONTINUITY\\r*\\n*((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-CUE-OUT((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-CUE-IN"
-      ]
-    },
-    {
-      "name": "sn",
-      "hosts": [
-        "suonizy"
-      ],
-      "regex": [
-        "#EXTINF.*?\\s+.*?original.*?\\.ts\\s+",
-        "15.1666",
-        "15.2666",
-        "16.3333",
-        "15.266667"
-      ]
-    },
-    {
-      "name": "bf",
-      "hosts": [
-        "bfzy"
-      ],
-      "regex": [
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
-      ]
-    },
-    {
-      "name": "xx",
-      "hosts": [
-        "aws.ulivetv.net"
-      ],
-      "regex": [
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"
-      ]
-    },
-    {
-      "name": "lz",
-      "hosts": [
-        "vip.lz",
-        "hd.lz",
-        "v.cdnlz",
-        "yzzy1.play"
-      ],
-      "regex": [
-        "18.5333",
-        "19.52",
-        "18.6666"
-      ]
-    },
-    {
-      "name": "ff",
-      "hosts": [
-        "vip.ffzy",
-        "hd.ffzy",
-        "ffzy"
-      ],
-      "regex": [
-        "25.0666",
-        "25.08",
-        "20.52",
-        "25.1",
-        "25.1999"
-      ]
-    },
-    {
-      "name": "hs",
-      "hosts": [
-        "huoshan.com"
-      ],
-      "regex": [
-        "item_id="
-      ]
-    },
-    {
-      "name": "dy",
-      "hosts": [
-        "douyin.com"
-      ],
-      "regex": [
-        "is_play_url="
-      ]
-    },
-    {
-      "name": "nm",
-      "hosts": [
-        "toutiaovod.com"
-      ],
-      "regex": [
-        "video/tos/cn"
-      ]
-    },
-    {
-      "name": "cl",
-      "hosts": [
-        "magnet"
-      ],
-      "regex": [
-        "最 新",
-        "直 播",
-        "更 新"
-      ]
-    }
-  ],
+  "logo": "https://raw.githubusercontent.com/wwb521/live/main/ys.ico",
   "lives": [
     {
       "name": "IPV6",
