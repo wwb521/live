@@ -71,10 +71,8 @@ https://wwt.lanzouj.com/b00y2bymj 密码:7kkf<br/>
 <h2>打赏支持是我更新的动力</h2>
 <img src="https://github.com/wwb521/live/blob/main/pay.jpeg" width="470px">
 
-
-<img src="https://api.star-history.com/svg?repos=wwb521/live&type=Date" width="520px">
-
 <h2>联系</h2>
 <h3>扫码联系</h3>
 <img src="https://github.com/wwb521/live/blob/main/lx.png" width="470px">
+<img src="https://api.star-history.com/svg?repos=wwb521/live&type=Date" width="520px">
 
