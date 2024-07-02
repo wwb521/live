@@ -37,15 +37,6 @@
       }
     },
     {
-      "key": "Wexyingchao",
-      "name": "💘影巢┃综合4K💘",
-      "type": 3,
-      "jar": "https://gitee.com/hackyjso/TVbox/raw/main/jar/wex.jar",
-      "api": "csp_Wexyingchao",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
       "key": "原创",
       "name": "原创",
       "type": 3,
