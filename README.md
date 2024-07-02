@@ -76,4 +76,4 @@ https://wwt.lanzouj.com/b00y2bymj 密码:7kkf<br/>
 <img src="https://github.com/wwb521/live/blob/main/pay.jpeg" width="470px">
 
 
-<img src="https://api.star-history.com/svg?repos=wwb521/live&type=Date" width="550px">
+<img src="https://api.star-history.com/svg?repos=wwb521/live&type=Date" width="520px">
