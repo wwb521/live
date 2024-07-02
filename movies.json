@@ -1,5 +1,5 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1717839432492/fan.txt;md5;d8f21fa84abb5ff61d7f1a0b7a78ec26",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719686854241/fan.txt;md5;5640a8ad5bd5face5679bd8d6d73d44a",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "sites": [
     {
@@ -22,7 +22,7 @@
     },
     {
       "key": "玩偶",
-      "name": "玩偶哥哥",
+      "name": "👽玩偶哥哥┃4K弹幕",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
@@ -32,10 +32,10 @@
         "aliToken": "tvfan/token.txt",
         "quarkCookie": "tvfan/cookie.txt",
         "from": "4k|auto|fhd",
-        "siteUrl": "https://www.wogg.net/",
+        "siteUrl": "https://www.wogg.link/",
         "danMu": "弹"
       }
-    },
+    }
     {
       "key": "原创",
       "name": "原创",
