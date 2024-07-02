@@ -1,15 +1,6 @@
 {
     "spider": "http://dd.ma/CFlLnSbJ",
     "wallpaper": "https://api.btstu.cn/sjbz/api.php",
-    "lives": [
-        {
-          "name": "IPV6",
-          "type": 0,
-          "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/tv.txt",
-          "playerType": 1
-        }
-      ],
-    "wallpaper": "https://api.btstu.cn/sjbz/api.php",
     "sites": [
         {
             "key": "处女控",
@@ -108,7 +99,7 @@
             "api": "https://api.apilyzy.com/api.php/provide/vod/",
             "searchable": 0,
             "quickSearch": 0
-          },
+        },
         {
             "key": "番号",
             "name": "番号",
