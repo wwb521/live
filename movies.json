@@ -68,15 +68,15 @@
       "ext": "https://czzy.top/"
     },
     {
-      "key": "糯米",
-      "name": "糯米",
+      "key": "Zx4k",
+      "name": "专线",
       "type": 3,
-      "api": "csp_Nmys",
+      "api": "csp_Zx4k",
       "timeout": 15,
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/nmys.json"
+      "changeable": 1
     },
     {
       "key": "低端",
@@ -118,15 +118,56 @@
       "ext": "https://www.zxzjhd.com/"
     },
     {
-      "key": "Auete",
-      "name": "奥特",
+      "key": "可可",
+      "name": "可可",
       "type": 3,
-      "api": "csp_Auete",
+      "api": "csp_Kekys",
       "timeout": 15,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "小点",
+      "name": "小点",
+      "type": 3,
+      "api": "csp_Xdys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "热播",
+      "name": "热播",
+      "type": 3,
+      "api": "csp_AppTT",
+      "timeout": 15,
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://auete.pro/"
+      "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
+    },
+    {
+      "key": "比特",
+      "name": "比特",
+      "type": 3,
+      "api": "csp_Bttwoo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "新6V",
+      "name": "新6V",
+      "type": 3,
+      "api": "csp_SixV",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "https://www.xb6v.com/"
     },
     {
       "key": "贱贱",
@@ -155,24 +196,16 @@
       "ext": "http://dt.xn--yety82d.love/js/TVB云播.js"
     },
     {
-      "key": "农民",
-      "name": "农民",
+      "key": "文采",
+      "name": "💮文采┃秒播",
       "type": 3,
-      "api": "csp_Nmys",
-      "timeout": 15,
+      "api": "csp_Jpys",
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/nmys.json"
+      "changeable": 1
     },
-    {
-      "key": "saohuo",
-      "name": " 骚火",
-      "type": 3,
-      "playerType": "2",
-      "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
-      "ext": "http://dt.xn--yety82d.love/js/骚火.js"
-    },
+
     {
       "key": "drpy_js_奇珍异兽",
       "name": "爱奇艺",
@@ -211,15 +244,6 @@
       "changeable": 1
     },
     {
-      "key": "Ying",
-      "name": "樱花",
-      "type": 3,
-      "api": "csp_Ying",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
       "key": "Ysj",
       "name": "异界",
       "type": 3,
@@ -233,69 +257,6 @@
       "name": "日本",
       "type": 3,
       "api": "csp_Anime1",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "310js",
-      "name": "310",
-      "type": 3,
-      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/310直播.js",
-      "style": {
-        "type": "list"
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
-      "key": "企鹅体育xp",
-      "name": "企鹅",
-      "type": 3,
-      "api": "csp_XPath",
-      "style": {
-        "type": "list"
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/企鹅直播.json"
-    },
-    {
-      "key": "酷奇",
-      "name": "酷奇",
-      "type": 3,
-      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/酷奇MV.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
-      "key": "MTV",
-      "name": "明星",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/MTV.json"
-    },
-    {
-      "key": "短剧",
-      "name": "上头",
-      "type": 3,
-      "api": "csp_Djuu",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -365,90 +326,6 @@
         "aliToken": "tvfan/token.txt",
         "from": "4k|auto|fhd"
       }
-    },
-    {
-      "key": "Bili",
-      "name": "哔哔",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/bilibili.json"
-    },
-    {
-      "key": "Biliych",
-      "name": "明星",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/biliych.json"
-    },
-    {
-      "key": "少儿教育",
-      "name": "少儿",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/少儿教育.json"
-    },
-    {
-      "key": "小学课堂",
-      "name": "小学",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/小学课堂.json"
-    },
-    {
-      "key": "初中课堂",
-      "name": "初中",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/初中课堂.json"
-    },
-    {
-      "key": "高中教育",
-      "name": "高中",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/高中课堂.json"
     }
   ],
   "doh": [
