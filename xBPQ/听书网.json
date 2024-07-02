@@ -1,0 +1,21 @@
+
+{"站名": "听书网",
+"主页url": "https://www.tingbook.cc",
+"数组": "class=\"col-12 col-m-24 col3-\"&&</p>",
+"图片": "src=\"&&\"",
+"标题": "alt=\"&&\"",
+"链接": "href=\"&&\"",
+"图片前缀": "https://www.tingbook.cc",
+"状态": "> <span class=\"mr10\">&&</span>",
+"搜索url": "https://www.tingbook.cc/search.php?searchword={wd}",
+"搜索图片前缀":"https://www.tingbook.cc",
+"播放数组": "class=\"tx-title2 f-16 f-bold&&</ul>",
+"导演":"作者：&&&nbsp;&nbsp;",
+"主演":"播音：&&</p>",
+"简介":"播音，&&</p>",
+"播放列表":"<a&&/a>",
+"播放标题":"title=\"&&\"",
+"播放链接":"href=\"&&\"",
+"分类":"玄幻$1#武侠$2#都市$3#言情$4#科幻$5#推理$6#恐怖$7#惊悚$8#历史$9#军事$10#网游$11#官商$12#评书$13#相声$14#文学$15#儿童$16#穿越$28#娱乐$29#笑话$30#戏曲$31#其它$32#百家讲坛$33",
+"分类url":"https://www.tingbook.cc/book/{cateId}-{catePg}.html"
+}
