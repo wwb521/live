@@ -3,6 +3,18 @@
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "sites": [
     {
+      "key": "ziji2",
+      "name": "💘橘子柚┃4K|弹幕💘",
+      "type": 3,
+      "api": "csp_Zijijiekou",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": {
+        "token": "",
+        "url": "https://www.juziyou.vip"
+      }
+    },
+    {
       "key": "豆豆",
       "name": "豆豆",
       "type": 3,
