@@ -3,17 +3,12 @@
     "wallpaper": "https://api.btstu.cn/sjbz/api.php",
     "lives": [
         {
-            "group": "redirect",
-            "channels": [
-                {
-                    "name": "redirect",
-                    "urls": [
-                        "proxy://do=live&type=txt&ext=https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/tv.txt"
-                    ]
-                }
-            ]
+          "name": "IPV6",
+          "type": 0,
+          "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/tv.txt",
+          "playerType": 1
         }
-    ],
+      ],
     "wallpaper": "https://api.btstu.cn/sjbz/api.php",
     "sites": [
         {
