@@ -94,6 +94,7 @@
 		"quickSearch": 0
 	  }
 	],
+	"logo": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/ys.ico",
 	"parses": [
 	  {
 		"name": "解析聚合",
@@ -459,6 +460,5 @@
 		  }
 		]
 	  }
-	],
-	"logo": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/ys.ico"
+	]
   }
