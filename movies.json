@@ -170,17 +170,6 @@
       "ext": "https://www.xb6v.com/"
     },
     {
-      "key": "贱贱",
-      "name": "荐片",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "playerType": "1",
-      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"
-    },
-    {
       "key": "FreeOK",
       "name": "️️Fre",
       "type": 3,
@@ -197,7 +186,7 @@
     },
     {
       "key": "文采",
-      "name": "💮文采┃秒播",
+      "name": "文采",
       "type": 3,
       "api": "csp_Jpys",
       "playerType": 2,
