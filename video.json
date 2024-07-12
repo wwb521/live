@@ -3,6 +3,15 @@
     "wallpaper": "https://liu.chuqiuyu.workers.dev",
     "sites": [
         {
+            "key": "155zy.com",
+            "name": "♥155(直连)",
+            "type": 1,
+            "api": "https://155api.com/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "处女控",
             "name": "处女控",
             "type": 1,
