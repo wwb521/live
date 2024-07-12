@@ -12,6 +12,54 @@
             "filterable": 1
         },
         {
+            "key": "tantanzy.com",
+            "name": "💕探探(直连)",
+            "type": 1,
+            "api": "https://apittzy.com/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "filterable": 1
+        },
+        {
+            "key": "didizy.com",
+            "name": "♥滴滴(直连)",
+            "type": 1,
+            "api": "https://api.ddapi.cc/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "filterable": 1
+        },
+        {
+            "key": "vnzyz.com",
+            "name": "💕越南(直连)",
+            "type": 1,
+            "api": "https://vnzyz.com/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "filterable": 1
+        },
+        {
+            "key": "jingpinx.com",
+            "name": "★精品下(直连)",
+            "type": 1,
+            "api": "https://www.jingpinx.com//api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "filterable": 1
+        },
+        {
+            "key": "sesehuzy.com",
+            "name": "💕色虎(直连)",
+            "type": 1,
+            "api": "https://apisesehuzy.com/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "filterable": 1
+        },
+        {
+            "key": "semaozy.com",
+            "name": "色猫(FQ)",
+            "type": 1,
+            "api": "https://caiji.semaozy.net/inc/apijson_vod.php",
+            "searchable": 1,
+            "filterable": 1
+        },
+        {
             "key": "处女控",
             "name": "处女控",
             "type": 1,
@@ -46,6 +94,228 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        },
+        {
+            "key": "dadiapi.com",
+            "name": "成人09",
+            "type": 0,
+            "api": "http://dadiapi.com/api.php",
+            "searchable": 1,
+            "recordable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "header": {
+                "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+                "User-Agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"
+            }
+        },
+        {
+            "key": "llzxcj.com",
+            "name": "成人11",
+            "type": 0,
+            "api": "http://llzxcj.com/inc/sck.php?ac=videolist",
+            "searchable": 1,
+            "recordable": 0,
+            "style": {
+              "type": "rect",
+              "ratio": 1.33
+            },
+            "header": {
+              "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+              "User-Agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"
+            }
+          },
+          {
+            "key": "f2dcj6.com",
+            "name": "成人14",
+            "type": 0,
+            "api": "http://f2dcj6.com/sapi?ac=videolist",
+            "searchable": 1,
+            "recordable": 0,
+            "style": {
+              "type": "rect",
+              "ratio": 1.33
+            },
+            "header": {
+              "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+              "User-Agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"
+            }
+          },
+          {
+            "key": "api.maozyapi.com",
+            "name": "成人16",
+            "type": 1,
+            "api": "https://api.maozyapi.com/inc/apijson_vod.php",
+            "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
+            "searchable": 1,
+            "recordable": 0,
+            "style": {
+              "type": "rect",
+              "ratio": 1.33
+            },
+            "header": {
+              "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+              "User-Agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"
+            }
+          },
+          {
+            "key": "apittzy.com",
+            "name": "成人18",
+            "type": 1,
+            "api": "https://apittzy.com/api.php/provide/vod/",
+            "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
+            "searchable": 1,
+            "recordable": 0,
+            "style": {
+              "type": "rect",
+              "ratio": 1.33
+            },
+            "header": {
+              "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+              "User-Agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"
+            }
+          },
+          {
+            "key": "gdlsp.com",
+            "name": "成人19",
+            "type": 0,
+            "api": "https://www.gdlsp.com/api/xml.php",
+            "searchable": 1,
+            "recordable": 0,
+            "style": {
+              "type": "rect",
+              "ratio": 1.33
+            },
+            "header": {
+              "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+              "User-Agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"
+            }
+          },
+          {
+            "key": "msnii.com",
+            "name": "成人20",
+            "type": 0,
+            "api": "https://www.msnii.com/api/xml.php",
+            "searchable": 1,
+            "recordable": 0,
+            "style": {
+              "type": "rect",
+              "ratio": 1.33
+            },
+            "header": {
+              "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+              "User-Agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"
+            }
+          },
+          {
+            "key": "xrbsp.com",
+            "name": "成人21",
+            "type": 0,
+            "api": "https://www.xrbsp.com/api/xml.php",
+            "searchable": 1,
+            "recordable": 0,
+            "style": {
+              "type": "rect",
+              "ratio": 1.33
+            },
+            "header": {
+              "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+              "User-Agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"
+            }
+          },
+          {
+            "key": "kxgav.com",
+            "name": "成人22",
+            "type": 0,
+            "api": "https://www.kxgav.com/api/xml.php",
+            "searchable": 1,
+            "recordable": 0,
+            "style": {
+              "type": "rect",
+              "ratio": 1.33
+            },
+            "header": {
+              "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+              "User-Agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"
+            }
+          },
+          {
+            "key": "kkzy.me",
+            "name": "成人23",
+            "type": 1,
+            "api": "https://kkzy.me/api.php/provide/vod/",
+            "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
+            "searchable": 1,
+            "recordable": 0,
+            "style": {
+              "type": "rect",
+              "ratio": 1.33
+            },
+            "header": {
+              "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+              "User-Agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"
+            }
+          },
+          {
+            "key": "xrbsp.com",
+            "name": "成人66",
+            "type": 0,
+            "api": "https://www.xrbsp.com/api/xml.php",
+            "quickSearch": 1,
+            "searchable": 1,
+            "filterable": 1
+        },
+        {
+            "key": "dadiapi.com",
+            "name": "成人09",
+            "type": 0,
+            "api": "http://dadiapi.com/api.php",
+            "quickSearch": 1,
+            "searchable": 1,
+            "filterable": 1
+        },
+        {
+            "key": "*Sm",
+            "name": "*Sm",
+            "type": 0,
+            "api": "https://api.maozyapi.com/inc/api.php"
+        },
+        {
+            "key": "*9号资源",
+            "name": "*9号资源",
+            "type": 0,
+            "api": "http://fhapi9.com/api.php/provide/vod/at/xml/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "kkzy.me",
+            "name": "成人51",
+            "type": 1,
+            "api": "https://kkzy.me/api.php/provide/vod/",
+            "quickSearch": 1,
+            "searchable": 1,
+            "filterable": 1
+        },
+        {
+            "key": "api.maozyapi.com",
+            "name": "成人32",
+            "type": 1,
+            "api": "https://api.maozyapi.com/inc/apijson_vod.php",
+            "quickSearch": 1,
+            "searchable": 1,
+            "filterable": 1
+        },
+        {
+            "key": "pwd_袜子",
+            "name": "袜子",
+            "type": 0,
+            "api": "https://www.msnii.com/api/xml.php",
+            "searchable": 0,
+            "quickSearch": 0
         },
         {
             "key": "美少女",
