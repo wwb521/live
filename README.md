@@ -1,8 +1,8 @@
-<h1 align="center"> <img src="https://github.com/wwb521/live/blob/main/ys.ico">一个分享电视、影视源的项目 </h1>
+<h1 align="center"> <img src="https://github.moeyy.xyz/https://github.com/wwb521/live/blob/main/ys.ico">一个分享电视、影视源的项目 </h1>
 <h3 align="center">永久免费 完整开源 </h3>
 
 <h2>公告栏</h2>
-<h3>2024.7.2:直播源已经更新，顺便清理影视接口失效源，均可正常观看！</h3>
+<h3>2024.7.31:直播源已经更新</h3>
 
 <h2>IPV6直播源</h2>
 <table>
@@ -69,10 +69,10 @@ https://github.com/FongMi/Release
 https://wwt.lanzouj.com/b00y2bymj 密码:7kkf<br/>
 
 <h2>打赏支持是我更新的动力</h2>
-<img src="https://github.com/wwb521/live/blob/main/pay.jpeg" width="470px">
+<img src="https://github.moeyy.xyz/https://github.com/wwb521/live/blob/main/pay.jpeg" width="470px">
 
 <h2>联系</h2>
 <h3>扫码联系</h3>
-<img src="https://github.com/wwb521/live/blob/main/lx.png" width="470px">
+<img src="https://github.moeyy.xyz/https://github.com/wwb521/live/blob/main/lx.png" width="470px">
 <img src="https://api.star-history.com/svg?repos=wwb521/live&type=Date" width="520px">
 
