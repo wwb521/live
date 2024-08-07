@@ -588,7 +588,7 @@
       "type": 0,
       "url": "https://raw.github.tax/wwb521/live/main/tv.txt",
       "playerType": 1,
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "epg": "https://live.fanmingming.com/e.xml",
       "logo": "https://live.fanmingming.com/tv/{name}.png"
     }
   ]
