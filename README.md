@@ -66,7 +66,10 @@ https://www.lige.chat</br>
 
 <h2>软件</h2>
 <h3>tvbox软件</h3>
-https://github.com/FongMi/Release
+https://github.com/FongMi/Release</br>
+
+可视TV Max：
+https://wwc.lanzoub.com/b0es81t8j 密码:54jb</br>
 
 <h3>空壳直播软件</h3>
 https://wwt.lanzouj.com/b00y2bymj 密码:7kkf<br/>
