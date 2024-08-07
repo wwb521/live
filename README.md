@@ -17,10 +17,10 @@
       <td>IPTV</td>
       <td>https://raw.githubusercontent.com/wwb521/live/main/tv.txt<br/>
 
-https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/tv.txt</td>
+https://raw.github.tax/wwb521/live/main/tv.txt</td>
 <td>https://raw.githubusercontent.com/wwb521/live/main/tv.m3u<br/>
 
-https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u <br/></td>
+https://raw.github.tax/wwb521/live/main/tv.m3u <br/></td>
     </tr>
   </thead>
   </table>
@@ -37,8 +37,8 @@ https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/tv.m
     <tbody>
     <tr>
 <td>tvbox</td>
-<td>https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/movies.json</td>
-<td>https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/video.json</br>（18+链接，提示一下避免社死）</td>
+<td>https://raw.github.tax/wwb521/live/main/movies.json</td>
+<td>https://raw.github.tax/wwb521/live/main/video.json</br>（18+链接，提示一下避免社死）</td>
 </tr>
   </thead>
   </table>
