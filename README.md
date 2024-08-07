@@ -15,7 +15,11 @@
     <tbody>
     <tr>
       <td>IPTV</td>
+      <td>
+
 https://raw.github.tax/wwb521/live/main/tv.txt</td>
+
+<td>
 
 https://raw.github.tax/wwb521/live/main/tv.m3u <br/></td>
 
