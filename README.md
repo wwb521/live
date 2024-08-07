@@ -61,7 +61,7 @@ https://github.com/Potato-66/SimpleTV</br>
 
 <h2>觉得上面tvbox接口不咋的，就去这些网站看</h2>
 https://cyuan.netlify.app/</br>
-http://xn--sss604efuw.top/</br>
+https://xn--sss604efuw.com/</br>
 https://www.lige.chat</br>
 
 <h2>软件</h2>
