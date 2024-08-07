@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://raw.github.tax/wwb521/live/blob/main/ys.ico">一个分享电视、影视源的项目 </h1>
+<h1 align="center"> <img src="https://raw.github.tax/wwb521/live/main/ys.ico">一个分享电视、影视源的项目 </h1>
 <h3 align="center">永久免费 完整开源 </h3>
 
 <h2>公告栏</h2>
@@ -15,13 +15,12 @@
     <tbody>
     <tr>
       <td>IPTV</td>
-      <td>https://raw.githubusercontent.com/wwb521/live/main/tv.txt<br/>
-
 https://raw.github.tax/wwb521/live/main/tv.txt</td>
-<td>https://raw.githubusercontent.com/wwb521/live/main/tv.m3u<br/>
 
 https://raw.github.tax/wwb521/live/main/tv.m3u <br/></td>
-    </tr>
+
+</tr>
+
   </thead>
   </table>
 <h2>注意</h2>
@@ -32,13 +31,13 @@ https://raw.github.tax/wwb521/live/main/tv.m3u <br/></td>
     <tr>
         <th>类别</th>
         <th>正常</th>
-        <th>18+(小心当场尴尬)</th>
+        <th>18+(当心社死！！！)</th>
     </tr>
     <tbody>
     <tr>
 <td>tvbox</td>
 <td>https://raw.github.tax/wwb521/live/main/movies.json</td>
-<td>https://raw.github.tax/wwb521/live/main/video.json</br>（18+链接，提示一下避免社死）</td>
+<td>https://raw.github.tax/wwb521/live/main/video.json</br></td>
 </tr>
   </thead>
   </table>
@@ -69,10 +68,9 @@ https://github.com/FongMi/Release
 https://wwt.lanzouj.com/b00y2bymj 密码:7kkf<br/>
 
 <h2>打赏支持是我更新的动力</h2>
-<img src="https://raw.github.tax/wwb521/live/blob/main/pay.jpeg" width="470px">
+<img src="https://raw.github.tax/wwb521/live/main/pay.jpeg" width="470px">
 
 <h2>联系</h2>
 <h3>扫码联系</h3>
-<img src="https://raw.github.tax/wwb521/live/blob/main/lx.png" width="470px">
+<img src="https://raw.github.tax/wwb521/live/main/lx.png" width="470px">
 <img src="https://api.star-history.com/svg?repos=wwb521/live&type=Date" width="520px">
-
