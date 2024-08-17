@@ -62,7 +62,7 @@ CHC动作电影,http://[2409:8087:5e00:24::1e]:6060/000000001000/100000000400001
 香港佛陀,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
 
 少儿,#genre#
-黑莓动画「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
+黑莓动画,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 金鹰卡通,http://123.54.171.19:808/hls/91/index.m3u8
 
