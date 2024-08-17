@@ -78,6 +78,5 @@ https://wwt.lanzouj.com/b00y2bymj 密码:7kkf<br/>
 <h2>打赏支持是我更新的动力</h2>
 <img src="https://raw.github.tax/wwb521/live/main/pay.jpeg" width="480px">
 
-<h2>联系</h2>
-<h3>扫码联系</h3>
+<h2>扫码联系</h2>
 <img src="https://raw.github.tax/wwb521/live/main/lx.png" width="470px">
