@@ -81,4 +81,3 @@ https://wwt.lanzouj.com/b00y2bymj 密码:7kkf<br/>
 <h2>联系</h2>
 <h3>扫码联系</h3>
 <img src="https://raw.github.tax/wwb521/live/main/lx.png" width="470px">
-<img src="https://api.star-history.com/svg?repos=wwb521/live&type=Date" width="520px">
