@@ -75,6 +75,8 @@ https://wwc.lanzoub.com/b0es81t8j 密码:54jb</br>
 <h3>空壳直播软件</h3>
 https://wwt.lanzouj.com/b00y2bymj 密码:7kkf<br/>
 
+https://github.com/lizongying/my-tv-0/releases
+
 <h2>打赏支持是我更新的动力</h2>
 <img src="https://raw.github.tax/wwb521/live/main/pay.jpeg" width="480px">
 
