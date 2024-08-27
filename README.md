@@ -82,3 +82,9 @@ https://github.com/lizongying/my-tv-0/releases
 
 <h2>扫码联系</h2>
 <img src="https://raw.github.tax/wwb521/live/main/lx.png" width="470px">
+
+<h2>VPN机场推荐</h2></br>
+<a href="https://w.免费机场.com/#/register?code=vwm5gImq">免费-付费机场</a>
+<a href="https://ikuuu.pw/auth/register?code=FJQz">ikuuu机场</a>
+
+
