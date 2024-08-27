@@ -3,23 +3,6 @@
     "wallpaper": "http://api.btstu.cn/sjbz",
     "sites": [
         {
-            "key": "155zy.com",
-            "name": "155",
-            "type": 1,
-            "api": "https://155api.com/api.php/provide/vod/?ac=list",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "tantanzy.com",
-            "name": "探探",
-            "type": 1,
-            "api": "https://apittzy.com/api.php/provide/vod/?ac=list",
-            "searchable": 1,
-            "filterable": 1
-        },
-        {
             "key": "jingpinx.com",
             "name": "精品",
             "type": 1,
@@ -28,71 +11,10 @@
             "filterable": 1
         },
         {
-            "key": "sesehuzy.com",
-            "name": "色虎",
-            "type": 1,
-            "api": "https://apisesehuzy.com/api.php/provide/vod/?ac=list",
-            "searchable": 1,
-            "filterable": 1
-        },
-        {
-            "key": "semaozy.com",
-            "name": "色猫1",
-            "type": 1,
-            "api": "https://caiji.semaozy.net/inc/apijson_vod.php",
-            "searchable": 1,
-            "filterable": 1
-        },
-        {
-            "key": "处女控",
-            "name": "处女控",
-            "type": 1,
-            "api": "https://ckzy.me/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "CK",
-            "name": "CK",
-            "type": 1,
-            "api": "https://ckzy.me/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "AIvin",
-            "name": "AIvin",
-            "type": 0,
-            "api": "http://lbapiby.com/api.php/provide/vod/at/xml",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "色猫",
             "name": "色猫2",
             "type": 1,
             "api": "https://api.maozyapi.com/inc/apijson_vod.php",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-	 {
-            "key": "*9号资源",
-            "name": "*9号资源",
-            "type": 0,
-            "api": "http://fhapi9.com/api.php/provide/vod/at/xml/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
-        },
-        {
-            "key": "美少女",
-            "name": "美少女",
-            "type": 0,
-            "api": "https://www.msnii.com/api/xml.php",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -149,32 +71,6 @@
             "api": "https://api.apilyzy.com/api.php/provide/vod/",
             "searchable": 0,
             "quickSearch": 0
-        },
-        {
-            "key": "番号",
-            "name": "番号",
-            "type": 1,
-            "api": "http://fhapi9.com/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "KK写真",
-            "name": "KK写真",
-            "type": 1,
-            "api": "https://kkzy.me/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "易看-伦理",
-            "name": "易看-伦理",
-            "type": 1,
-            "api": "https://api.yikanapi.com/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1
         },
 	{
             "key": "dadiapi.com",
@@ -270,16 +166,6 @@
             "name": "成人07",
             "type": 0,
             "api": "http://dadiapi.com/api.php",
-            "quickSearch": 1,
-            "searchable": 1,
-            "filterable": 1
-        },
-       
-        {
-            "key": "kkzy.me",
-            "name": "成人08",
-            "type": 1,
-            "api": "https://kkzy.me/api.php/provide/vod/",
             "quickSearch": 1,
             "searchable": 1,
             "filterable": 1
