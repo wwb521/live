@@ -2,7 +2,7 @@
 <h3 align="center">永久免费 完整开源 </h3>
 
 <h2>公告栏</h2>
-<h3>2024.8.17:直播源已经更新</h3>
+<h3>2024.9.14:直播源已经更新、不做任何技术指导，自己研究咋使用、说明中都有对应的软件下载链接</h3>
 
 <h2>IPV6直播源</h2>
 <table>
@@ -85,6 +85,5 @@ https://github.com/lizongying/my-tv-0/releases
 
 <h2>VPN机场推荐</h2></br>
 <a href="https://w.免费机场.com/#/register?code=vwm5gImq">免费-付费机场</a></br>
-<a href="https://ikuuu.pw/auth/register?code=FJQz">ikuuu机场</a>
 
 
