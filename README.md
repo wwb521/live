@@ -17,7 +17,11 @@
       <td>IPTV</td>
   <td>
 
-https://raw.bgithub.xyz/wwb521/live/refs/heads/main/tv.txt</td>
+https://raw.bgithub.xyz/wwb521/live/refs/heads/main/tv.txt </br>
+
+短链接：http://gg.gg/1c5sff
+
+</td>
 
 <td>
 
