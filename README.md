@@ -15,9 +15,13 @@
     <tbody>
     <tr>
       <td>IPTV</td>
-      <td>短链接</td>
-
   <td>
+
+  <tr>
+      <td>短链接</td>
+  <td>
+
+
 
 https://raw.bgithub.xyz/wwb521/live/refs/heads/main/tv.txt</td>
 
