@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://raw.github.tax/wwb521/live/main/ys.ico">一个分享电视、影视源的项目 </h1>
+<h1 align="center"> <img src="https://raw.bgithub.xyz/wwb521/live/refs/heads/main/ys.ico">一个分享电视、影视源的项目 </h1>
 <h3 align="center">永久免费 完整开源 </h3>
 
 <h2>公告栏</h2>
@@ -17,11 +17,13 @@
       <td>IPTV</td>
       <td>
 
-https://raw.github.tax/wwb521/live/main/tv.txt</td>
+https://raw.bgithub.xyz/wwb521/live/refs/heads/main/tv.txt</td>
+
+<td>http://gg.gg/1c5sff</td>
 
 <td>
 
-https://raw.github.tax/wwb521/live/main/tv.m3u <br/></td>
+https://raw.bgithub.xyz/wwb521/live/refs/heads/main/tv.m3u <br/></td>
 
 </tr>
 
@@ -40,8 +42,8 @@ https://raw.github.tax/wwb521/live/main/tv.m3u <br/></td>
     <tbody>
     <tr>
 <td>tvbox</td>
-<td>https://raw.github.tax/wwb521/live/main/movies.json</td>
-<td>https://raw.github.tax/wwb521/live/main/video.json</br></td>
+<td>https://raw.bgithub.xyz/wwb521/live/refs/heads/main/movies.json</td>
+<td>https://raw.bgithub.xyz/wwb521/live/refs/heads/main/video.json</br></td>
 </tr>
   </thead>
   </table>
@@ -78,10 +80,10 @@ https://wwt.lanzouj.com/b00y2bymj 密码:7kkf<br/>
 https://github.com/lizongying/my-tv-0/releases
 
 <h2>打赏支持是我更新的动力</h2>
-<img src="https://raw.github.tax/wwb521/live/main/pay.jpeg" width="480px">
+<img src="https://raw.bgithub.xyz/wwb521/live/refs/heads/main/pay.jpeg" width="480px">
 
 <h2>扫码联系</h2>
-<img src="https://raw.github.tax/wwb521/live/main/lx.png" width="470px">
+<img src="https://raw.bgithub.xyz/wwb521/live/refs/heads/main/lx.png" width="470px">
 
 <h2>VPN机场推荐</h2></br>
 <a href="https://w.免费机场.com/#/register?code=vwm5gImq">免费-付费机场</a></br>
