@@ -15,15 +15,17 @@
     <tbody>
     <tr>
       <td>IPTV</td>
-      <td>
+      <td>短链接</td>
+
+  <td>
 
 https://raw.bgithub.xyz/wwb521/live/refs/heads/main/tv.txt</td>
-
-<td>http://gg.gg/1c5sff</td>
 
 <td>
 
 https://raw.bgithub.xyz/wwb521/live/refs/heads/main/tv.m3u <br/></td>
+
+<td>http://gg.gg/1c5sff</td>
 
 </tr>
 
