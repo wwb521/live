@@ -17,19 +17,11 @@
       <td>IPTV</td>
   <td>
 
-  <tr>
-      <td>短链接</td>
-  <td>
-
-
-
 https://raw.bgithub.xyz/wwb521/live/refs/heads/main/tv.txt</td>
 
 <td>
 
 https://raw.bgithub.xyz/wwb521/live/refs/heads/main/tv.m3u <br/></td>
-
-<td>http://gg.gg/1c5sff</td>
 
 </tr>
 
