@@ -25,7 +25,10 @@ https://raw.bgithub.xyz/wwb521/live/refs/heads/main/tv.txt </br>
 
 <td>
 
-https://raw.bgithub.xyz/wwb521/live/refs/heads/main/tv.m3u <br/></td>
+https://raw.bgithub.xyz/wwb521/live/refs/heads/main/tv.m3u <br/>
+
+短链接：http://gg.gg/1c5shv
+</td>
 
 </tr>
 
@@ -44,8 +47,17 @@ https://raw.bgithub.xyz/wwb521/live/refs/heads/main/tv.m3u <br/></td>
     <tbody>
     <tr>
 <td>tvbox</td>
-<td>https://raw.bgithub.xyz/wwb521/live/refs/heads/main/movies.json</td>
-<td>https://raw.bgithub.xyz/wwb521/live/refs/heads/main/video.json</br></td>
+<td>https://raw.bgithub.xyz/wwb521/live/refs/heads/main/movies.json </br>
+
+</br>短链接：http://gg.gg/1c5sjl
+
+
+</td>
+<td>https://raw.bgithub.xyz/wwb521/live/refs/heads/main/video.json
+
+</br>短链接：http://gg.gg/1c5sjx
+
+</td>
 </tr>
   </thead>
   </table>
