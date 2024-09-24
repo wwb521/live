@@ -83,7 +83,7 @@ https://www.lige.chat</br>
 <h3>tvbox软件</h3>
 OK影视：</br>
 下载地址：https://github.com/FongMi/Release</br>
-使用教程：<a href="https://www.bilibili.com/video/BV13w411t7dM/?spm_id_from=333.337.search-card.all.click&vd_source=f19472c411e80616c84d4012ae225a87">点击跳转</a> </br>
+使用教程：<a href="https://www.bilibili.com/video/BV13w411t7dM/?spm_id_from=333.337.search-card.all.click&vd_source=f19472c411e80616c84d4012ae225a87">点击跳转</a> </br></br>
 
 可视TV Max：</br>
 https://wwc.lanzoub.com/b0es81t8j 密码:54jb</br>
