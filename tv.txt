@@ -24,7 +24,7 @@ CCTV国防军事,https://epg.pw/stream/ac14de0ee2633fbae592ba76f71688308fcc6cf04
 CCTV世界地理,http://42.48.17.204:808/hls/109/index.m3u8
 CCTV体育赛事,http://8.138.7.223/tv/cqyx2.php?id=cctv5SportHD
 CCTV文化精品,http://42.48.17.204:808/hls/107/index.m3u8
-CCTV央视台球,http://42.48.17.204:808/hls/108/index.m3u8
+CCTV央视台球,http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/ystqHD/__op/default/__f/2/v1M/index.m3u8
 
 卫视,#genre#
 安多卫视,http://stream.qhbtv.com/adws/playlist.m3u8#http://stream.qhbtv.com/adws/playlist.m3u8?_upt=563fa1181721744621#http://stream.qhbtv.com/adws/playlist.m3u8?_upt=739abf201649062902#http://stream.qhbtv.com/adws/playlist.m3u8?_upt=848d1a991707377572#http://stream.qhbtv.com/adws/playlist.m3u8?_upt=be54a04d1719055140#http://stream.qhbtv.com/adws/playlist.m3u8?_upt=d60823ce1718441050#http://stream.qhbtv.com/adws/playlist.m3u8?_upt=fa85a7111719921825#http://stream.qhbtv.com/adws/sd/live.m3u8
