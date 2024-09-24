@@ -105,6 +105,6 @@ https://github.com/lizongying/my-tv-0/releases
 <h2>VPN机场推荐</h2></br>
 <a href="https://w.免费机场.com/#/register?code=vwm5gImq">免费-付费机场</a></br>
 <a href="https://yyds.emovpn.top/#/register?code=LVXCEsxq">EMO</a></br>
-
+<a href="https://xn--wtq35pfyd55o.com/#/register?code=iRxkxiRM">便宜机场</a></br>
 
 
