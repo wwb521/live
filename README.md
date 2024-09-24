@@ -93,7 +93,7 @@ https://wwt.lanzouj.com/b00y2bymj 密码:7kkf<br/>
 https://github.com/lizongying/my-tv-0/releases
 
 <h3>空壳直播软件配置教程（派大星直播APP为例）</h3>
-[![Watch the video]]( https://www.bilibili.com/video/BV1cM4m117sB/?share_source=copy_web&vd_source=53b59998fe06c9cc0dcb8e04bcef510c)
+https://upos-sz-mirrorcos.bilivideo.com/upgcxcode/67/47/1628274767/1628274767-1-30080.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1727201648&gen=playurlv2&os=cosbv&oi=0&trid=50890e5f1c654d9180208dcd2ca65663u&mid=176509426&platform=pc&og=cos&upsig=602fafcf929b73fbbb647b048c621b60&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform,og&bvc=vod&nettype=0&orderid=0,3&buvid=03930D47-D0E3-04AE-B840-E44B59CE86E216088infoc&build=0&f=u_0_0&agrr=0&bw=32660&logo=80000000
 
 <h2>打赏支持是我更新的动力</h2>
 <img src="https://raw.githubusercontent.com/wwb521/live/refs/heads/main/pay.jpeg" width="480px">
