@@ -93,7 +93,7 @@ https://wwt.lanzouj.com/b00y2bymj 密码:7kkf<br/>
 https://github.com/lizongying/my-tv-0/releases
 
 <h3>空壳直播软件配置教程（派大星直播APP为例）</h3>
-<a src="https://www.bilibili.com/video/BV1cM4m117sB/?spm_id_from=333.337.search-card.all.click&vd_source=f19472c411e80616c84d4012ae225a87">点击跳转</a>
+<a href="https://www.bilibili.com/video/BV1cM4m117sB/?spm_id_from=333.337.search-card.all.click&vd_source=f19472c411e80616c84d4012ae225a87">点击跳转</a>
 
 <h2>打赏支持是我更新的动力</h2>
 <img src="https://raw.githubusercontent.com/wwb521/live/refs/heads/main/pay.jpeg" width="480px">
