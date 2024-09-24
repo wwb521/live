@@ -586,7 +586,7 @@
     {
       "name": "IPV6",
       "type": 0,
-      "url": "https://raw.github.tax/wwb521/live/main/tv.txt",
+      "url": "https://raw.bgithub.xyz/wwb521/live/refs/heads/main/tv.txt",
       "playerType": 1,
       "epg": "https://live.fanmingming.com/e.xml",
       "logo": "https://live.fanmingming.com/tv/{name}.png"
