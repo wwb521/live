@@ -21,7 +21,7 @@
         },
     {
       "key": "ms4nii",
-      "name": "美少女资源(已修复)",
+      "name": "美少女",
       "type": 0,
       "api": "https://www.msnii.com/api/xml.php",
       "searchable": 1,
@@ -66,15 +66,6 @@
             "name": "白嫖",
             "type": 0,
             "api": "https://www.kxgav.com/api/xml.php",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "大地",
-            "name": "大地",
-            "type": 0,
-            "api": "https://dadiapi.com/api.php",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
