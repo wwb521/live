@@ -19,6 +19,15 @@
             "quickSearch": 1,
             "filterable": 1
         },
+    {
+      "key": "ms4nii",
+      "name": "美少女资源(已修复)",
+      "type": 0,
+      "api": "https://www.msnii.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
         {
             "key": "淫水机",
             "name": "淫水机",
@@ -36,6 +45,21 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        },
+        {
+            "key": "zp066",
+            "name": "花椒",
+            "type": 0,
+            "api": "https://api.apilyzy.com/api.php/provide/vod/at/xml/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+          },
+        {
+          "key": "*AIvin",
+          "name": "AIvin",
+          "type": 0,
+          "api": "http://lbapiby.com/api.php/provide/vod/at/xml"
         },
         {
             "key": "白嫖",
@@ -72,6 +96,16 @@
             "searchable": 0,
             "quickSearch": 0
         },
+        
+    {
+      "key": "*易看资源",
+      "name": "易看资源",
+      "type": 1,
+      "api": "https://api.yikanapi.com/api.php/provide/vod/",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
 	{
             "key": "dadiapi.com",
             "name": "成人01",
@@ -172,13 +206,22 @@
         },
         {
             "key": "api.maozyapi.com",
-            "name": "成人09",
+            "name": "成人08",
             "type": 1,
             "api": "https://api.maozyapi.com/inc/apijson_vod.php",
             "quickSearch": 1,
             "searchable": 1,
             "filterable": 1
-        }
+        },
+        {
+            "key": "xrbsp.com",
+            "name": "成人09",
+            "type": 0,
+            "api": "https://www.xrbsp.com/api/xml.php",
+            "quickSearch": 1,
+            "searchable": 1,
+            "filterable": 1
+          }
     ],
     "parses": [
         {
