@@ -210,6 +210,3 @@ TVB星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
 东森新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv152#http://litv.zapi.us.kg/?id=4gtv-4gtv152#http://37.27.111.214:8080/live/20/hls.m3u8#http://211.72.65.236:8540/.m3u8
 亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 华视新闻,http://37.27.111.214:8080/live/8/hls.m3u8#https://litv.zapi.us.kg/?id=4gtv-4gtv052#http://litv.zapi.us.kg/?id=4gtv-4gtv052
-
-体育,#genre#
-Trace_Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
