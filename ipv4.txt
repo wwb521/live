@@ -4474,6 +4474,7 @@ viutv6 96,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
 杭州导视,http://120.55.49.231:8872/rtp/233.50.201.182:5140
 杭州青少,http://120.55.49.231:4276/rtp/233.50.201.177:5140
 杭州青少,http://120.55.49.231:8872/rtp/233.50.201.177:5140
+東方衛視國際頻道,http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
 東森新聞台,http://seb.sason.top/sc/dsxw_fhd.m3u8
 東森財經新聞台,http://seb.sason.top/sc/dscjxw_fhd.m3u8
 松潘新闻综合,http://live.spccmc.com:90/live/spxwzh.m3u8
@@ -5477,6 +5478,7 @@ viutv6 96,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
 热门港剧,http://120.77.28.4:8648/douyu.php?id=5522351
 热门港剧,http://159.75.85.63:35455/douyu/5522351
 無線新聞台,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+無線衛星新聞台,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
 焦作公共,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226616/index.m3u8
 焦作公共,http://zhpull.dxhmt.cn/jiaozuo/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8
 焦作教育,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226648/index.m3u8
