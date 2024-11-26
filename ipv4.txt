@@ -5607,9 +5607,6 @@ CHC影迷电影, http://124.231.213.16:9999/tsfile/live/1110_1.m3u8
 CHC影迷电影, http://218.76.32.193:9901/tsfile/live/1019_1.m3u8
 CHC影迷电影, http://223.145.224.201:8000/udp/239.76.245.242:1234
 CHC影迷电影, http://58.19.38.162:9901/tsfile/live/1038_1.m3u8
-CHC电影, http://183.94.146.109:2222/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
-CHC电影, http://220.249.114.102:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
-CHC电影, http://58.19.38.162:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC高清㊣版, http://106.39.160.146/live.aishang.ctlcdn.com/00000110240325_1/encoder/0/playlist.m3u8?CONTENTID=00000110240325_1
 CHC高清㊣版, http://106.39.160.155/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CHC高清㊣版, http://171.110.42.48:8181/tsfile/live/1017_1.m3u8
@@ -8753,7 +8750,6 @@ persiana, http://51.210.199.24/hls/stream.m3u8
 博斯运动, http://50.7.238.114:8278/bosisport1_twn/playlist.m3u8?tid=MDAD4087844840878448&ct=19249&tsum=0a23fd28e83ff8205a515273a4c1b421
 博斯运动1, http://211.72.65.236:8587/.m3u8
 卡酷动画, http://183.196.33.171:808/hls/57/index.m3u8
-卡酷动画, http://61.138.128.226:19901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 卡酷动画, http://61.138.128.226:19901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0$组播源
 卡酷少儿, http://110.53.218.182:9902/tsfile/live/0124_1.m3u8
 卡酷少儿, http://110.53.218.182:9902/tsfile/live/0124_1.m3u8$LR•IPV4『线路18』
@@ -11083,7 +11079,6 @@ persiana, http://51.210.199.24/hls/stream.m3u8
 安徽卫视高清, http://114.252.225.231:8000/rtp/239.3.1.211:8064
 安徽影视, http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
 安徽影视, http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be.flv
-安徽影视, http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
 安徽影视, http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8$订阅源|1920x1080
 安徽电信, http://124.115.205.101:8888/newlive/live/hls/44/live.m3u8
 安徽经济生活, http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959.flv
@@ -14846,7 +14841,6 @@ persiana, http://51.210.199.24/hls/stream.m3u8
 法治天地, http://182.92.109.190:1668/72/72.php?id=fztd
 法治天地, http://223.145.224.201:8000/udp/239.76.246.138:1234
 法治天地, http://223.145.224.201:8000/udp/239.76.253.138:9000
-法治天地, http://60.255.240.247:8090/live/fztx_4000.m3u8
 法治天地, http://60.255.240.247:8090/live/fztx_4000.m3u8$LR•IPV4『线路8』
 法治天地, http://60.255.240.247:8090/live/fztx_4000.m3u8$订阅源
 泗水文化生活, http://182.92.109.190:1668/sdbd/sdbd.php?id=jisswh
@@ -16928,7 +16922,6 @@ persiana, http://51.210.199.24/hls/stream.m3u8
 甘肃卫视, http://61.173.144.157:9901/tsfile/live/0113_1.m3u8
 甘肃卫视, http://61.173.144.157:9901/tsfile/live/0113_1.m3u8$LR•IPV4『线路73』
 甘肃少儿, http://39.134.32.102:6610/270000001111/1110000327/index.m3u8?IASHttpSessionId=OTT
-甘肃崆峒综合, http://125.74.200.110:10080/hls/001/001_live.m3u8?gansu
 甘肃文化影视, http://39.134.32.102:6610/270000001111/1110000323/index.m3u8?IASHttpSessionId=OTT
 甘肃电信, http://124.115.205.101:8888/newlive/live/hls/28/live.m3u8
 甘肃经济, http://39.134.32.102:6610/270000001111/1110000326/index.m3u8?IASHttpSessionId=OTT
@@ -17351,11 +17344,9 @@ persiana, http://51.210.199.24/hls/stream.m3u8
 纪实-HD, http://60.6.255.8:2180/live/jishhd/index.m3u8
 纪实HD, http://60.10.72.197:9993/live/jshd/index.m3u8
 纪实人文, http://115.153.254.81/PLTV/88888888/224/3221225951/10000100000000060000000000905987_0.smil/index.m3u8?fmt=ts2hls$LR•IPV4『线路10』
-纪实人文, http://116.231.168.117:4022/udp/239.45.3.212:5140
 纪实人文, http://116.231.168.117:4022/udp/239.45.3.212:5140$LR•IPV4『线路11』
 纪实人文, http://122.9.151.210:2669/rtp/238.255.2.106:5999$贵州电信组播源
 纪实人文, http://60.10.139.10:8801/hls/34/index.m3u8
-纪实科教8K, http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 纪实频道HD, http://103.48.233.245:9901/rtp/239.3.1.212:8060
 纪实频道HD, http://114.252.225.231:8000/rtp/239.3.1.212:8060
 纪录片, http://43.138.170.29:35455/douyu/4360438
