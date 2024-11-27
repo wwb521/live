@@ -60,6 +60,7 @@ CCTV1, http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3
 CCTV1, http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000001
 CCTV1, http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010144/
 CCTV1, http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+CCTV1, http://[2409:8087:5e00:24::1e]:6060/000000001000/reallive-CCTV-1/1.m3u8
 CCTV1, http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000021973/1.m3u8
 CCTV1, http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010144/$LR•IPV6『线路32』
 CCTV1, http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8?
@@ -490,6 +491,7 @@ CCTV4, http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226652
 CCTV4, http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226007/index.m3u8?
 CCTV4, http://[2409:8087:2001:20:2800:0:df6e:eb1b]:80/wh7f454c46tw1530458601_-2138527565/ott.mobaibox.com/PLTV/3/224/3221225534/index.m3u8?icpid=3&RTS=1674385940&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
 CCTV4, http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000265004/1.m3u8
+CCTV4, http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000005000030093/1.m3u8
 CCTV4, http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221226428/2.m3u8$LR•IPV6『线路25』
 CCTV4, http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010017/index.m3u8
 CCTV4, http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221226428/2.m3u8$LR•IPV6『线路24』
@@ -687,6 +689,7 @@ CCTV5, http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 CCTV5, http://[2409:8087:2001:20:2800:0:df6e:eb0e]:80/wh7f454c46tw1926342846_771017734/ott.mobaibox.com/PLTV/3/224/3221227640/index.m3u8?icpid=3&RTS=1674386336&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
 CCTV5, http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010145/main.m3u8$LR•IPV6『线路39』
 CCTV5, http://[2409:8087:74f0:22::4]:6410/270000001128/9900000507/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000021$LR•IPV6『线路40』
+CCTV5, http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000270006/1.m3u8
 CCTV5, http://[2409:8087:74d9:21::6]/270000001128/9900000020/index.m3u8
 CCTV5, http://[2409:8087:2001:20:2800:0:df6e:eb0e]:80/wh7f454c46tw1743796407_-916497993/ott.mobaibox.com/PLTV/3/224/3221227480/index.m3u8?icpid=3&RTS=1674386154&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
 CCTV5, http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000316/index.m3u8?IASHttpSessionId=$LR•IPV6『线路4』
@@ -1094,6 +1097,7 @@ CCTV7, http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010215/$LR�
 CCTV7, http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000380/index.m3u8
 CCTV7, http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000318/index.m3u8?IASHttpSessionId=
 CCTV7, http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+CCTV7, http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000005000026715/1.m3u8
 CCTV7, http://[2409:8087:74f0:22::4]:6410/270000001128/9900000504/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000504$LR•IPV6『线路41』
 CCTV7, http://[2409:8087:2001:20:2800:0:df6e:eb0f]:80/wh7f454c46tw92895071_1833672570/ott.mobaibox.com/PLTV/3/224/3221227626/index.m3u8?icpid=3&RTS=1674380208&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
 CCTV07, http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228283/index.m3u8
@@ -1441,6 +1445,7 @@ CCTV9, http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000505
 CCTV9, http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225734/index.m3u8?
 CCTV9, http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/1.m3u8?icpid=88888888&from=1&hms_devid=1012&vqe=3
 CCTV9, http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010217/
+CCTV9, http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000018384/1.m3u8
 CCTV9, http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000039BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSpr1AVNI633ampcuzdN%2BfHArfvJF2pWpm4RxcBNhZ7j9vEUeCQte%2BbQaOGNIUEEK%2B3RBE1BC9EUsM18gnb%2FyAA
 CCTV9, http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000373/index.m3u8?key=tvbox6_com
 CCTV09, http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001294/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001237/index.m3u8#http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/1/224/3221228303/index.m3u8#http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001294/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/wh7f454c46tw2052852131_1088950731/ott.mobaibox.com/PLTV/3/224/3221227614/index.m3u8?icpid=3&RTS=1674386463&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
@@ -1801,6 +1806,7 @@ CCTV12, http://[2409:8087:74F1:0021::0008]/270000001322/699001580411111000000021
 CCTV12, http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225669/index.m3u8
 CCTV12, http://[2409:8087:74F1:0021::0008]/270000001322/69900158041111100000002147/index.m3u8$LR•IPV6『线路8』
 CCTV12, http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225731/index.m3u8
+CCTV12, http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031107/1.m3u8
 CCTV12, http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000322/index.m3u8?IASHttpSessionId=
 CCTV12, http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031107/$LR•IPV6『线路35』
 CCTV12, http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000377/index.m3u8?IAS
@@ -2142,6 +2148,7 @@ CCTV14, http://[2409:8087:74f0:22::4]:6410/270000001128/9900000511/index.m3u8?ch
 CCTV14, http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/1/224/3221228292/index.m3u8$LR•IPV6『线路24』
 CCTV14, http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225732/index.m3u8
 CCTV14, http://[2409:8087:2001:20:2800:0:df6e:eb0a]:80/wh7f454c46tw1746129949_-891071668/ott.mobaibox.com/PLTV/3/224/3221227656/index.m3u8?$LR•IPV6『线路32』
+CCTV14, http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000023358/1.m3u8
 CCTV15, http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226476/index.m3u8$LR•IPV6『线路10』
 CCTV15, http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010094/index.m3u8$LR•IPV6『线路12』
 CCTV15, http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8$LR•IPV6『线路18』
@@ -2342,6 +2349,7 @@ CCTV16, http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888
 CCTV16, http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/wh7f454c46tw465056087_375752967/ott.mobaibox.com/PLTV/3/224/3221228112/index.m3u8?$LR•IPV6『线路40』
 CCTV16, http://[2409:8087:5e08:24::11]:6610/000000001000/1000000006000233002/1.m3u8?channel-id=ystenlive&Contentid=1000000006000233002&livemode=1&stbId=3
 CCTV16, http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225893/index.m3u8$LR•IPV6『线路37』
+CCTV16, http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000233001/1.m3u8
 CCTV16, http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010142/1.m3u8?$LR•IPV6『线路7』
 CCTV16, http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000233002/
 CCTV16, http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8$LR•IPV6『线路11』
@@ -2582,12 +2590,14 @@ CETV-1, http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888
 CETV-1, http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 CETV-1, http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001020/index.m3u8
 CETV-1, http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000076/index.m3u8?IASHttpSessionId=
+CETV-1, http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010103/1.m3u8
 CETV-1SD, http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010103/1.m3u8
 CETV-2, http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 CETV-2, http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 CETV-2, http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 CETV-2, http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001226/index.m3u8
 CETV-2, http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000077/index.m3u8?IASHttpSessionId=
+CETV-2, http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010104/1.m3u8
 CETV-2SD, http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010104/1.m3u8
 CETV-3, http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001309/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CETV-4, http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
@@ -2595,6 +2605,7 @@ CETV-4, http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888
 CETV-4, http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 CETV-4, http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001348/index.m3u8
 CETV-4, http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000666/index.m3u8?IASHttpSessionId=
+CETV-4, http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010105/1.m3u8
 CETV-4SD, http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010105/1.m3u8
 CETV1, http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 CETV1, http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
@@ -2614,12 +2625,17 @@ CGTN, http://[2409:8087:1a0a:df::4031]/ottrrs.hl.chinamobile.com/PLTV/88888888/8
 CGTN, http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index.m3u8
 CGTN, http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806f4f64099/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUap6gG4YPDtM5jJ9BeY859LkHVEKIeieCbU4HUV%2BZ9aFwSHAnd8F70VqU6TYif81mMC79YJ%2BEEiYI8DYDTaxhzE
 CGTN, http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806f4f64099/index.m3u8?m3u8_level=2
+CGTN, http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000009569/1.m3u8
+CGTN, http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010095/1.m3u8
+CGTN, http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010137/1.m3u8
 CGTN俄语, http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638071d299009/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUaSsNLt4Nk6r4W9qq%2FCDwVBpu%2Bd8oi%2FZBV7QZaH2nvMDC8YfPqSjgvIu0Auay5DY5x%2FNqUGittSlgAuOf2q3Hqw
 CGTN俄语, http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638071d299009/index.m3u8?m3u8_level=2
+CGTN俄语, http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000280004/1.m3u8
 CGTN俄语, http://[2409:8087:5e08:24::11]:6610/000000001000/1000000006000280004/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280004&livemode=1&stbId=3
 CGTN俄语, http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002883/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CGTN法语, http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806fb631afe/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUap6gG4YPDtM5jJ9BeY859Jl30zDhWOxOChfz6zZGXm5AxEG2nM0jV%2Bz98DG%2B3LggHigAvzizwxj%2BnU8zoIJ5eI
 CGTN法语, http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806fb631afe/index.m3u8?m3u8_level=2
+CGTN法语, http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000280003/1.m3u8
 CGTN法语, http://[2409:8087:5e08:24::11]:6610/000000001000/1000000006000280003/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280003&livemode=1&stbId=3
 CGTN法语, http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002827/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CGTN纪录, http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225602/index.m3u8
@@ -2627,14 +2643,17 @@ CGTN纪录, http://[2409:8087:1a0a:df::402a]/ottrrs.hl.chinamobile.com/PLTV/8888
 CGTN纪录, http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m3u8
 CGTN纪录, http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63a15d0ee63f3/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSaCqIIft58cZ4PZIJmJQKDE%2BhMJnrkAZeCJCdRJXvlspyKifC5nxyZPvhyagt5zUWfqOxoNjmqM5FCfJztd4V4
 CGTN纪录, http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63a15d0ee63f3/index.m3u8?m3u8_level=2
+CGTN纪录, http://[2409:8087:5e00:24::1e]:6060/000000001000/8428799834696888424/1.m3u8
 CGTN英语, http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225745/1.m3u8
 CGTN西班牙语, http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806f81c8eb5/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUap6gG4YPDtM5jJ9BeY859LpCL6J7ZtZvSzaGNoejhX%2FbNh%2FUg28dwPszgBZkEAMg2VxNQuvSmdjhzvIIS4yJP4
 CGTN西班牙语, http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806f81c8eb5/index.m3u8?m3u8_level=2
+CGTN西班牙语, http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000280002/1.m3u8
 CGTN西语, http://[2409:8087:5e08:24::11]:6610/000000001000/1000000006000280002/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280002&livemode=1&stbId=3
 CGTN西语, http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002716/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CGTN记录, http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000528/index.m3u8?IAS
 CGTN记录, http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002905/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CGTN阿拉伯语, http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638071d299009/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUaSsNLt4Nk6r4W9qq%2FCDwVDatBZcJQo3xmh5jB8MUTZscqd4uhNXfrNVsIVK4SmtkmgfNyDajGSot7TTk6SWF%2BQ
+CGTN阿拉伯语, http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000280001/1.m3u8
 CGTN阿语, http://[2409:8087:5e08:24::11]:6610/000000001000/1000000006000280001/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280001&livemode=1&stbId=3
 CGTN阿语, http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002826/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC动作影ipv6, http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com$仅限ipv6线路
@@ -3054,6 +3073,7 @@ tvgid爱动漫tvgnameiHOT爱动漫tvglogohttpsgiteecomsuxuangepglogorawmasterIHO
 上海教育, http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001268/1.m3u8
 上海新闻, http://[2409:8087:4c0a:22:1::18]:6610/170000001115/UmaiCHAN1312BESTVSMGSMG9/index.m3u8?AuthInfo=Stevp%2BWRKxtuMo8naIuwjKjhXSjQi%2BeaQRf9Ziq7KgRxPDH63cId6gXyoJkX5oXhqiHPA8BBLiWRr0QWb9LVbA%3D%3D
 上海新闻, http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000005/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000005&IASHttpSessionId=OTT19019320240419154124000281
+上海新闻综合, http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031110/1.m3u8
 上海新闻综合, http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000005/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000005&IASHttpSessionId=OTT19019320240419154124000281
 上海新闻综合, http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000005/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000005&IASHttpSessionId=OTT19019320240419154124000281
 上海新闻综合, http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000005/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000005&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
@@ -3391,6 +3411,7 @@ tvgid爱动漫tvgnameiHOT爱动漫tvglogohttpsgiteecomsuxuangepglogorawmasterIHO
 东方卫视, http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000032246/1.m3u8
 东方卫视, http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000032246/1.m3u8$LR•IPV6『线路19』
 东方卫视, http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000032246/1.m3u8$LR•IPV6『线路24』
+东方卫视, http://[2409:8087:5e00:24::1e]:6060/000000001000/6081477947334326291/1.m3u8
 东方卫视, http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010054/
 东方卫视, http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010054/$LR•IPV6『线路49』
 东方卫视, http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010054/$LR•IPV6『线路6』
@@ -3517,15 +3538,21 @@ tvgid爱动漫tvgnameiHOT爱动漫tvglogohttpsgiteecomsuxuangepglogorawmasterIHO
 中国教育1台, http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 中国教育1台, http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225652/index.m3u8
 中国教育1台, http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000076/index.m3u8?IASHttpSessionId=
+中国教育1台, http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000027253/1.m3u8
+中国教育1台, http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000002000002652/1.m3u8
 中国教育1台, http://[2409:8087:5e08:24::17]:6610/000000001000/5000000002000002652/index.m3u8?channel-id=bestzb&Contentid=5000000002000002652&livemode=1&stbId=3
 中国教育2台, http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 中国教育2台, http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226425/index.m3u8
 中国教育2台, http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000077/index.m3u8?IASHttpSessionId=
+中国教育2台, http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000266004/1.m3u8
 中国教育4, http://[2409:8087:2001:20:2800:0:df6e:eb11]:80/wh7f454c46tw1565469881_-1085090603/ott.mobaibox.com/PLTV/3/224/3221227657/index.m3u8?icpid=3&RTS=1674385975&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
 中国教育4, http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031126/1.m3u8?channel-id=bestzb&Contentid=5000000011000031126&livemode=1&stbId=3
 中国教育4台, http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 中国教育4台, http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225783/index.m3u8
 中国教育4台, http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000666/index.m3u8?IASHttpSessionId=
+中国教育4台, http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000025333/1.m3u8
+中国教育4台, http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000006000012123/1.m3u8
+中国教育4台, http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031126/1.m3u8
 中国教育4台, http://[2409:8087:5e08:24::17]:6610/000000001000/5000000011000031126/index.m3u8?channel-id=bestzb&Contentid=5000000011000031126&livemode=1&stbId=3
 中国经济, http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221226987/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 中国经济, http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226987/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
@@ -3609,6 +3636,7 @@ tvgid爱动漫tvgnameiHOT爱动漫tvglogohttpsgiteecomsuxuangepglogorawmasterIHO
 云南卫视, http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031120/
 云南卫视, http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031120/$LR•IPV6『线路39』
 云南卫视, http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031120/$LR•IPV6『线路9』
+云南卫视, http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031120/1.m3u8
 云南卫视, http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010119/1.m3u8
 云南卫视, http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010119/1.m3u8$LR•IPV6『线路13』
 云南卫视, http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010119/1.m3u8$LR•IPV6『线路36』
@@ -3692,6 +3720,7 @@ tvgid爱动漫tvgnameiHOT爱动漫tvglogohttpsgiteecomsuxuangepglogorawmasterIHO
 优漫卡通, http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225656/index.m3u8$LR•IPV6『线路4』
 优漫卡通, http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000049/index.m3u8?IASHttpSessionId=
 优漫卡通, http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000049/index.m3u8?IASHttpSessionId=$LR•IPV6『线路1』
+优漫卡通, http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000010063/1.m3u8
 优漫卡通, http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010118/1.m3u8
 优漫卡通, http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010118/1.m3u8$LR•IPV6『线路3』
 优漫卡通, http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010118/1.m3u8$LR•IPV6『线路8』
@@ -3748,6 +3777,7 @@ tvgid爱动漫tvgnameiHOT爱动漫tvglogohttpsgiteecomsuxuangepglogorawmasterIHO
 兵团卫视, http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000266005/1.m3u8
 兵团卫视, http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000266005/1.m3u8$LR•IPV6『线路14』
 兵团卫视, http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000266005/1.m3u8$LR•IPV6『线路8』
+兵团卫视, http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000006000040020/1.m3u8
 兵团卫视, http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000059
 兵团卫视, http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000059$LR•IPV6『线路13』
 兵团卫视, http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000059$LR•IPV6『线路9』
@@ -3765,7 +3795,6 @@ tvgid爱动漫tvgnameiHOT爱动漫tvglogohttpsgiteecomsuxuangepglogorawmasterIHO
 兵团卫视, http://[2409:8087:74d9:21::6]:80/270000001128/9900000059/index.m3u8$LR•IPV6『线路7』
 内蒙卫视, http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221226389/2.m3u8
 内蒙卫视, http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010109/1.m3u8
-内蒙古卫, http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8
 内蒙古卫视, http://[2409:8087:1a01:df::401a]:80/wh7f454c46tw3029083262_-802204014/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8?icpid=88888888&RTS=1713969858&from=4&hms_devid=128&prioritypopid=4&online=1713969858&vqe=3
 内蒙古卫视, http://[2409:8087:1a01:df::401a]:80/wh7f454c46tw3029083262_-802204014/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8?icpid=88888888&RTS=1713969858&from=4&hms_devid=128&prioritypopid=4&online=1713969858&vqe=3$LR•IPV6『线路17』
 内蒙古卫视, http://[2409:8087:1a01:df::401a]:80/wh7f454c46tw3029083262_-802204014/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8?icpid=88888888&RTS=1713969858&from=4&hms_devid=128&prioritypopid=4&online=1713969858&vqe=3$LR•IPV6『线路20』
@@ -3842,12 +3871,14 @@ tvgid爱动漫tvgnameiHOT爱动漫tvglogohttpsgiteecomsuxuangepglogorawmasterIHO
 内蒙古卫视, http://[2409:8087:74f0:22::4]:6410/270000001128/9900000044/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000158
 内蒙古卫视, http://[2409:8087:74f0:22::4]:6410/270000001128/9900000044/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000158$LR•IPV6『线路12』
 内蒙古卫视, http://[2409:8087:74f0:22::4]:6410/270000001128/9900000044/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000158$LR•IPV6『线路8』
+内蒙古卫视SD, http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010109/1.m3u8
 军事评论, http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
 军事评论, http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw1555337016_-1312521077/ott.mobaibox.com/PLTV/3/224/3221227544/index.m3u8?icpid=3&RTS=1674385965&from=40&popid=40&hms_devid=2113&prioritypopid=40&vqe=3
 军事评论, http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw3373254713_-1111569189/ott.mobaibox.com/PLTV/3/224/3221227544/index.m3u8
 军事评论, http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221225890/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 军事评论, http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225890/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 军事评论, http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225757/2/index.m3u8
+军事评论, http://[2409:8087:5e00:24::1e]:6060/000000001000/5822616274253344775/1.m3u8
 军事评论, http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010080/1.m3u8
 军事评论, http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000022/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000022&livemode=1&stbId=3
 军旅剧场, http://[2409:8087:1a0b:df::4018]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
@@ -4078,7 +4109,9 @@ tvgid爱动漫tvgnameiHOT爱动漫tvglogohttpsgiteecomsuxuangepglogorawmasterIHO
 北京卫视, http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000031556/1.m3u8
 北京卫视, http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000031556/1.m3u8$LR•IPV6『线路29』
 北京卫视, http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000031556/1.m3u8$LR•IPV6『线路45』
+北京卫视, http://[2409:8087:5e00:24::1e]:6060/000000001000/8186688740528366039/1.m3u8
 北京卫视, http://[2409:8087:5e00:24::1e]:6060/000000001000/8186688740528366039/index.m3u8?channel-id=ystenlive&Contentid=8186688740528366039&livemode=1&stbId=3
+北京卫视, http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010043/1.m3u8
 北京卫视, http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010143/
 北京卫视, http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010143/$LR•IPV6『线路32』
 北京卫视, http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010143/$LR•IPV6『线路71』
@@ -4141,6 +4174,9 @@ tvgid爱动漫tvgnameiHOT爱动漫tvglogohttpsgiteecomsuxuangepglogorawmasterIHO
 北京卫视, http://[2409:8087:74f0:22::6]:6410/270000001128/9900000516/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000516$LR•IPV6『线路10』
 北京卫视, http://[2409:8087:74f0:22::6]:6410/270000001128/9900000516/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000516$LR•IPV6『线路35』
 北京科教, http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
+北京纪实科教, http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000001910/1.m3u8
+北京纪实科教, http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000028380/1.m3u8
+北京纪实科教, http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031204/1.m3u8
 千阳, http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226945/index.m3u8
 华数4K, http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000014&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 华数超清, http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
@@ -4191,6 +4227,8 @@ tvgid爱动漫tvgnameiHOT爱动漫tvglogohttpsgiteecomsuxuangepglogorawmasterIHO
 卡酷少儿, http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000661/index.m3u8?IASHttpSessionId=$LR•IPV6『线路7』
 卡酷少儿, http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000661/index.m3u8?IASHttpSessionId=
 卡酷少儿, http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000661/index.m3u8?IASHttpSessionId=$LR•IPV6『线路1』
+卡酷少儿, http://[2409:8087:5e00:24::1e]:6060/000000001000/7589856436881630561/1.m3u8
+卡酷少儿, http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010081/1.m3u8
 卡酷少儿, http://[2409:8087:5e08:24::11]:6610/000000001000/7851974109718180595/1.m3u8?channel-id=bestzb&Contentid=7851974109718180595&livemode=1&stbId=3
 卡酷少儿, http://[2409:8087:5e08:24::11]:6610/000000001000/7851974109718180595/1.m3u8?channel-id=bestzb&Contentid=7851974109718180595&livemode=1&stbId=3$LR•IPV6『线路3』
 卡酷少儿, http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000040$LR•IPV6『线路12』
@@ -4403,6 +4441,7 @@ tvgid爱动漫tvgnameiHOT爱动漫tvglogohttpsgiteecomsuxuangepglogorawmasterIHO
 吉林卫视, http://[2409:8087:74f0:22::5]:6410/270000001128/9900000030/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000030
 吉林卫视, http://[2409:8087:74f0:22::5]:6410/270000001128/9900000030/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000030$LR•IPV6『线路36』
 吉林卫视, http://[2409:8087:74f0:22::5]:6410/270000001128/9900000030/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000030$LR•IPV6『线路4』
+吉林卫视SD, http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010075/1.m3u8
 吴起电视台, http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226967/index.m3u8
 咪咕, http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225904/index.m3u8
 咪咕, http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227047/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
@@ -4528,6 +4567,7 @@ tvgid爱动漫tvgnameiHOT爱动漫tvglogohttpsgiteecomsuxuangepglogorawmasterIHO
 哈哈炫动, http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001232/1.m3u8$LR•IPV6『线路18』
 哈哈炫动, http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000050/index.m3u8?IASHttpSessionId=
 哈哈炫动, http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000050/index.m3u8?IASHttpSessionId=$LR•IPV6『线路1』
+哈哈炫动, http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000000172/1.m3u8
 哈哈炫动, http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031123/1.m3u8
 哈哈炫动, http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031123/1.m3u8$LR•IPV6『线路11』
 哈哈炫动, http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031123/1.m3u8$LR•IPV6『线路12』
@@ -4725,7 +4765,6 @@ tvgid爱动漫tvgnameiHOT爱动漫tvglogohttpsgiteecomsuxuangepglogorawmasterIHO
 大庆公共, http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226525/index.m3u8
 大庆公共, http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226525/index.m3u8?
 大庆新闻综合, http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226484/index.m3u8
-大湾区卫, http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226442/index.m3u8
 大湾区卫视, http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226442/index.m3u8
 大湾区卫视, http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226442/index.m3u8$LR•IPV6『线路4』
 大湾区卫视, http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226442/index.m3u8
@@ -4740,6 +4779,7 @@ tvgid爱动漫tvgnameiHOT爱动漫tvglogohttpsgiteecomsuxuangepglogorawmasterIHO
 大湾区卫视, http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010108/1.m3u8$LR•IPV6『线路2』
 大湾区卫视, http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010108/1.m3u8$LR•IPV6『线路3』
 大湾区卫视, http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001305/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+大湾区卫视SD, http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010108/1.m3u8
 天津卫视 4M1080, http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/wh7f454c46tw195619489_1991259086/ott.mobaibox.com/PLTV/3/224/3221227212/index.m3u8?icpid=3&RTS=1674380311&from=40&popid=40&hms_devid=2036&prioritypopid=40&vqe=3
 天津卫视 4M1080, http://[2409:8087:2001:20:2800:0:df6e:eb07]:80/wh7f454c46tw1542691313_-1687194417/ott.mobaibox.com/PLTV/3/224/3221227633/index.m3u8?icpid=3&RTS=1674385953&from=40&popid=40&hms_devid=2036&prioritypopid=40&vqe=3
 天津卫视 5.5M1080HEVC, http://[2409:8087:2001:20:2800:0:df6e:eb0b]:80/wh7f454c46tw1929746065_-1403112337/ott.mobaibox.com/PLTV/3/224/3221227741/index.m3u8?icpid=3&RTS=1674386340&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
@@ -4874,6 +4914,7 @@ tvgid爱动漫tvgnameiHOT爱动漫tvglogohttpsgiteecomsuxuangepglogorawmasterIHO
 天津卫视, http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000006827/1.m3u8
 天津卫视, http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000006827/1.m3u8$LR•IPV6『线路32』
 天津卫视, http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000006827/1.m3u8$LR•IPV6『线路50』
+天津卫视, http://[2409:8087:5e00:24::1e]:6060/000000001000/6707942579111517572/1.m3u8
 天津卫视, http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010069/1.m3u8
 天津卫视, http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010069/1.m3u8$LR•IPV6『线路16』
 天津卫视, http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010069/1.m3u8$LR•IPV6『线路66』
@@ -4989,6 +5030,7 @@ tvgid爱动漫tvgnameiHOT爱动漫tvglogohttpsgiteecomsuxuangepglogorawmasterIHO
 宁夏卫视, http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225726/2/index.m3u8$LR•IPV6『线路29』
 宁夏卫视, http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000043/index.m3u8?IASHttpSessionId=
 宁夏卫视, http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000043/index.m3u8?IASHttpSessionId=$LR•IPV6『线路1』
+宁夏卫视, http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000031451/1.m3u8
 宁夏卫视, http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000031451/1.m3u8$LR•IPV6『线路23』
 宁夏卫视, http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000006000040022/1.m3u8
 宁夏卫视, http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000006000040022/1.m3u8$LR•IPV6『线路13』
@@ -5032,6 +5074,7 @@ tvgid爱动漫tvgnameiHOT爱动漫tvglogohttpsgiteecomsuxuangepglogorawmasterIHO
 宁夏卫视, http://[2409:8087:74f0:22::4]:6410/270000001128/9900000047/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000995
 宁夏卫视, http://[2409:8087:74f0:22::4]:6410/270000001128/9900000047/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000995$LR•IPV6『线路21』
 宁夏卫视, http://[2409:8087:74f0:22::4]:6410/270000001128/9900000047/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000995$LR•IPV6『线路6』
+宁夏卫视SD, http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010110/1.m3u8
 安多卫视, http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225659/2.m3u8
 安多卫视, http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225659/2.m3u8$LR•IPV6『线路2』
 安多卫视, http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225659/2.m3u8$LR•IPV6『线路8』
@@ -5048,6 +5091,7 @@ tvgid爱动漫tvgnameiHOT爱动漫tvglogohttpsgiteecomsuxuangepglogorawmasterIHO
 安多卫视, http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225659/index.m3u8
 安多卫视, http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225659/index.m3u8$LR•IPV6『线路3』
 安多卫视, http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225659/index.m3u8$LR•IPV6『线路4』
+安多卫视, http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000006000022124/1.m3u8
 安多卫视, http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000064$LR•IPV6『线路3』
 安多卫视, http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226405/index.m3u8
 安多卫视, http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226405/index.m3u8$LR•IPV6『线路7』
@@ -5458,6 +5502,7 @@ tvgid爱动漫tvgnameiHOT爱动漫tvglogohttpsgiteecomsuxuangepglogorawmasterIHO
 山东教育卫视, http://[2409:8087:1a0a:df::402e]/wh7f454c46tw2754383805_-1220934996/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8?icpid=88888888&RTS=1713110589&from=4&hms_devid=1103&online=1713110589&vqe=3
 山东教育卫视, http://[2409:8087:1a0a:df::402e]/wh7f454c46tw2754383805_1220934996/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8?icpid=88888888&RTS=1713110589&from=4&hms_devid=1103&online=1713110589&vqe=3
 山东教育卫视, http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000331/index.m3u8?IASHttpSessionId=
+山东教育卫视, http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000004097/1.m3u8
 山东教育卫视, http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010112/1.m3u8
 山东教育卫视, http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000067
 山东文旅, http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000337/index.m3u8?IASHttpSessionId=
@@ -5501,6 +5546,7 @@ tvgid爱动漫tvgnameiHOT爱动漫tvglogohttpsgiteecomsuxuangepglogorawmasterIHO
 山西卫视, http://[2409:8087:74d9:21::6]:80/270000001128/9900000053/index.m3u8
 山西卫视, http://[2409:8087:74d9:21::6]:80/270000001322/69900158041111100000002214/index.m3u8
 山西卫视, http://[2409:8087:74d9:21::9]:80/270000001128/9900000053/index.m3u8
+山西卫视SD, http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010114/1.m3u8
 岐山, http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226982/index.m3u8
 崇川, http://[2409:8087:2001:20:2800:0:df6e:eb25]/wh7f454c46tw1512301981_1454766575/ott.mobaibox.com/PLTV/4/224/3221228533/index.m3u8
 常州公共, http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw4212693148_669088627/ott.mobaibox.com/PLTV/3/224/3221227905/index.m3u8
@@ -5673,6 +5719,7 @@ tvgid爱动漫tvgnameiHOT爱动漫tvglogohttpsgiteecomsuxuangepglogorawmasterIHO
 广东卫视, http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000014694/1.m3u8
 广东卫视, http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000014694/1.m3u8$LR•IPV6『线路29』
 广东卫视, http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000014694/1.m3u8$LR•IPV6『线路9』
+广东卫视, http://[2409:8087:5e00:24::1e]:6060/000000001000/5616881981321254555/1.m3u8
 广东卫视, http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010055/
 广东卫视, http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010055/$LR•IPV6『线路13』
 广东卫视, http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010055/$LR•IPV6『线路54』
@@ -6001,6 +6048,7 @@ tvgid爱动漫tvgnameiHOT爱动漫tvglogohttpsgiteecomsuxuangepglogorawmasterIHO
 文物宝库, http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000658/index.m3u8?IASHttpSessionId=
 新沂1, http://[2409:8087:2001:20:2800:0:df6e:eb08]/wh7f454c46tw2193528548_-178282587/ott.mobaibox.com/PLTV/3/224/3221227289/index.m3u8
 新沂2, http://[2409:8087:2001:20:2800:0:df6e:eb08]/wh7f454c46tw2272375900_2058480119/ott.mobaibox.com/PLTV/3/224/3221227311/index.m3u8
+新海南, http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010090/1.m3u8
 新海南, http://[2409:8087:5e08:24::11]:6610/000000001000/2000000003000000011/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000011&livemode=1&stbId=3
 新疆卫视, http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226460/index.m3u8
 新疆卫视, http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226460/index.m3u8$LR•IPV6『线路21』
@@ -6070,6 +6118,7 @@ tvgid爱动漫tvgnameiHOT爱动漫tvglogohttpsgiteecomsuxuangepglogorawmasterIHO
 新疆卫视, http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000029441/1.m3u8
 新疆卫视, http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000029441/1.m3u8$LR•IPV6『线路24』
 新疆卫视, http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000029441/1.m3u8$LR•IPV6『线路26』
+新疆卫视, http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000006000040018/1.m3u8
 新疆卫视, http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000006000040018/1.m3u8$LR•IPV6『线路21』
 新疆卫视, http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010116/1.m3u8
 新疆卫视, http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010116/1.m3u8$LR•IPV6『线路30』
@@ -6111,6 +6160,7 @@ tvgid爱动漫tvgnameiHOT爱动漫tvglogohttpsgiteecomsuxuangepglogorawmasterIHO
 新疆卫视, http://[2409:8087:74f0:22::4]:6410/270000001128/9900000045/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000016
 新疆卫视, http://[2409:8087:74f0:22::4]:6410/270000001128/9900000045/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000016$LR•IPV6『线路16』
 新疆卫视, http://[2409:8087:74f0:22::4]:6410/270000001128/9900000045/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000016$LR•IPV6『线路5』
+新疆卫视SD, http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010116/1.m3u8
 新闻综合, http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001014/index.m3u8?
 新闻综合, http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001014/1.m3u8
 新闻综合, http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000005/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000005&IAS
@@ -6335,6 +6385,7 @@ tvgid爱动漫tvgnameiHOT爱动漫tvglogohttpsgiteecomsuxuangepglogorawmasterIHO
 江苏卫视, http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000004684/1.m3u8
 江苏卫视, http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000004684/1.m3u8$LR•IPV6『线路32』
 江苏卫视, http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000004684/1.m3u8$LR•IPV6『线路9』
+江苏卫视, http://[2409:8087:5e00:24::1e]:6060/000000001000/4796340999304424198/1.m3u8
 江苏卫视, http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000019351/1.m3u8
 江苏卫视, http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000019351/1.m3u8$LR•IPV6『线路45』
 江苏卫视, http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000019351/1.m3u8$LR•IPV6『线路6』
@@ -6873,6 +6924,7 @@ tvgid爱动漫tvgnameiHOT爱动漫tvglogohttpsgiteecomsuxuangepglogorawmasterIHO
 河南卫视, http://[2409:8087:74f0:22::7]:6410/270000001128/9900000027/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000027
 河南卫视, http://[2409:8087:74f0:22::7]:6410/270000001128/9900000027/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000027$LR•IPV6『线路14』
 河南卫视, http://[2409:8087:74f0:22::7]:6410/270000001128/9900000027/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000027$LR•IPV6『线路6』
+河南卫视SD, http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010071/1.m3u8
 河南｜梨园, http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
 法制天地, http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002010/index.m3u8?IASHttpSessionId=
 法制天地, http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000014&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
@@ -7059,6 +7111,7 @@ tvgid爱动漫tvgnameiHOT爱动漫tvglogohttpsgiteecomsuxuangepglogorawmasterIHO
 浙江卫视, http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000017320/1.m3u8
 浙江卫视, http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000017320/1.m3u8$LR•IPV6『线路17』
 浙江卫视, http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000017320/1.m3u8$LR•IPV6『线路46』
+浙江卫视, http://[2409:8087:5e00:24::1e]:6060/000000001000/7889730693553663314/1.m3u8
 浙江卫视, http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010070/1.m3u8
 浙江卫视, http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010070/1.m3u8$LR•IPV6『线路10』
 浙江卫视, http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010070/1.m3u8$LR•IPV6『线路78』
@@ -7261,6 +7314,7 @@ tvgid爱动漫tvgnameiHOT爱动漫tvglogohttpsgiteecomsuxuangepglogorawmasterIHO
 海南卫视, http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000006211/index.m3u8
 海南卫视, http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000006211/index.m3u8$LR•IPV6『线路17』
 海南卫视, http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000006211/index.m3u8$LR•IPV6『线路7』
+海南卫视, http://[2409:8087:5e00:24::1e]:6060/000000001000/7899627377857656087/1.m3u8
 海南卫视, http://[2409:8087:5e00:24::1e]:6060/000000001000/7899627377857656087/index.m3u8?channel-id=ystenlive&Contentid=7899627377857656087&livemode=1&stbId=3
 海南卫视, http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010083/1.m3u8
 海南卫视, http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010083/1.m3u8$LR•IPV6『线路19』
@@ -7309,6 +7363,8 @@ tvgid爱动漫tvgnameiHOT爱动漫tvglogohttpsgiteecomsuxuangepglogorawmasterIHO
 海南卫视, http://[2409:8087:74f0:22::7]:6410/270000001128/9900000037/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000037
 海南卫视, http://[2409:8087:74f0:22::7]:6410/270000001128/9900000037/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000037$LR•IPV6『线路16』
 海南卫视, http://[2409:8087:74f0:22::7]:6410/270000001128/9900000037/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000037$LR•IPV6『线路18』
+海南卫视SD, http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010083/1.m3u8
+海南少儿, http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000110/1.m3u8
 海南少儿, http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000112/1.m3u8
 海南少儿, http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000112/index.m3u8
 海南少儿, http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?
@@ -7485,6 +7541,7 @@ tvgid爱动漫tvgnameiHOT爱动漫tvglogohttpsgiteecomsuxuangepglogorawmasterIHO
 深圳卫视, http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000007410/1.m3u8
 深圳卫视, http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000007410/1.m3u8$LR•IPV6『线路22』
 深圳卫视, http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000007410/1.m3u8$LR•IPV6『线路29』
+深圳卫视, http://[2409:8087:5e00:24::1e]:6060/000000001000/5352218613763113657/1.m3u8
 深圳卫视, http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010053/1.m3u8
 深圳卫视, http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010068/
 深圳卫视, http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010068/$LR•IPV6『线路34』
@@ -7837,12 +7894,14 @@ tvgid爱动漫tvgnameiHOT爱动漫tvglogohttpsgiteecomsuxuangepglogorawmasterIHO
 湖南卫视, http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000032695/1.m3u8
 湖南卫视, http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000032695/1.m3u8$LR•IPV6『线路15』
 湖南卫视, http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000032695/1.m3u8$LR•IPV6『线路26』
+湖南卫视, http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000130/1.m3u8
 湖南卫视, http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000006692/1.m3u8
 湖南卫视, http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000006692/1.m3u8$LR•IPV6『线路32』
 湖南卫视, http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000006692/1.m3u8$LR•IPV6『线路34』
 湖南卫视, http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000030452/1.m3u8
 湖南卫视, http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000030452/1.m3u8$LR•IPV6『线路24』
 湖南卫视, http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000030452/1.m3u8$LR•IPV6『线路30』
+湖南卫视, http://[2409:8087:5e00:24::1e]:6060/000000001000/6954818217931477266/1.m3u8
 湖南卫视, http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010058/
 湖南卫视, http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010058/$LR•IPV6『线路17』
 湖南卫视, http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010058/$LR•IPV6『线路25』
@@ -8316,6 +8375,7 @@ tvgid爱动漫tvgnameiHOT爱动漫tvglogohttpsgiteecomsuxuangepglogorawmasterIHO
 精品纪录, http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225888/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 精品纪录, http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010076/1.m3u8
 精品纪录, http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000004000013730/index.m3u8?channel-id=ystenlive&Contentid=1000000004000013730&livemode=1&stbId=3
+精品综合, http://[2409:8087:5e00:24::1e]:6060/000000001000/5595720619887440144/1.m3u8
 精品综合, http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000004000019008/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019008&livemode=1&stbId=3
 精品综合, http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000008/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000008&livemode=1&stbId=3
 精品萌宠, http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
@@ -8473,6 +8533,8 @@ tvgid爱动漫tvgnameiHOT爱动漫tvglogohttpsgiteecomsuxuangepglogorawmasterIHO
 西藏卫视, http://[2409:8087:74d9:21::6]:80/270000001128/9900000043/index.m3u8
 西藏卫视, http://[2409:8087:74d9:21::6]:80/270000001128/9900000043/index.m3u8$LR•IPV6『线路10』
 西藏卫视, http://[2409:8087:74d9:21::6]:80/270000001322/69900158041111100000002236/index.m3u8$LR•IPV6『线路20』
+西藏卫视SD, http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010123/1.m3u8
+西藏藏语, http://[2409:8087:5e00:24::1e]:6060/000000001000/7134589828528695864/1.m3u8
 财富天下, http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000607/index.m3u8?IASHttpSessionId=
 财富天下, http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226350/index.m3u8
 贵州卫视 4M1080, http://[2409:8087:2001:20:2800:0:df6e:eb1b]:80/wh7f454c46tw1568871343_-998620180/ott.mobaibox.com/PLTV/3/224/3221227551/index.m3u8?icpid=3&RTS=1674385979&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
@@ -8588,6 +8650,7 @@ tvgid爱动漫tvgnameiHOT爱动漫tvglogohttpsgiteecomsuxuangepglogorawmasterIHO
 贵州卫视, http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000003169/1.m3u8
 贵州卫视, http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000003169/1.m3u8$LR•IPV6『线路25』
 贵州卫视, http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000003169/1.m3u8$LR•IPV6『线路26』
+贵州卫视, http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000025843/1.m3u8
 贵州卫视, http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010100/1.m3u8
 贵州卫视, http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010100/1.m3u8$LR•IPV6『线路29』
 贵州卫视, http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010100/1.m3u8$LR•IPV6『线路42』
@@ -9118,6 +9181,7 @@ tvgid爱动漫tvgnameiHOT爱动漫tvglogohttpsgiteecomsuxuangepglogorawmasterIHO
 金鹰卡通, http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000016601/1.m3u8
 金鹰卡通, http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000016601/1.m3u8$LR•IPV6『线路10』
 金鹰卡通, http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000016601/1.m3u8$LR•IPV6『线路17』
+金鹰卡通, http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000006000040024/1.m3u8
 金鹰卡通, http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000006000040024/1.m3u8$LR•IPV6『线路2』
 金鹰卡通, http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000006000040024/index.m3u8?channel-id=bestzb&Contentid=5000000006000040024&livemode=1&stbId=3
 金鹰卡通, http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000006000040024/index.m3u8?channel-id=bestzb&Contentid=5000000006000040024&livemode=1&stbId=3#http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000016601/index.m3u8?channel-id=ystenlive&Contentid=1000000002000016601&livemode=1&stbId=3#http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010107/main.m3u8#http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010107/1.m3u8#http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010107/main.m3u8
@@ -9154,6 +9218,7 @@ tvgid爱动漫tvgnameiHOT爱动漫tvglogohttpsgiteecomsuxuangepglogorawmasterIHO
 金鹰纪实, http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000334/index.m3u8?IASHttpSessionId=
 金鹰纪实, http://[2409:8087:4402:20:1:1216:401:38]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226349/index.m3u8
 金鹰纪实, http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN4766929BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUaWf4k%2B88FALXqp3i7ExZ4HArfvJF2pWpm4RxcBNhZ7j8oKdkoj6hFDX2k81AyJk8L2ZgQL4lTNsyfhwMVyjNWA
+金鹰纪实, http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000011724/1.m3u8
 金鹰纪实, http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031203/1.m3u8
 金鹰纪实, http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031203/index.m3u8?channel-id=bestzb&Contentid=5000000011000031203&livemode=1&stbId=3
 金鹰纪实, http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010106/1.m3u8
@@ -9204,6 +9269,7 @@ tvgid爱动漫tvgnameiHOT爱动漫tvglogohttpsgiteecomsuxuangepglogorawmasterIHO
 陕西卫视, http://[2409:8087:74d9:21::6]:80/270000001128/9900000026/index.m3u8
 陕西卫视, http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000026
 陕西卫视, http://[2409:8087:74f0:22::4]:6410/270000001128/9900000026/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000802
+陕西卫视SD, http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010113/1.m3u8
 陕西影视频道, http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226360/index.m3u8
 陕西影视频道, http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226360/1.m3u8
 陕西新闻, http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001580/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
