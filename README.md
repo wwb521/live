@@ -97,9 +97,14 @@
 </details>
 
 ### 🔍 备用 TVBox 接口
+<details open>
+<summary><b>更多接口</b></summary>
+
 > - [🏠 源仓库](https://cyuan.netlify.app/)
 > - [📺 在线接口](https://xn--sss604efuw.com/)
 > - [🔗 lige.chat](https://www.lige.chat)
+
+</details>
 
 ## 📱 软件推荐
 
