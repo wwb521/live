@@ -45,16 +45,12 @@
   <tr>
     <td align="center"><b>IPTV</b></td>
     <td>
-      <code id="txt-link">https://raw.bgithub.xyz/wwb521/live/refs/heads/main/tv.txt</code>
-      <button class="copy-button" onclick="copyText('txt-link')">复制</button><br>
-      短链接：<code id="txt-short">http://gg.gg/1c5sff</code>
-      <button class="copy-button" onclick="copyText('txt-short')">复制</button>
+      <code>https://raw.bgithub.xyz/wwb521/live/refs/heads/main/tv.txt</code><br>
+      短链接：<code>http://gg.gg/1c5sff</code>
     </td>
     <td>
-      <code id="m3u-link">https://raw.bgithub.xyz/wwb521/live/refs/heads/main/tv.m3u</code>
-      <button class="copy-button" onclick="copyText('m3u-link')">复制</button><br>
-      短链接：<code id="m3u-short">http://gg.gg/1c5shv</code>
-      <button class="copy-button" onclick="copyText('m3u-short')">复制</button>
+      <code>https://raw.bgithub.xyz/wwb521/live/refs/heads/main/tv.m3u</code><br>
+      短链接：<code>http://gg.gg/1c5shv</code>
     </td>
   </tr>
 </table>
@@ -69,35 +65,15 @@
   <tr>
     <td align="center"><b>TVBox</b></td>
     <td>
-      <code id="movies-link">https://raw.bgithub.xyz/wwb521/live/refs/heads/main/movies.json</code>
-      <button class="copy-button" onclick="copyText('movies-link')">复制</button><br>
-      短链接：<code id="movies-short">http://gg.gg/1c5sjl</code>
-      <button class="copy-button" onclick="copyText('movies-short')">复制</button>
+      <code>https://raw.bgithub.xyz/wwb521/live/refs/heads/main/movies.json</code><br>
+      短链接：<code>http://gg.gg/1c5sjl</code>
     </td>
     <td>
-      <code id="video-link">https://raw.bgithub.xyz/wwb521/live/refs/heads/main/video.json</code>
-      <button class="copy-button" onclick="copyText('video-link')">复制</button><br>
-      短链接：<code id="video-short">http://gg.gg/1c5sjx</code>
-      <button class="copy-button" onclick="copyText('video-short')">复制</button>
+      <code>https://raw.bgithub.xyz/wwb521/live/refs/heads/main/video.json</code><br>
+      短链接：<code>http://gg.gg/1c5sjx</code>
     </td>
   </tr>
 </table>
-
-<script>
-function copyText(elementId) {
-  const text = document.getElementById(elementId).textContent;
-  navigator.clipboard.writeText(text).then(() => {
-    const button = event.target;
-    const originalText = button.textContent;
-    button.textContent = '已复制';
-    button.style.backgroundColor = '#45a049';
-    setTimeout(() => {
-      button.textContent = originalText;
-      button.style.backgroundColor = '#4CAF50';
-    }, 1000);
-  });
-}
-</script>
 
 ## 🎯 备用资源
 
