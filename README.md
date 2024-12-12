@@ -26,12 +26,12 @@
 ### IPV6 直播源
 | 类型 | TXT格式 | M3U格式 |
 |:---:|:---|:---|
-| IPTV | [在线播放](https://raw.bgithub.xyz/wwb521/live/refs/heads/main/tv.txt)<br>短链接：`http://gg.gg/1c5sff` | [在线播放](https://raw.bgithub.xyz/wwb521/live/refs/heads/main/tv.m3u)<br>短链接：`http://gg.gg/1c5shv` |
+| IPTV | https://raw.bgithub.xyz/wwb521/live/refs/heads/main/tv.txt<br>短链接：`http://gg.gg/1c5sff` | https://raw.bgithub.xyz/wwb521/live/refs/heads/main/tv.m3u<br>短链接：`http://gg.gg/1c5shv` |
 
 ### 📱 TvBox 接口
 | 类型 | 普通版 | 成人版 |
 |:---:|:---|:---|
-| TVBox | [点击获取](https://raw.bgithub.xyz/wwb521/live/refs/heads/main/movies.json)<br>短链接：`http://gg.gg/1c5sjl` | [点击获取](https://raw.bgithub.xyz/wwb521/live/refs/heads/main/video.json)<br>短链接：`http://gg.gg/1c5sjx` |
+| TVBox | https://raw.bgithub.xyz/wwb521/live/refs/heads/main/movies.json<br>短链接：`http://gg.gg/1c5sjl` | https://raw.bgithub.xyz/wwb521/live/refs/heads/main/video.json<br>短链接：`http://gg.gg/1c5sjx` |
 
 ## 🎯 备用资源
 
@@ -67,7 +67,7 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/wwb521/live/refs/heads/main/pay.jpeg" width="300px" alt="赞赏码"/>
-  <p><b>您的支持是我持续更新的动力 ❤️</b></p>
+  <p><b>您的支持是我持续更新的动力 ❤���</b></p>
 </div>
 
 ## 📞 联系方式
