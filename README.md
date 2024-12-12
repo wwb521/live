@@ -120,9 +120,14 @@
 </details>
 
 ### 📺 空壳直播软件
+<details open>
+<summary><b>软件下载</b></summary>
+
 - 🔧 [软件合集](https://wwt.lanzouj.com/b00y2bymj) `密码: 7kkf`
 - 📱 [GitHub最新版本](https://github.com/lizongying/my-tv-0/releases)
 - 📖 [配置教程](https://www.bilibili.com/video/BV1cM4m117sB/)
+
+</details>
 
 ## 🤝 支持项目
 
