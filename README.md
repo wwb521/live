@@ -67,7 +67,7 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/wwb521/live/refs/heads/main/pay.jpeg" width="300px" alt="赞赏码"/>
-  <p><b>您的支持是我持续更新的动力 ❤���</b></p>
+  <p><b>您的支持是我持续更新的动力 ❤️</b></p>
 </div>
 
 ## 📞 联系方式
