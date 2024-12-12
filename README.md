@@ -165,20 +165,3 @@
   </p>
 </div>
 
-<style>
-.copy-button {
-  padding: 4px 8px;
-  font-size: 12px;
-  color: #fff;
-  background-color: #4CAF50;
-  border: none;
-  border-radius: 4px;
-  cursor: pointer;
-  margin-left: 8px;
-}
-.copy-button:hover {
-  background-color: #45a049;
-}
-</style>
-
-
