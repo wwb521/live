@@ -38,17 +38,20 @@
 ### 🌟 IPV6 直播源
 <table>
   <tr>
-    <th width="20%" align="center">类型</th>
-    <th width="40%" align="center">TXT格式</th>
-    <th width="40%" align="center">M3U格式</th>
+    <th width="15%" align="center">类型</th>
+    <th width="85%" align="center">链接</th>
   </tr>
   <tr>
-    <td align="center"><b>IPTV</b></td>
+    <td align="center" rowspan="2"><b>IPTV</b></td>
     <td>
+      <b>TXT格式：</b><br>
       <code>https://raw.bgithub.xyz/wwb521/live/refs/heads/main/tv.txt</code><br>
       短链接：<code>http://gg.gg/1c5sff</code>
     </td>
+  </tr>
+  <tr>
     <td>
+      <b>M3U格式：</b><br>
       <code>https://raw.bgithub.xyz/wwb521/live/refs/heads/main/tv.m3u</code><br>
       短链接：<code>http://gg.gg/1c5shv</code>
     </td>
@@ -58,17 +61,20 @@
 ### 📱 TvBox 接口
 <table>
   <tr>
-    <th width="20%" align="center">类型</th>
-    <th width="40%" align="center">普通版</th>
-    <th width="40%" align="center">成人版</th>
+    <th width="15%" align="center">类型</th>
+    <th width="85%" align="center">链接</th>
   </tr>
   <tr>
-    <td align="center"><b>TVBox</b></td>
+    <td align="center" rowspan="2"><b>TVBox</b></td>
     <td>
+      <b>普通版：</b><br>
       <code>https://raw.bgithub.xyz/wwb521/live/refs/heads/main/movies.json</code><br>
       短链接：<code>http://gg.gg/1c5sjl</code>
     </td>
+  </tr>
+  <tr>
     <td>
+      <b>成人版：</b><br>
       <code>https://raw.bgithub.xyz/wwb521/live/refs/heads/main/video.json</code><br>
       短链接：<code>http://gg.gg/1c5sjx</code>
     </td>
