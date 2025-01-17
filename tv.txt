@@ -1,2 +1,0 @@
-AKTV,#genre#
-中天新聞台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
