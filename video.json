@@ -3,14 +3,6 @@
     "wallpaper": "http://api.btstu.cn/sjbz",
     "sites": [
         {
-            "key": "jingpinx.com",
-            "name": "精品",
-            "type": 1,
-            "api": "https://www.jingpinx.com//api.php/provide/vod/?ac=list",
-            "searchable": 1,
-            "filterable": 1
-        },
-        {
             "key": "色猫",
             "name": "色猫2",
             "type": 1,
@@ -47,15 +39,6 @@
             "filterable": 1
         },
         {
-            "key": "zp066",
-            "name": "花椒",
-            "type": 0,
-            "api": "https://api.apilyzy.com/api.php/provide/vod/at/xml/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
-          },
-        {
           "key": "*AIvin",
           "name": "AIvin",
           "type": 0,
@@ -78,14 +61,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "*老鸭",
-            "name": "老鸭",
-            "type": 1,
-            "api": "https://api.apilyzy.com/api.php/provide/vod/",
-            "searchable": 0,
-            "quickSearch": 0
         },
         
     {
