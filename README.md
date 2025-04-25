@@ -147,7 +147,7 @@
 ## 🤝 支持项目
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/wwb521/live/refs/heads/main/pay.jpeg" width="300px" alt="赞赏码" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin: 20px 0;"/>
+  <img src="https://raw.githubusercontent.com/wwb521/live/refs/heads/main/pay.jpeg" width="300px" alt="赞赏码" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin: 60px 0;"/>
   <p><b>您的支持是我持续更新的动力 ❤️</b></p>
 </div>
 
@@ -156,32 +156,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/wwb521/live/refs/heads/main/lx.png" width="300px" alt="联系方式" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin: 20px 0;"/>
 </div>
-
-## 🌐 VPN推荐
-
-<div style="overflow-x: auto;">
-  <table style="width: 100%; border-collapse: collapse; margin: 20px 0;">
-    <tr style="background-color: #f0f8ff;">
-      <th style="padding: 12px; text-align: center; width: 20%;">服务商</th>
-      <th style="padding: 12px; text-align: center; width: 40%;">链接</th>
-      <th style="padding: 12px; text-align: center; width: 40%;">特点</th>
-    </tr>
-    <tr>
-      <td style="padding: 10px; text-align: center;">免费机场</td>
-      <td style="padding: 10px;"><a href="https://w.免费机场.com/#/register?code=vwm5gImq">注册链接</a></td>
-      <td style="padding: 10px;">新用户免费体验</td>
-    </tr>
-    <tr style="background-color: #f8f9fa;">
-      <td style="padding: 10px; text-align: center;">EMO</td>
-      <td style="padding: 10px;"><a href="https://yyds.emovpn.top/#/register?code=LVXCEsxq">注册链接</a></td>
-      <td style="padding: 10px;">稳定性强</td>
-    </tr>
-    <tr>
-      <td style="padding: 10px; text-align: center;">性价比机场</td>
-      <td style="padding: 10px;"><a href="https://xn--wtq35pfyd55o.com/#/register?code=iRxkxiRM">注册链接</a></td>
-      <td style="padding: 10px;">价格实惠</td>
-    </tr>
-  </table>
 </div>
 
 <hr style="height:2px; border-width:0; background: linear-gradient(to right, #f78ca0, #f9748f, #fd868c, #fe9a8b)">
