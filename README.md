@@ -31,7 +31,7 @@
 
 ### 空壳直播软件
 - [软件合集](https://wwt.lanzouj.com/b00y2bymj) `密码: 7kkf`
-- [GitHub最新版本](https://github.com/lizongying/my-tv-0/releases)
+- [GitHub最新版本](https://github.com/mytv-android/mytv-android/releases)
 
 ## 🤝 支持项目
 
