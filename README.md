@@ -27,8 +27,8 @@
 
 <div style="background-color: #f8f9fa; border-left: 4px solid #007bff; padding: 15px; border-radius: 5px;">
   <h3>🔔 最新通知</h3>
-  <p>直播源检测工具、野草助手分享码搜索工具已经上传至TG群</p>
-  <p align="right"><sub><i>更新时间：2025.2.18</i></sub></p>
+  <p>已有QQ群，没有电报的朋友可以选择QQ群一起交流</p>
+  <p align="right"><sub><i>更新时间：2025.5.20</i></sub></p>
 </div>
 
 ## 📺 直播源
