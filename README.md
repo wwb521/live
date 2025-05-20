@@ -154,7 +154,7 @@
 ## 📞 联系方式
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/wwb521/live/refs/heads/main/lx.png" width="300px" alt="联系方式" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin: 20px 0;"/>
+  <img src="https://raw.githubusercontent.com/wwb521/live/refs/heads/main/lx.png" width="300px" alt="联系方式" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin: 50px 0;"/>
 </div>
 </div>
 
