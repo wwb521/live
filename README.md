@@ -165,7 +165,7 @@
     <sub>Made with ❤️ by <a href="https://github.com/wwb521">wwb521</a></sub>
   </p>
   <p>
-    <sub>Copyright © 2024 All Rights Reserved.</sub>
+    <sub>Copyright © 2025 All Rights Reserved.</sub>
   </p>
 </div>
 
