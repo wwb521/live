@@ -147,7 +147,7 @@
 ## 🤝 支持项目
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/wwb521/live/refs/heads/main/pay.jpeg" width="600px" alt="赞赏码" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin: 20px 0;"/>
+  <img src="https://raw.githubusercontent.com/wwb521/live/refs/heads/main/pay.jpeg" width="500px" alt="赞赏码" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin: 20px 0;"/>
   <p><b>您的支持是我持续更新的动力 ❤️</b></p>
 </div>
 
