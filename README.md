@@ -36,14 +36,14 @@
 ## 🤝 支持项目
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/wwb521/live/refs/heads/main/pay.jpeg" width="300px" alt="赞赏码"/>
+  <img src="https://raw.githubusercontent.com/wwb521/live/refs/heads/main/pay.jpeg" width="500px" alt="赞赏码"/>
   <p>您的支持是我持续更新的动力 ❤️</p>
 </div>
 
 ## 📞 联系方式
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/wwb521/live/refs/heads/main/lx.png" width="300px" alt="联系方式"/>
+  <img src="https://raw.githubusercontent.com/wwb521/live/refs/heads/main/lx.png" width="500px" alt="联系方式"/>
 </div>
 
 ---
