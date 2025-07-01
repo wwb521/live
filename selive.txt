@@ -1,0 +1,12 @@
+Samantha-Claus,https://live-edge-us80-rn.bcvcdn.com/hls/stream_Samantha-Claus/playlist.m3u8
+Molly-Mae,https://live-edge21-rn.bcvcdn.com/hls/stream_-Molly-Mae-/playlist.m3u8
+Pickme,https://live-edge-us66.bcvcdn.com/hls/stream_Pickme-/playlist.m3u8
+RobertaRosetti,https://live-edge71-rn.bcvcdn.com/hls/stream_RobertaRosetti/playlist.m3u8
+Dick_Serena,https://live-edge72-rn.bcvcdn.com/hls/stream_Dispatchercruise/playlist.m3u8
+MollyWilde,https://live-edge5-rn.bcvcdn.com/hls/stream_MollyWilde/playlist.m3u8
+Lovely-Olivia,https://live-edge69-rn.bcvcdn.com/hls/stream_Lovely-Olivia/playlist.m3u8
+arianatattoos,https://live-edge9-rn.bcvcdn.com/hls/stream_arianatattoos/playlist.m3u8
+Serenna,https://live-edge36.bcvcdn.com/hls/stream_Serenna-/playlist.m3u8
+Karollovea,https://live-edge6-rn.bcvcdn.com/hls/stream_Lanamalone/playlist.m3u8
+Couplez,https://live-edge74-rn.bcvcdn.com/hls/stream_Couplez/playlist.m3u8
+alice-rojas,https://hls.vscdns.com/manifest.m3u8?key=3e971bdad25390efc1f69014ebe25813&provider=cdn5&model_id=1421682&variant=720&exclude-variants=1080

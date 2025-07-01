@@ -1363,5 +1363,13 @@
         "cdnjs.hnfenxun.com",
         "cms.qdwght.com"
     ],
-    "logo": "https://raw.github.tax/wwb521/live/main/18.ico"
+    "logo": "https://raw.github.tax/wwb521/live/main/18.ico",
+    "lives": [{
+			"name": "成人直播",
+			"type": 0,
+            "ua": "okhttp/3.15",
+			"url": "https://raw.bgithub.xyz/wwb521/live/refs/heads/main/selive.txt",
+			"playerType": 2
+		}
+	]
 }
