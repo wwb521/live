@@ -1369,29 +1369,6 @@
 			"type": 0,
 			"url": "https://raw.bgithub.xyz/wwb521/live/refs/heads/main/selive.txt",
 			"playerType": 2
-		},
-		{
-			"name": "V4聚合（卡顿请按左┃右键换线）",
-			"type": 0,
-			"url": "https://gh-proxy.net/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u",
-			"playerType": 2,
-			"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-			"logo": "https://epg.v1.mk/logo/{name}.png"
-		},
-		{
-			"name": "牛播一",
-			"type": 0,
-			"url": "http://127.0.0.1:9978/proxy?do=饭太硬&type=liveList",
-			"playerType": 2,
-			"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-			"logo": "https://epg.v1.mk/logo/{name}.png"
-		},
-		{
-			"name": "平台直播",
-			"type": 0,
-			"url": "http://tv.iill.top/m3u/Live",
-			"ua": "okhttp/3.15",
-			"playerType": 2
 		}
 	]
 }
