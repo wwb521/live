@@ -10,8 +10,6 @@ http://183.215.134.239:19901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authi
 #EXTINF:-1 group-title="央视频道",CCTV3
 http://112.27.235.94:8000/hls/3/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV3
-http://221.2.148.205:8154/tsfile/live/0003_1.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV3
 http://183.215.134.239:19901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视频道",CCTV3
 http://61.156.228.12:8154/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -39,8 +37,6 @@ http://120.76.248.139/live/bfgd/4200000065.m3u8
 http://112.27.235.94:8000/hls/7/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV6
 http://221.2.148.205:8154/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路35』
-#EXTINF:-1 group-title="央视频道",CCTV6
-http://113.26.202.52:1299/tsfile/live/0006_1.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV6
 http://61.156.228.12:8154/tsfile/live/0006_1.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV6
@@ -86,8 +82,6 @@ https://cc06.tv12.xyz/13.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV12
 http://60.16.0.216:5757/hls/13/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV13
-http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV13
 http://112.27.235.94:8000/hls/14/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV13
 https://cc06.tv12.xyz/14.m3u8
@@ -97,8 +91,6 @@ http://183.215.134.239:19901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authi
 https://event.pull.hebtv.com/jishi/cp1.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV13
 http://60.16.0.216:5757/hls/14/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV14
-https://event.pull.hebtv.com/jishi/cp2.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV14
 http://112.27.235.94:8000/hls/15/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV14
@@ -111,10 +103,6 @@ http://120.76.248.139/live/bfgd/4200000133.m3u8
 http://112.27.235.94:8000/hls/16/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV17
 http://120.76.248.139/live/bfgd/4200000204.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV20241
-https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
-#EXTINF:-1 group-title="卫视频道",安多卫视
-https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd
 #EXTINF:-1 group-title="卫视频道",安多卫视
 https://liveout.xntv.tv/a65jur/96iln2.m3u8
 #EXTINF:-1 group-title="卫视频道",安徽卫视
@@ -197,8 +185,6 @@ https://cc06.tv12.xyz/53.m3u8
 http://60.16.0.216:5757/hls/33/index.m3u8
 #EXTINF:-1 group-title="卫视频道",湖北卫视
 https://cc06.tv12.xyz/50.m3u8
-#EXTINF:-1 group-title="卫视频道",湖北卫视
-http://112.27.235.94:8000/hls/41/index.m3u8
 #EXTINF:-1 group-title="卫视频道",湖南卫视
 http://120.76.248.139/live/bfgd/4200000086.m3u8
 #EXTINF:-1 group-title="卫视频道",湖南卫视
