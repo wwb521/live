@@ -38,8 +38,6 @@ http://genglei.8866.org:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authi
 #EXTINF:-1 group-title="央视频道",CCTV7
 http://112.27.235.94:8000/hls/8/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV8
-http://zzssw01.55555.io:9901/tsfile/live/0008_1.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV8
 http://124.165.251.82:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视频道",CCTV8
 http://183.215.134.239:19901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -225,5 +223,3 @@ https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?$LR•IPV4『线
 http://183.215.134.239:19901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",浙江卫视
 http://112.27.235.94:8000/hls/29/index.m3u8
-#EXTINF:-1 group-title="卫视频道",浙江卫视
-http://zzssw01.55555.io:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
