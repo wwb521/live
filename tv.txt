@@ -4,7 +4,7 @@ CCTV2,http://112.27.235.94:8000/hls/2/index.m3u8#http://cdn6.bkpcp.top/tl/tuiliu
 CCTV3,http://112.27.235.94:8000/hls/3/index.m3u8#http://183.215.134.239:19901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0#http://61.156.228.12:8154/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0#http://221.2.148.205:8154/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路34』#http://genglei.8866.org:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5,http://112.27.235.94:8000/hls/5/index.m3u8#http://113.26.202.52:1299/tsfile/live/0005_1.m3u8#http://genglei.8866.org:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5+,http://112.27.235.94:8000/hls/6/index.m3u8#http://183.215.134.239:19901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV6,http://112.27.235.94:8000/hls/7/index.m3u8#http://221.2.148.205:8154/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路35』#http://61.156.228.12:8154/tsfile/live/0006_1.m3u8#http://genglei.8866.org:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6,http://112.27.235.94:8000/hls/7/index.m3u8#http://61.156.228.12:8154/tsfile/live/0006_1.m3u8#http://genglei.8866.org:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV7,http://112.27.235.94:8000/hls/8/index.m3u8
 CCTV8,http://124.165.251.82:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0#http://183.215.134.239:19901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0#http://112.27.235.94:8000/hls/9/index.m3u8#http://genglei.8866.org:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV9,http://112.27.235.94:8000/hls/10/index.m3u8#http://60.16.0.216:5757/hls/10/index.m3u8
@@ -18,7 +18,6 @@ CCTV15,http://112.27.235.94:8000/hls/16/index.m3u8
 安多卫视,https://liveout.xntv.tv/a65jur/96iln2.m3u8
 安徽卫视,http://112.27.235.94:8000/hls/26/index.m3u8
 北京卫视,http://112.27.235.94:8000/hls/27/index.m3u8
-兵团卫视,http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8#http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8?mkey=txiptv#http://8.138.7.223/tv/btws.m3u8#http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8?u8key=txiptv#https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 重庆卫视,http://60.16.0.216:5757/hls/36/index.m3u8
 大湾区卫视,http://222.128.55.152:9080/live/dwq.m3u8
 东方卫视,http://183.215.134.239:19901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -31,7 +30,6 @@ CCTV15,http://112.27.235.94:8000/hls/16/index.m3u8
 黑龙江卫视,http://112.27.235.94:8000/hls/48/index.m3u8
 湖北卫视,http://60.16.0.216:5757/hls/33/index.m3u8
 湖南卫视,http://61.163.181.78:85/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0#http://183.215.134.239:19901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0#http://112.27.235.94:8000/hls/31/index.m3u8
-吉林卫视,http://60.16.0.216:5757/hls/44/index.m3u8
 江苏卫视,http://112.27.235.94:8000/hls/32/index.m3u8#http://60.16.0.216:5757/hls/24/index.m3u8
 江西卫视,http://183.215.134.239:19901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 莲花卫视,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8#http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1#https://fenghuang.tv12.xyz/187.m3u8#http://fenghuang.tv12.xyz/187.m3u8
