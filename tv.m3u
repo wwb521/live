@@ -30,8 +30,6 @@ http://183.215.134.239:19901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authi
 #EXTINF:-1 group-title="央视频道",CCTV6
 http://112.27.235.94:8000/hls/7/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV6
-http://221.2.148.205:8154/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路35』
-#EXTINF:-1 group-title="央视频道",CCTV6
 http://61.156.228.12:8154/tsfile/live/0006_1.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV6
 http://genglei.8866.org:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -81,16 +79,6 @@ https://liveout.xntv.tv/a65jur/96iln2.m3u8
 http://112.27.235.94:8000/hls/26/index.m3u8
 #EXTINF:-1 group-title="卫视频道",北京卫视
 http://112.27.235.94:8000/hls/27/index.m3u8
-#EXTINF:-1 group-title="卫视频道",兵团卫视
-http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
-#EXTINF:-1 group-title="卫视频道",兵团卫视
-http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8?mkey=txiptv
-#EXTINF:-1 group-title="卫视频道",兵团卫视
-http://8.138.7.223/tv/btws.m3u8
-#EXTINF:-1 group-title="卫视频道",兵团卫视
-http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8?u8key=txiptv
-#EXTINF:-1 group-title="卫视频道",兵团卫视
-https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 #EXTINF:-1 group-title="卫视频道",重庆卫视
 http://60.16.0.216:5757/hls/36/index.m3u8
 #EXTINF:-1 group-title="卫视频道",大湾区卫视
@@ -127,8 +115,6 @@ http://61.163.181.78:85/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
 http://183.215.134.239:19901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",湖南卫视
 http://112.27.235.94:8000/hls/31/index.m3u8
-#EXTINF:-1 group-title="卫视频道",吉林卫视
-http://60.16.0.216:5757/hls/44/index.m3u8
 #EXTINF:-1 group-title="卫视频道",江苏卫视
 http://112.27.235.94:8000/hls/32/index.m3u8
 #EXTINF:-1 group-title="卫视频道",江苏卫视
