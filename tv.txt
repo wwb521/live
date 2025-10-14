@@ -31,14 +31,13 @@ CCTV15,http://112.27.235.94:8000/hls/16/index.m3u8
 湖南卫视,http://61.163.181.78:85/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0#http://183.215.134.239:19901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0#http://112.27.235.94:8000/hls/31/index.m3u8
 江苏卫视,http://112.27.235.94:8000/hls/32/index.m3u8#http://60.16.0.216:5757/hls/24/index.m3u8
 江西卫视,http://183.215.134.239:19901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-莲花卫视,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8#http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1#https://fenghuang.tv12.xyz/187.m3u8#http://fenghuang.tv12.xyz/187.m3u8
+莲花卫视,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
 辽宁卫视,http://60.16.0.216:5757/hls/32/index.m3u8
 内蒙古蒙语卫视,http://play1-qk.nmtv.cn/live/1686560387346365.m3u8
 内蒙古卫视,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8$LR•IPV4『线路27』#http://60.16.0.216:5757/hls/41/index.m3u8
-青海卫视,http://60.16.0.216:5757/hls/43/index.m3u8
 山东卫视,http://112.27.235.94:8000/hls/34/index.m3u8
 山西卫视,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8#http://60.16.0.216:5757/hls/39/index.m3u8
-陕西卫视,http://60.16.0.216:5757/hls/40/index.m3u8#http://112.27.235.94:8000/hls/43/index.m3u8
+陕西卫视,http://112.27.235.94:8000/hls/43/index.m3u8
 上海卫视,http://112.27.235.94:8000/hls/28/index.m3u8#http://genglei.8866.org:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://112.27.235.94:8000/hls/33/index.m3u8#http://183.215.134.239:19901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0#http://113.26.202.52:1299/tsfile/live/0126_1.m3u8
 四川卫视,http://112.27.235.94:8000/hls/35/index.m3u8#http://60.16.0.216:5757/hls/30/index.m3u8
